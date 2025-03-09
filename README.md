@@ -43,12 +43,6 @@ Our architecture integrates multiple AWS services:
 - **A Postman API collection or lightweight UI** for testing and demonstrations.
 
 ## 4. Setup Instructions
-### **Week 1: Requirement Gathering & AWS Setup**
-1. **Create an AWS account** (if not already done) and configure billing alerts.
-2. **Set up IAM Roles & Permissions**:
-   - Attach `AmazonS3FullAccess`, `AmazonTextractFullAccess`, and `AmazonSageMakerFullAccess` to an IAM role.
-3. **Download CUAD Dataset** from [Hugging Face](https://huggingface.co/datasets/theatticusproject/cuad-qa).
-4. **Research Existing Solutions** such as Amazon Bedrock, OpenAI’s GPT, and Haystack.
 
 ### **Week 2: S3 Storage & Textract Integration**
 1. **Create an S3 bucket** (`legal-document-storage`).
@@ -78,10 +72,6 @@ Our architecture integrates multiple AWS services:
 - Automatic processing of new uploads in S3 via AWS Lambda.
 - Query processing with LLMs to retrieve relevant contract clauses.
 
-## 7. Future Enhancements
-- Implement **FAISS vector search** for improved retrieval efficiency.
-- Fine-tune LLMs specifically for legal queries.
-- Develop a **frontend UI** for better user experience.
 
 ---
 This project aims to enhance document retrieval efficiency using LLMs and AWS services, focusing on legal and compliance queries with measurable improvements in retrieval accuracy and latency. A Postman API collection or lightweight UI will be provided for testing and demonstration, ensuring accessibility and usability.
