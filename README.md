@@ -1,8 +1,8 @@
 # RAG-with-AWS
 
-# Real-Time Document Q&A with LLMs on AWS
+## Real-Time Document Q&A with LLMs on AWS
 
-## Team Members
+### Team Members
 - **Dua e Sameen** (ds07138)
 - **Muhammad Tahir Ghazi** (mg07593)
 - **Simal Anjum** (sa07716)
@@ -28,7 +28,7 @@ Our architecture integrates multiple AWS services:
 
 ### **Embeddings and Vector Database**
 - **Amazon SageMaker:** Converts extracted text into embeddings using pre-trained models.
-- **FAISS (Facebook AI Similarity Search):** A vector database enabling efficient similarity searches.
+- **FAISS (Facebook AI Similarity Search):** A vector database enabling efficient similarity searches, stored in S3.
 
 ### **LLM Integration and Query Processing**
 - **Large Language Model (LLM):** Processes user queries and generates responses.
@@ -42,36 +42,51 @@ Our architecture integrates multiple AWS services:
 - **Local FAISS or ChromaDB** instead of Pinecone.
 - **A Postman API collection or lightweight UI** for testing and demonstrations.
 
-## 4. Setup Instructions
-
-### **Week 2: S3 Storage & Textract Integration**
+## 4. AWS Resources Setup
+### **S3 Test**
 1. **Create an S3 bucket** (`legal-document-storage`).
 2. **Upload sample legal documents (PDFs) to S3.**
-3. **Integrate Amazon Textract** to extract text from PDFs using Boto3.
-4. **Automate Textract with AWS Lambda** so that text extraction runs when new documents are uploaded.
+3. **Verify storage and retrieval operations using Boto3.**
+
+### **Textract Test**
+1. **Run Textract on stored PDFs.**
+2. **Extract text and validate accuracy.**
+3. **Automate extraction using AWS Lambda.**
+
+### **Model Loading**
+1. **Deploy embedding models via SageMaker.**
+2. **Convert text data into embeddings for similarity search.**
+
+### **FAISS Index in S3**
+1. **Store FAISS index in S3 for persistence.**
+2. **Load and update the index dynamically for real-time searches.**
+
+### **Deploying API**
+1. **Deploy query processing API using AWS Lambda and API Gateway.**
+2. **Integrate with front-end/UI for user-friendly interactions.**
 
 ## 5. How to Run the Project
+### **Run on Jupyter Notebook or Google Colab**
 1. **Clone the repository** and install dependencies:
    ```sh
-   git clone https://github.com/SimalAnjum/RAG-with-AWS.git
-   cd RAG-WITH-AWS
-   pip install boto3
+   !git clone https://github.com/SimalAnjum/RAG-with-AWS.git
+   %cd RAG-with-AWS
+   !pip install boto3 faiss-cpu datasets sentence-transformers
    ```
 2. **Set up AWS credentials**:
-   ```sh
-   aws configure
+   ```python
+   import boto3
+   session = boto3.Session(
+       aws_access_key_id='YOUR_ACCESS_KEY',
+       aws_secret_access_key='YOUR_SECRET_KEY',
+       region_name='YOUR_REGION'
+   )
    ```
-3. **Run the text extraction script**:
-   ```sh
-   python extract_text.py
-   ```
-4. **Deploy AWS Lambda function** using AWS Console or Terraform.
 
 ## 6. Expected Output
 - Extracted text from documents stored in JSON format.
 - Automatic processing of new uploads in S3 via AWS Lambda.
 - Query processing with LLMs to retrieve relevant contract clauses.
-
 
 ---
 This project aims to enhance document retrieval efficiency using LLMs and AWS services, focusing on legal and compliance queries with measurable improvements in retrieval accuracy and latency. A Postman API collection or lightweight UI will be provided for testing and demonstration, ensuring accessibility and usability.
