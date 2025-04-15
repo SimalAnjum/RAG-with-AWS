@@ -1,0 +1,171 @@
+{
+  "qa_pairs": [
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Document Name\" that should be reviewed by a lawyer. Details: The name of the contract",
+      "answer": "PRODUCT SALE AND MARKETING AGREEMENT"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Parties\" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract",
+      "answer": "Calm"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Agreement Date\" that should be reviewed by a lawyer. Details: The date of the contract",
+      "answer": "12th day of November, 2018"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Effective Date\" that should be reviewed by a lawyer. Details: The date when the contract is effective\u00a0",
+      "answer": "12th day of November, 2018"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Expiration Date\" that should be reviewed by a lawyer. Details: On what date will the contract's initial term expire?",
+      "answer": "Unless this Agreement is terminated earlier in accordance with the terms of Section \u200b12, the term of this Agreement shall commence on the Effective Date and shall continue until July 31, 2019 (the \"Initial Term\")."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Renewal Term\" that should be reviewed by a lawyer. Details: What is the renewal term after the initial term expires? This includes automatic extensions and unilateral extensions with prior notice.",
+      "answer": "Following the Initial Term, this Agreement shall automatically renew for successive terms of six (6) months (each a \"Renewal Term\", and together with the Initial Term, the \"Term\") unless written notice is given by either Party no later than thirty (30) days in advance of the expiration of the Initial Term or the applicable Renewal Term."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Notice Period To Terminate Renewal\" that should be reviewed by a lawyer. Details: What is the notice period required to terminate renewal?",
+      "answer": "Following the Initial Term, this Agreement shall automatically renew for successive terms of six (6) months (each a \"Renewal Term\", and together with the Initial Term, the \"Term\") unless written notice is given by either Party no later than thirty (30) days in advance of the expiration of the Initial Term or the applicable Renewal Term."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Governing Law\" that should be reviewed by a lawyer. Details: Which state/country's law governs the interpretation of the contract?",
+      "answer": "This Agreement shall be governed by, and construed in accordance with the law of the State of New York."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Most Favored Nation\" that should be reviewed by a lawyer. Details: Is there a clause that if a third party gets better terms on the licensing or sale of technology/goods/services described in the contract, the buyer of such technology/goods/services under the contract shall be entitled to those better terms?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Non-Compete\" that should be reviewed by a lawyer. Details: Is there a restriction on the ability of a party to compete with the counterparty or operate in a certain geography or business or technology sector?\u00a0",
+      "answer": "Throughout the Term and for a period of six (6) months after the expiration or termination of this Agreement, neither Calm nor any of its affiliates shall, directly or indirectly, sell, offer for sale, market or promote any digital meditation or digital sleep products in any retail location located in an airport other than in collaboration with XSPA, without the express prior written consent of XSPA."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Exclusivity\" that should be reviewed by a lawyer. Details: Is there an exclusive dealing\u00a0 commitment with the counterparty? This includes a commitment to procure all \u201crequirements\u201d from one party of certain technology, goods, or services or a prohibition on licensing or selling technology, goods or services to third parties, or a prohibition on\u00a0 collaborating or working with other parties), whether during the contract or\u00a0 after the contract ends (or both).",
+      "answer": "Throughout the Term and for a period of six (6) months after the expiration or termination of this Agreement, neither Calm nor any of its affiliates shall, directly or indirectly, sell, offer for sale, market or promote any digital meditation or digital sleep products in any retail location located in an airport other than in collaboration with XSPA, without the express prior written consent of XSPA."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Customers\" that should be reviewed by a lawyer. Details: Is a party restricted from contracting or soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both)?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Competitive Restriction Exception\" that should be reviewed by a lawyer. Details: This category includes the exceptions or carveouts to Non-Compete, Exclusivity and No-Solicit of Customers above.",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Employees\" that should be reviewed by a lawyer. Details: Is there a restriction on a party\u2019s soliciting or hiring employees and/or contractors from the\u00a0 counterparty, whether during the contract or after the contract ends (or both)?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Non-Disparagement\" that should be reviewed by a lawyer. Details: Is there a requirement on a party not to disparage the counterparty?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Termination For Convenience\" that should be reviewed by a lawyer. Details: Can a party terminate this\u00a0 contract without cause (solely by giving a notice and allowing a waiting\u00a0 period to expire)?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Rofr/Rofo/Rofn\" that should be reviewed by a lawyer. Details: Is there a clause granting one party a right of first refusal, right of first offer or right of first negotiation to purchase, license, market, or distribute equity interest, technology, assets, products or services?",
+      "answer": "If Calm does not exercise its ROFR within the ROFR Period, XSPA may enter into such agreement or arrangement with respect to the applicable region and/or Stores set forth in the ROFR Notice with any third party; provided that, such agreement or arrangement are on the same terms offered to Calm (it being understood that in the event XSPA modifies such terms, XSPA shall provide a new ROFR Notice to Calm in accordance with this Section \u200b3.02)."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Change Of Control\" that should be reviewed by a lawyer. Details: Does one party have the right to terminate or is consent or notice required of the counterparty if such party undergoes a change of control, such as a merger, stock sale, transfer of all or substantially all of its assets or business, or assignment by operation of law?",
+      "answer": "Subject to the foregoing, this Agreement shall be binding upon and inure to the benefit of the Parties hereto and their respective permitted successors and assigns; provided, however, Calm may, without the prior written consent of XSPA, assign or otherwise transfer its rights and obligations to an affiliate of Calm or the acquirer of all or substantially all of the assets of Calm; provided, however, that the prior written consent of XSPA shall be required in connection with the assignment to an acquirer of all or substantially all of the assets of Calm if such acquirer's primary business is an airport-based provider of spa services."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Anti-Assignment\" that should be reviewed by a lawyer. Details: Is consent or notice required of a party if the contract is assigned to a third party?",
+      "answer": "Neither Party shall assign or transfer this Agreement or its rights hereunder without first obtaining the consent of the other, in writing, which consent shall not unreasonably be withheld or delayed."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Revenue/Profit Sharing\" that should be reviewed by a lawyer. Details: Is one party required to share revenue or profit with the counterparty for any technology, goods, or\u00a0services?",
+      "answer": "XSPA shall pay to Calm on a monthly basis an amount equal to (i) fifty percent (50%) of the Retail Price for all Products sold in the Stores in the Territory during the applicable month minus (ii) fifty percent (50%) of any commission actually paid or payable to XSPA employee(s) or contractor(s) attributable to sales of such Products during such month; provided that in no event shall such commission be greater than fifteen percent (15%) of the Retail Price for the applicable Product."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Price Restrictions\" that should be reviewed by a lawyer. Details: Is there a restriction on the\u00a0 ability of a party to raise or reduce prices of technology, goods, or\u00a0 services provided?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Minimum Commitment\" that should be reviewed by a lawyer. Details: Is there a minimum order size or minimum amount or units per-time period that one party must buy from the counterparty under the contract?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Volume Restriction\" that should be reviewed by a lawyer. Details: Is there a fee increase or consent requirement, etc. if one party\u2019s use of the product/services exceeds certain threshold?",
+      "answer": "In addition to the Products, Calm shall have the right to identify up to five (5) additional products, with such products and the price thereof to be mutually agreed by the Parties, to be displayed, marketed, promoted, offered for sale and sold in the Stores in the Territory."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Ip Ownership Assignment\" that should be reviewed by a lawyer. Details: Does intellectual property created\u00a0 by one party become the property of the counterparty, either per the terms of the contract or upon the occurrence of certain events?",
+      "answer": "If any Product Collateral IP (or any aspect thereof) are not designed and/or created by Calm, such Product Collateral IP (or aspect thereof) shall be deemed \"works made for hire\" for Calm within the meaning of the U.S. Copyright Law and/or other applicable comparable laws or, if they do not so qualify, all ownership rights thereto shall be, and are hereby, assigned to Calm."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Joint Ip Ownership\" that should be reviewed by a lawyer. Details: Is there any clause providing for joint or shared ownership of intellectual property between the parties to the contract?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"License Grant\" that should be reviewed by a lawyer. Details: Does the contract contain a license granted by one party to its counterparty?",
+      "answer": "Subject to the terms and conditions of this Agreement, XSPA hereby grants to Calm, solely during the Term and in the Territory, a revocable (as set forth in \u200bSection \u200b\u200b12.04), royalty-free, assignable (solely as set forth in Section \u200b16.05), non-sublicensable (except as set forth in Section \u200b9.03), non-exclusive license to use the marks set forth on Exhibit E (\"XSPA's Marks\", and together with Calm's Marks, the \"Marks\"), solely to the extent necessary for Calm to exercise its rights or perform its obligations set forth in this Agreement."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Non-Transferable License\" that should be reviewed by a lawyer. Details: Does the contract limit the ability of a party to transfer the license being granted to a third party?",
+      "answer": "Subject to the terms and conditions of this Agreement, XSPA hereby grants to Calm, solely during the Term and in the Territory, a revocable (as set forth in \u200bSection \u200b\u200b12.04), royalty-free, assignable (solely as set forth in Section \u200b16.05), non-sublicensable (except as set forth in Section \u200b9.03), non-exclusive license to use the marks set forth on Exhibit E (\"XSPA's Marks\", and together with Calm's Marks, the \"Marks\"), solely to the extent necessary for Calm to exercise its rights or perform its obligations set forth in this Agreement."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensor\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor?\u00a0",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensee\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Unlimited/All-You-Can-Eat-License\" that should be reviewed by a lawyer. Details: Is there a clause granting one party an \u201centerprise,\u201d \u201call you can eat\u201d or unlimited usage license?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Irrevocable Or Perpetual License\" that should be reviewed by a lawyer. Details: Does the contract contain a\u00a0 license grant that is irrevocable or perpetual?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Source Code Escrow\" that should be reviewed by a lawyer. Details: Is one party required to deposit its source code into escrow with a third party, which can be released to the counterparty upon the occurrence of certain events (bankruptcy,\u00a0 insolvency, etc.)?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Post-Termination Services\" that should be reviewed by a lawyer. Details: Is a party subject to obligations after the termination or expiration of a contract, including any post-termination transition, payment, transfer of IP, wind-down, last-buy, or similar commitments?",
+      "answer": "In addition, if Calm does not provide XSPA with instructions within twenty (20) days of the termination or expiration of this Agreement, XSPA shall be permitted to dispose of any inventory of any and all Product Collateral then on hand at each Store."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Audit Rights\" that should be reviewed by a lawyer. Details: Does a party have the right to\u00a0 audit the books, records, or physical locations of the counterparty to ensure compliance with the contract?",
+      "answer": "Upon termination or expiration of this Agreement, Calm (at its sole expense) may engage a third party to audit XSPA's inventory of any and all Product Collateral then on hand at each Store and XSPA shall promptly return or dispose of such inventory as instructed by Calm at Calm's sole expense."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Uncapped Liability\" that should be reviewed by a lawyer. Details: Is a party\u2019s liability uncapped upon the breach of its obligation in the contract? This also includes uncap liability for a particular type of breach such as IP infringement or breach of confidentiality obligation.",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Cap On Liability\" that should be reviewed by a lawyer. Details: Does the contract include a cap on liability upon the breach of a party\u2019s obligation? This includes time limitation for the counterparty to bring claims or maximum amount for recovery.",
+      "answer": "EXCEPT WITH RESPECT TO EACH PARTY'S INDEMNIFICATION OBLIGATIONS UNDER THIS AGREEMENT, (A) UNDER NO CIRCUMSTANCE AND UNDER NO LEGAL THEORY (TORT, CONTRACT, OR OTHERWISE), SHALL EITHER PARTY BE LIABLE TO THE OTHER PARTY FOR ANY LOST PROFITS, LOSS OF OPPORTUNITY OR OTHER SPECIAL, PUNITIVE, INDIRECT, OR CONSEQUENTIAL DAMAGES SUFFERED BY THE OTHER PARTY ARISING IN CONNECTION WITH THIS AGREEMENT; AND (B) THE MAXIMUM LIABILITY OF EACH PARTY IN ANY WAY RELATED TO THIS AGREEMENT SHALL NOT EXCEED $2,000,000.00 (EXCLUDING ANY AMOUNTS DUE AND PAYABLE PURSUANT TO SECTION \u200b8 HEREUNDER)."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Liquidated Damages\" that should be reviewed by a lawyer. Details: Does the contract contain a clause that would award either party liquidated damages for breach or a fee upon the termination of a contract (termination fee)?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Warranty Duration\" that should be reviewed by a lawyer. Details: What is the duration of any\u00a0 warranty against defects or errors in technology, products, or services\u00a0 provided under the contract?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Insurance\" that should be reviewed by a lawyer. Details: Is there a requirement for insurance that must be maintained by one party for the benefit of the counterparty?",
+      "answer": "With respect to the foregoing, XSPA shall provide to Calm certificate(s) evidencing such insurance prior to or upon execution of this Agreement."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Covenant Not To Sue\" that should be reviewed by a lawyer. Details: Is a party restricted from contesting the validity of the counterparty\u2019s ownership of intellectual property or otherwise bringing a claim against the counterparty for matters unrelated to the contract?",
+      "answer": "Neither Party shall do or cause to be done any act or thing that may in any way adversely affect any rights of the other Party in and to such other Party's Marks or any registrations thereof or that, directly or indirectly, may reduce the value of such Marks or detract from any Mark's reputation, including challenging the ownership, validity or enforceability of such Marks."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Third Party Beneficiary\" that should be reviewed by a lawyer. Details: Is there a non-contracting party who is a beneficiary to some or all of the clauses in the contract and therefore can enforce its rights against a contracting party?",
+      "answer": ""
+    }
+  ],
+  "title": "XpresspaGroupInc_20190401_10-K_EX-10.28_11599457_EX-10.28_Marketing Agreement",
+  "document_id": "XpresspaGroupInc_20190401_10-K_EX-10.28_11599457_EX-10.28_Marketing Agreement",
+  "source": "CUAD"
+}

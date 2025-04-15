@@ -1,0 +1,171 @@
+{
+  "qa_pairs": [
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Document Name\" that should be reviewed by a lawyer. Details: The name of the contract",
+      "answer": "Master Development and Manufacturing Agreement"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Parties\" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract",
+      "answer": "Magenta"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Agreement Date\" that should be reviewed by a lawyer. Details: The date of the contract",
+      "answer": "February 13, 2018"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Effective Date\" that should be reviewed by a lawyer. Details: The date when the contract is effective\u00a0",
+      "answer": "February 13, 2018"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Expiration Date\" that should be reviewed by a lawyer. Details: On what date will the contract's initial term expire?",
+      "answer": "This Agreement shall commence on the Effective Date and shall extend for a period of Five (5) years thereafter (\"Initial Term\"), unless this Agreement is terminated earlier as provided herein or is extended by mutual written agreement of the Parties."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Renewal Term\" that should be reviewed by a lawyer. Details: What is the renewal term after the initial term expires? This includes automatic extensions and unilateral extensions with prior notice.",
+      "answer": "This Agreement may be renewed for additional periods of one (1) year (each such additional period, a \"Renewal Term\") unless either Party provides notice of nonrenewal upon not less than [***] prior written notice to the other Party."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Notice Period To Terminate Renewal\" that should be reviewed by a lawyer. Details: What is the notice period required to terminate renewal?",
+      "answer": "This Agreement may be renewed for additional periods of one (1) year (each such additional period, a \"Renewal Term\") unless either Party provides notice of nonrenewal upon not less than [***] prior written notice to the other Party."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Governing Law\" that should be reviewed by a lawyer. Details: Which state/country's law governs the interpretation of the contract?",
+      "answer": "This Agreement will be construed and interpreted and its performance governed by the laws of the State of New York, without giving effect to its conflict of laws principles."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Most Favored Nation\" that should be reviewed by a lawyer. Details: Is there a clause that if a third party gets better terms on the licensing or sale of technology/goods/services described in the contract, the buyer of such technology/goods/services under the contract shall be entitled to those better terms?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Non-Compete\" that should be reviewed by a lawyer. Details: Is there a restriction on the ability of a party to compete with the counterparty or operate in a certain geography or business or technology sector?\u00a0",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Exclusivity\" that should be reviewed by a lawyer. Details: Is there an exclusive dealing\u00a0 commitment with the counterparty? This includes a commitment to procure all \u201crequirements\u201d from one party of certain technology, goods, or services or a prohibition on licensing or selling technology, goods or services to third parties, or a prohibition on\u00a0 collaborating or working with other parties), whether during the contract or\u00a0 after the contract ends (or both).",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Customers\" that should be reviewed by a lawyer. Details: Is a party restricted from contracting or soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both)?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Competitive Restriction Exception\" that should be reviewed by a lawyer. Details: This category includes the exceptions or carveouts to Non-Compete, Exclusivity and No-Solicit of Customers above.",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Employees\" that should be reviewed by a lawyer. Details: Is there a restriction on a party\u2019s soliciting or hiring employees and/or contractors from the\u00a0 counterparty, whether during the contract or after the contract ends (or both)?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Non-Disparagement\" that should be reviewed by a lawyer. Details: Is there a requirement on a party not to disparage the counterparty?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Termination For Convenience\" that should be reviewed by a lawyer. Details: Can a party terminate this\u00a0 contract without cause (solely by giving a notice and allowing a waiting\u00a0 period to expire)?",
+      "answer": "This Agreement or any Project Plan may be terminated:\n\n(a) by Magenta for any reason upon [***] written notice to Bachem;"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Rofr/Rofo/Rofn\" that should be reviewed by a lawyer. Details: Is there a clause granting one party a right of first refusal, right of first offer or right of first negotiation to purchase, license, market, or distribute equity interest, technology, assets, products or services?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Change Of Control\" that should be reviewed by a lawyer. Details: Does one party have the right to terminate or is consent or notice required of the counterparty if such party undergoes a change of control, such as a merger, stock sale, transfer of all or substantially all of its assets or business, or assignment by operation of law?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Anti-Assignment\" that should be reviewed by a lawyer. Details: Is consent or notice required of a party if the contract is assigned to a third party?",
+      "answer": "Bachem shall not assign, subcontract or delegate any of its rights or obligations under this Agreement without the express prior written authorization of Magenta, provided however, that Bachem may subcontract its rights and obligations hereunder to those subcontractors identified and agreed to by the Parties in the Quality Agreement."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Revenue/Profit Sharing\" that should be reviewed by a lawyer. Details: Is one party required to share revenue or profit with the counterparty for any technology, goods, or\u00a0services?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Price Restrictions\" that should be reviewed by a lawyer. Details: Is there a restriction on the\u00a0 ability of a party to raise or reduce prices of technology, goods, or\u00a0 services provided?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Minimum Commitment\" that should be reviewed by a lawyer. Details: Is there a minimum order size or minimum amount or units per-time period that one party must buy from the counterparty under the contract?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Volume Restriction\" that should be reviewed by a lawyer. Details: Is there a fee increase or consent requirement, etc. if one party\u2019s use of the product/services exceeds certain threshold?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Ip Ownership Assignment\" that should be reviewed by a lawyer. Details: Does intellectual property created\u00a0 by one party become the property of the counterparty, either per the terms of the contract or upon the occurrence of certain events?",
+      "answer": "Any invention (whether patentable or not), discoveries, improvements, works-of-authorship or other intellectual property made, conceived or reduced to practice by Bachem in connection with its performance under this Agreement or any Project Plan, which expressly excludes Bachem Intellectual Property (\"Magenta Developed Intellectual Property\"), shall be exclusively owned by Magenta."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Joint Ip Ownership\" that should be reviewed by a lawyer. Details: Is there any clause providing for joint or shared ownership of intellectual property between the parties to the contract?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"License Grant\" that should be reviewed by a lawyer. Details: Does the contract contain a license granted by one party to its counterparty?",
+      "answer": "deliverable (including Magenta Developed Intellectual Property (including Product)) or is otherwise necessary to fully exploit such deliverable, Bachem hereby grants to Magenta a perpetual, irrevocable, nonexclusive, worldwide, paid up, royalty-free license under such Bachem Intellectual Property (with the full right to sublicense directly or indirectly through multiple tiers) to (i) copy, distribute, display, perform and create derivative works of the Bachem Intellectual Property, in whole or in part; and (ii) to use Bachem Intellectual Property and/or practice the subject matter thereof, in each case solely in connection with manufacturing, marketing, promoting, using, selling, offering for sale, importing or distributing such deliverable (e.g., Product)."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Non-Transferable License\" that should be reviewed by a lawyer. Details: Does the contract limit the ability of a party to transfer the license being granted to a third party?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensor\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor?\u00a0",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensee\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Unlimited/All-You-Can-Eat-License\" that should be reviewed by a lawyer. Details: Is there a clause granting one party an \u201centerprise,\u201d \u201call you can eat\u201d or unlimited usage license?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Irrevocable Or Perpetual License\" that should be reviewed by a lawyer. Details: Does the contract contain a\u00a0 license grant that is irrevocable or perpetual?",
+      "answer": "deliverable (including Magenta Developed Intellectual Property (including Product)) or is otherwise necessary to fully exploit such deliverable, Bachem hereby grants to Magenta a perpetual, irrevocable, nonexclusive, worldwide, paid up, royalty-free license under such Bachem Intellectual Property (with the full right to sublicense directly or indirectly through multiple tiers) to (i) copy, distribute, display, perform and create derivative works of the Bachem Intellectual Property, in whole or in part; and (ii) to use Bachem Intellectual Property and/or practice the subject matter thereof, in each case solely in connection with manufacturing, marketing, promoting, using, selling, offering for sale, importing or distributing such deliverable (e.g., Product). Without limiting the foregoing, Magenta may use and disclose Bachem Intellectual Property to the extent necessary in"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Source Code Escrow\" that should be reviewed by a lawyer. Details: Is one party required to deposit its source code into escrow with a third party, which can be released to the counterparty upon the occurrence of certain events (bankruptcy,\u00a0 insolvency, etc.)?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Post-Termination Services\" that should be reviewed by a lawyer. Details: Is a party subject to obligations after the termination or expiration of a contract, including any post-termination transition, payment, transfer of IP, wind-down, last-buy, or similar commitments?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Audit Rights\" that should be reviewed by a lawyer. Details: Does a party have the right to\u00a0 audit the books, records, or physical locations of the counterparty to ensure compliance with the contract?",
+      "answer": "Such audits may be conducted upon reasonable notice during the term of this Agreement and for [***] thereafter."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Uncapped Liability\" that should be reviewed by a lawyer. Details: Is a party\u2019s liability uncapped upon the breach of its obligation in the contract? This also includes uncap liability for a particular type of breach such as IP infringement or breach of confidentiality obligation.",
+      "answer": "NOTWITHSTANDING THE FOREGOING, THESE LIMITATIONS SHALL NOT APPLY TO DAMAGES ARISING FROM A PARTY'S (I) INDEMNIFICATION OBLIGATIONS UNDER SECTION 11.1 OR SECTION 11.2 HEREOF, (II) GROSS NEGLIGENCE OR WILFUL MISCONDUCT, (III) BREACH OF ITS OBLIGATIONS UNDER SECTION 9 OR (IV) INFRINGEMENT OR MISAPPROPRIATION OF THE OTHER PARTY'S INTELLECTUAL PROPERTY."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Cap On Liability\" that should be reviewed by a lawyer. Details: Does the contract include a cap on liability upon the breach of a party\u2019s obligation? This includes time limitation for the counterparty to bring claims or maximum amount for recovery.",
+      "answer": "CONFIDENTIAL TREATMENT REQUESTED. INFORMATION FOR WHICH CONFIDENTIAL TREATMENT HAS BEEN REQUESTED IS OMITTED AND MARKED WITH \"[***]\". AN UNREDACTED VERSION OF THE DOCUMENT HAS ALSO BEEN FURNISHED SEPARATELY TO THE SECURITIES AND EXCHANGE COMMISSION AS REQUIRED BY RULE 406 UNDER THE SECURITIES ACT OF 1933, AS AMENDED. CONTRACT LAW, TORTS OR ANY OTHER AREA OF LAW SHALL BE LIMITED TO THE AMOUNT [***]."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Liquidated Damages\" that should be reviewed by a lawyer. Details: Does the contract contain a clause that would award either party liquidated damages for breach or a fee upon the termination of a contract (termination fee)?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Warranty Duration\" that should be reviewed by a lawyer. Details: What is the duration of any\u00a0 warranty against defects or errors in technology, products, or services\u00a0 provided under the contract?",
+      "answer": "In the event that Magenta does not inform Bachem within the [***] period that the Product does not meet the Specifications, Magenta shall be deemed to have accepted the Product."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Insurance\" that should be reviewed by a lawyer. Details: Is there a requirement for insurance that must be maintained by one party for the benefit of the counterparty?",
+      "answer": "Bachem shall provide, and shall cause its Affiliates and sublicensees who perform activities in connection with the manufacture of Product to provide, to Magenta, upon its reasonable request, a statement of coverages, amounts of insurance, and deductibles, and a copy of all policies including clauses within the policies that the insurance company has a duty to defend and indemnify."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Covenant Not To Sue\" that should be reviewed by a lawyer. Details: Is a party restricted from contesting the validity of the counterparty\u2019s ownership of intellectual property or otherwise bringing a claim against the counterparty for matters unrelated to the contract?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Third Party Beneficiary\" that should be reviewed by a lawyer. Details: Is there a non-contracting party who is a beneficiary to some or all of the clauses in the contract and therefore can enforce its rights against a contracting party?",
+      "answer": ""
+    }
+  ],
+  "title": "Magenta Therapeutics, Inc. - Master Development and Manufacturing Agreement",
+  "document_id": "Magenta Therapeutics, Inc. - Master Development and Manufacturing Agreement",
+  "source": "CUAD"
+}

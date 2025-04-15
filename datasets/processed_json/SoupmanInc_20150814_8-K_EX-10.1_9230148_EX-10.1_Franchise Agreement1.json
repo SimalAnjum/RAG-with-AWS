@@ -1,0 +1,171 @@
+{
+  "qa_pairs": [
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Document Name\" that should be reviewed by a lawyer. Details: The name of the contract",
+      "answer": "MASTER FRANCHISE AGREEMENT"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Parties\" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract",
+      "answer": "us"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Agreement Date\" that should be reviewed by a lawyer. Details: The date of the contract",
+      "answer": "_____ day of __________________, 2015"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Effective Date\" that should be reviewed by a lawyer. Details: The date when the contract is effective\u00a0",
+      "answer": "_____ day of __________________, 2015"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Expiration Date\" that should be reviewed by a lawyer. Details: On what date will the contract's initial term expire?",
+      "answer": "The initial term of this Agreement shall commence upon the Effective Date and shall expire ten (10) years from the Effective Date, unless sooner terminated under the terms of this Agreement."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Renewal Term\" that should be reviewed by a lawyer. Details: What is the renewal term after the initial term expires? This includes automatic extensions and unilateral extensions with prior notice.",
+      "answer": "You shall have the option to renew the term of this Agreement, on the terms and conditions set forth in this Agreement, for four (4) additional ten (10) year terms, upon written notice given by you to us not less than six (6) months nor more than twelve (12) months prior to the scheduled expiration date of the term then in effect, provided that each of the following conditions are satisfied:   3.2.1 You shall not be in default of any provision of this Agreement, or any other agreement between you and us or our affiliates, or any standards set forth in the Manuals, and you shall have complied with all the terms and conditions of this Agreement, the Manuals and any other agreements during the term of this Agreement.   3.2.2 You shall have satisfied all monetary obligations owed by you to us and our affiliates, and shall have timely met those obligations throughout the term of this Agreement.   3.2.3 You shall, at our option, execute our then-current form of Master Franchise Agreement and any addenda thereto for the renewal term, which renewal agreement shall supersede this Agreement in all respects, and the terms of which, including, without limitation, continuing fees payable to us, may differ materially and be less advantageous to you than the terms of this Agreement.   3.2.4 You shall comply with our then-current qualification and training requirements.   3.2.5 You shall pay us a renewal fee in the sum of Ten Thousand Dollars ($10,000) for the right to renew this Agreement.   3.2.6 You shall execute a general release, in a form prescribed by us, of any and all claims which you may have or believe to have against us and/or our affiliates and our respective officers, directors, agents and employees, whether the claims are known or unknown, which are based on, arise from or relate to this Agreement or the Franchised Business, as well as claims, known or unknown, which are not based on, do not arise from or do not relate to this Agreement or the Franchised Business, but which relate to other franchise agreements, Franchised Businesses and other agreements between us or our affiliates and you which arose on or before the date of the general release, including, without limitation, all obligations, liabilities, demands, costs, expenses, damages, claims, actions and causes of action, of whatever nature, character or description, arising under federal, state and local laws, rules and ordinances (provided, however, that all rights enjoyed by you and any causes of action arising in your favor from the provisions of Article 33 of the New York General Business Law (\"GBL\") and the regulations issued thereunder shall remain in force; it being the intent of this provision that the non-waiver provisions of GBL Sections 687.4 and 687.5 be satisfied)."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Notice Period To Terminate Renewal\" that should be reviewed by a lawyer. Details: What is the notice period required to terminate renewal?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Governing Law\" that should be reviewed by a lawyer. Details: Which state/country's law governs the interpretation of the contract?",
+      "answer": "This Agreement shall be interpreted and construed under the laws of the State of New York."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Most Favored Nation\" that should be reviewed by a lawyer. Details: Is there a clause that if a third party gets better terms on the licensing or sale of technology/goods/services described in the contract, the buyer of such technology/goods/services under the contract shall be entitled to those better terms?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Non-Compete\" that should be reviewed by a lawyer. Details: Is there a restriction on the ability of a party to compete with the counterparty or operate in a certain geography or business or technology sector?\u00a0",
+      "answer": "In consideration for such training, trade secrets and confidential information, you and your principals agree that during the term of this Agreement, and for a continuous uninterrupted period commencing upon expiration or termination of this Agreement, regardless of the cause for termination, and continuing for a period of three (3) years thereafter, neither you nor your principals shall, directly or indirectly, for themselves, or through, on behalf of, or in conjunction with any person, persons, partnership, limited liability company or corporation:"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Exclusivity\" that should be reviewed by a lawyer. Details: Is there an exclusive dealing\u00a0 commitment with the counterparty? This includes a commitment to procure all \u201crequirements\u201d from one party of certain technology, goods, or services or a prohibition on licensing or selling technology, goods or services to third parties, or a prohibition on\u00a0 collaborating or working with other parties), whether during the contract or\u00a0 after the contract ends (or both).",
+      "answer": "We grant to you, upon the terms and conditions contained in this Agreement, the exclusive right to establish and operate a Franchised Business and a license to use the methods, procedures and products developed by us in the business of selling and servicing Unit Franchises in the territory described on Attachment A attached to this Agreement and incorporated into this Agreement by reference (the \"Master Territory\")."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Customers\" that should be reviewed by a lawyer. Details: Is a party restricted from contracting or soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both)?",
+      "answer": "In consideration for such training, trade secrets and confidential information, you and your principals agree that during the term of this Agreement, and for a continuous uninterrupted period commencing upon expiration or termination of this Agreement, regardless of the cause for termination, and continuing for a period of three (3) years thereafter, neither you nor your principals shall, directly or indirectly, for themselves, or through, on behalf of, or in conjunction with any person, persons, partnership, limited liability company or corporation:   7.1.1 Divert or attempt to divert any business or customer of the Franchised Business or any Unit Franchisee anywhere, by direct or indirect inducement or otherwise, or do or perform, directly or indirectly, any other act injurious or prejudicial to the goodwill associated with our Proprietary Marks or the System."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Competitive Restriction Exception\" that should be reviewed by a lawyer. Details: This category includes the exceptions or carveouts to Non-Compete, Exclusivity and No-Solicit of Customers above.",
+      "answer": "We will not grant other franchises nor establish our own Unit Franchises within the Master Territory during the term of this Agreement unless you do not meet the Minimum Development Quota."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Employees\" that should be reviewed by a lawyer. Details: Is there a restriction on a party\u2019s soliciting or hiring employees and/or contractors from the\u00a0 counterparty, whether during the contract or after the contract ends (or both)?",
+      "answer": "7.1.2 Employ or seek to employ any person who is at that time employed by us or by any other master franchisee or unit franchisee in the System, or otherwise directly or indirectly induce such person to leave his or her employment without our written consent."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Non-Disparagement\" that should be reviewed by a lawyer. Details: Is there a requirement on a party not to disparage the counterparty?",
+      "answer": "In consideration for such training, trade secrets and confidential information, you and your principals agree that during the term of this Agreement, and for a continuous uninterrupted period commencing upon expiration or termination of this Agreement, regardless of the cause for termination, and continuing for a period of three (3) years thereafter, neither you nor your principals shall, directly or indirectly, for themselves, or through, on behalf of, or in conjunction with any person, persons, partnership, limited liability company or corporation:   7.1.1 Divert or attempt to divert any business or customer of the Franchised Business or any Unit Franchisee anywhere, by direct or indirect inducement or otherwise, or do or perform, directly or indirectly, any other act injurious or prejudicial to the goodwill associated with our Proprietary Marks or the System."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Termination For Convenience\" that should be reviewed by a lawyer. Details: Can a party terminate this\u00a0 contract without cause (solely by giving a notice and allowing a waiting\u00a0 period to expire)?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Rofr/Rofo/Rofn\" that should be reviewed by a lawyer. Details: Is there a clause granting one party a right of first refusal, right of first offer or right of first negotiation to purchase, license, market, or distribute equity interest, technology, assets, products or services?",
+      "answer": "If, for any reason, this Agreement is not terminated pursuant to Section 10.1 and this Agreement is assumed, or assignment of the same to any person or entity who has made a bona fide offer to accept an assignment of this Agreement is contemplated pursuant to the United States Bankruptcy Code, then notice of such proposed assignment or assumption setting forth: (a) the name and address of the proposed assignee, and (b) all of the terms and conditions of the proposed assignment and assumption shall be given to us within twenty (20) days after receipt of such proposed assignee's offer to accept assignment of this Agreement, and, in any event, within ten (10) days prior to the date application is made to a court of competent jurisdiction for authority and approval to enter into such assignment and assumption, and we shall thereupon have the prior right and option, to be exercised by notice given at any time prior to the effective date of such proposed assignment and assumption, to accept an assignment of this Agreement to us upon the same terms and conditions and for the same consideration, if any, as in the bona fide offer made by the proposed assignee, less any brokerage commissions which may be payable by you out of the consideration to be paid by such assignee for the assignment of this Agreement."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Change Of Control\" that should be reviewed by a lawyer. Details: Does one party have the right to terminate or is consent or notice required of the counterparty if such party undergoes a change of control, such as a merger, stock sale, transfer of all or substantially all of its assets or business, or assignment by operation of law?",
+      "answer": "Accordingly, neither you nor any immediate or remote successor to any part of your interest in this Agreement, nor any individual, partnership, corporation, or other legal entity which directly or indirectly owns any interest in you shall not sell, encumber, assign, transfer, convey, pledge, merge, or give away any direct or indirect interest in this Agreement, in you, or in all or substantially all of the assets of the Franchised Business."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Anti-Assignment\" that should be reviewed by a lawyer. Details: Is consent or notice required of a party if the contract is assigned to a third party?",
+      "answer": "Accordingly, neither you nor any immediate or remote successor to any part of your interest in this Agreement, nor any individual, partnership, corporation, or other legal entity which directly or indirectly owns any interest in you shall not sell, encumber, assign, transfer, convey, pledge, merge, or give away any direct or indirect interest in this Agreement, in you, or in all or substantially all of the assets of the Franchised Business. Any change in the control of you shall be deemed a transfer for purposes of this Agreement."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Revenue/Profit Sharing\" that should be reviewed by a lawyer. Details: Is one party required to share revenue or profit with the counterparty for any technology, goods, or\u00a0services?",
+      "answer": "You shall pay to us a royalty fee based on revenue generated by Unit Franchisees (the \"Unit Franchise Performance Royalty Fee\") equal to twenty-five percent (25%) of aggregate royalty fees paid to you by Unit Franchisees in the Master Territory pursuant to their Unit Franchise Agreements."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Price Restrictions\" that should be reviewed by a lawyer. Details: Is there a restriction on the\u00a0 ability of a party to raise or reduce prices of technology, goods, or\u00a0 services provided?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Minimum Commitment\" that should be reviewed by a lawyer. Details: Is there a minimum order size or minimum amount or units per-time period that one party must buy from the counterparty under the contract?",
+      "answer": "In addition to The Original Soupman business you must own and continuously operate, you must sell and have open the minimum number of The Original Soupman businesses as set forth on Attachment E hereto (the \"Minimum Development Quota\") by the dates set forth on such Attachment."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Volume Restriction\" that should be reviewed by a lawyer. Details: Is there a fee increase or consent requirement, etc. if one party\u2019s use of the product/services exceeds certain threshold?",
+      "answer": "We will provide you or one of your principals and up to five (5) additional persons with a comprehensive initial training program and additional training programs from time to time."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Ip Ownership Assignment\" that should be reviewed by a lawyer. Details: Does intellectual property created\u00a0 by one party become the property of the counterparty, either per the terms of the contract or upon the occurrence of certain events?",
+      "answer": "You acknowledge and agree that any such concept, process or improvement shall become our property and we may utilize or disclose such information to other master franchisees and unit franchisees as we determine to be appropriate."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Joint Ip Ownership\" that should be reviewed by a lawyer. Details: Is there any clause providing for joint or shared ownership of intellectual property between the parties to the contract?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"License Grant\" that should be reviewed by a lawyer. Details: Does the contract contain a license granted by one party to its counterparty?",
+      "answer": "We grant to you, upon the terms and conditions contained in this Agreement, the exclusive right to establish and operate a Franchised Business and a license to use the methods, procedures and products developed by us in the business of selling and servicing Unit Franchises in the territory described on Attachment A attached to this Agreement and incorporated into this Agreement by reference (the \"Master Territory\")."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Non-Transferable License\" that should be reviewed by a lawyer. Details: Does the contract limit the ability of a party to transfer the license being granted to a third party?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensor\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor?\u00a0",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensee\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Unlimited/All-You-Can-Eat-License\" that should be reviewed by a lawyer. Details: Is there a clause granting one party an \u201centerprise,\u201d \u201call you can eat\u201d or unlimited usage license?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Irrevocable Or Perpetual License\" that should be reviewed by a lawyer. Details: Does the contract contain a\u00a0 license grant that is irrevocable or perpetual?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Source Code Escrow\" that should be reviewed by a lawyer. Details: Is one party required to deposit its source code into escrow with a third party, which can be released to the counterparty upon the occurrence of certain events (bankruptcy,\u00a0 insolvency, etc.)?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Post-Termination Services\" that should be reviewed by a lawyer. Details: Is a party subject to obligations after the termination or expiration of a contract, including any post-termination transition, payment, transfer of IP, wind-down, last-buy, or similar commitments?",
+      "answer": "You shall take such action as may be necessary to cancel any assumed name registration or equivalent registration obtained by you which contains the Proprietary Marks; and you shall furnish us with evidence satisfactory to us of compliance with this obligation within thirty (30) days after termination or expiration of this Agreement."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Audit Rights\" that should be reviewed by a lawyer. Details: Does a party have the right to\u00a0 audit the books, records, or physical locations of the counterparty to ensure compliance with the contract?",
+      "answer": "You further acknowledge and agree that we may inspect your Franchised Business and any Unit Franchise in the Master Territory to verify that your Franchised Business and/or such Unit Franchise is operating in compliance with our System, as it may be modified from time to time."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Uncapped Liability\" that should be reviewed by a lawyer. Details: Is a party\u2019s liability uncapped upon the breach of its obligation in the contract? This also includes uncap liability for a particular type of breach such as IP infringement or breach of confidentiality obligation.",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Cap On Liability\" that should be reviewed by a lawyer. Details: Does the contract include a cap on liability upon the breach of a party\u2019s obligation? This includes time limitation for the counterparty to bring claims or maximum amount for recovery.",
+      "answer": "Any and all claims and actions arising out of or relating to this Agreement, the relationship of you and us, or your operation of the Franchised Business, brought by any party hereto against the other, shall be commenced within two (2) years from the occurrence of the facts giving rise to such claim or action, or such claim or action shall be barred."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Liquidated Damages\" that should be reviewed by a lawyer. Details: Does the contract contain a clause that would award either party liquidated damages for breach or a fee upon the termination of a contract (termination fee)?",
+      "answer": "In addition to the foregoing, upon termination of this Agreement by us for cause as described in Section 10, you agree to pay to us within fifteen (15) days after the effective date of this Agreement's termination, in addition to the amounts owed hereunder, liquidated damages equal to the average monthly Unit Franchise Performance Royalty Fee and Franchise Sales Royalty Fee you paid during the twelve (12) months of operation preceding the effective date of termination multiplied by (a) twenty-four (24) (being the number of months in two (2) full years), or (b) the number of months remaining in the Agreement had it not been terminated, whichever is lower."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Warranty Duration\" that should be reviewed by a lawyer. Details: What is the duration of any\u00a0 warranty against defects or errors in technology, products, or services\u00a0 provided under the contract?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Insurance\" that should be reviewed by a lawyer. Details: Is there a requirement for insurance that must be maintained by one party for the benefit of the counterparty?",
+      "answer": "Should you, for any reason, fail to procure or maintain the insurance required by this Agreement, as such requirements may be revised from time to time by us in writing, we shall have the right and authority (without, however, any obligation to do so) immediately to procure such insurance and to charge same to you, which charges shall be payable by you immediately upon notice together with a ten percent (10%) administrative fee."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Covenant Not To Sue\" that should be reviewed by a lawyer. Details: Is a party restricted from contesting the validity of the counterparty\u2019s ownership of intellectual property or otherwise bringing a claim against the counterparty for matters unrelated to the contract?",
+      "answer": "During the term of this Agreement and after its expiration or termination, you shall not directly or indirectly contest the validity of, or our ownership of the Proprietary Marks, nor take any other action which may tend to jeopardize our or our affiliate's interest therein, or our right to use and to license others to use the Proprietary Marks."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Third Party Beneficiary\" that should be reviewed by a lawyer. Details: Is there a non-contracting party who is a beneficiary to some or all of the clauses in the contract and therefore can enforce its rights against a contracting party?",
+      "answer": "Such covenants shall be in a form satisfactory to us, including, without limitation, specific identification of us as a third party beneficiary of such covenants with the independent right to enforce them."
+    }
+  ],
+  "title": "SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1",
+  "document_id": "SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1",
+  "source": "CUAD"
+}

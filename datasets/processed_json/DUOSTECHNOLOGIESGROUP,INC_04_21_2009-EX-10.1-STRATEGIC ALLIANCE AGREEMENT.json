@@ -1,0 +1,171 @@
+{
+  "qa_pairs": [
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Document Name\" that should be reviewed by a lawyer. Details: The name of the contract",
+      "answer": "Strategic Alliance Agreement"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Parties\" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract",
+      "answer": "System Associates, Inc."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Agreement Date\" that should be reviewed by a lawyer. Details: The date of the contract",
+      "answer": "15 April, 2009"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Effective Date\" that should be reviewed by a lawyer. Details: The date when the contract is effective\u00a0",
+      "answer": "15 April, 2009"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Expiration Date\" that should be reviewed by a lawyer. Details: On what date will the contract's initial term expire?",
+      "answer": "Unless terminated sooner, the term of this Agreement shall begin on the Effective Date and continue for three (3) years  thereafter (the \"Initial Term\") and shall automatically renew for additional one (1) year terms on the terms and conditions set forth herein (each a  \"Renewal Term\" and collectively, the \"Term\") unless either party gives the other Party Notice of its intention to terminate this Agreement ninety  (90) days before the end of the Initial Term or Renewal Term, if any."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Renewal Term\" that should be reviewed by a lawyer. Details: What is the renewal term after the initial term expires? This includes automatic extensions and unilateral extensions with prior notice.",
+      "answer": "Unless terminated sooner, the term of this Agreement shall begin on the Effective Date and continue for three (3) years  thereafter (the \"Initial Term\") and shall automatically renew for additional one (1) year terms on the terms and conditions set forth herein (each a  \"Renewal Term\" and collectively, the \"Term\") unless either party gives the other Party Notice of its intention to terminate this Agreement ninety  (90) days before the end of the Initial Term or Renewal Term, if any."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Notice Period To Terminate Renewal\" that should be reviewed by a lawyer. Details: What is the notice period required to terminate renewal?",
+      "answer": "Unless terminated sooner, the term of this Agreement shall begin on the Effective Date and continue for three (3) years  thereafter (the \"Initial Term\") and shall automatically renew for additional one (1) year terms on the terms and conditions set forth herein (each a  \"Renewal Term\" and collectively, the \"Term\") unless either party gives the other Party Notice of its intention to terminate this Agreement ninety  (90) days before the end of the Initial Term or Renewal Term, if any."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Governing Law\" that should be reviewed by a lawyer. Details: Which state/country's law governs the interpretation of the contract?",
+      "answer": "This Agreement shall be governed by and interpreted under the laws of the State of Florida, USA,."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Most Favored Nation\" that should be reviewed by a lawyer. Details: Is there a clause that if a third party gets better terms on the licensing or sale of technology/goods/services described in the contract, the buyer of such technology/goods/services under the contract shall be entitled to those better terms?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Non-Compete\" that should be reviewed by a lawyer. Details: Is there a restriction on the ability of a party to compete with the counterparty or operate in a certain geography or business or technology sector?\u00a0",
+      "answer": "During the period beginning on the Effective Date and ending on the later of (i) the end of the Initial Term and (ii) the date falling two  years after completion of the most recent services provided by Rubicon under clause 7 (the \"Non-Competition Period\")  and in the Rubicon  Geographic Area, as defined below, ISA agrees not to in any capacity, engage or have a financial interest in any Rubicon Competing Business, as  defined below, or provide managerial, supervisory, administrative, or financial services relating to any Rubicon Competing Business, including  making available any information or funding to any such Rubicon Competing Business."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Exclusivity\" that should be reviewed by a lawyer. Details: Is there an exclusive dealing\u00a0 commitment with the counterparty? This includes a commitment to procure all \u201crequirements\u201d from one party of certain technology, goods, or services or a prohibition on licensing or selling technology, goods or services to third parties, or a prohibition on\u00a0 collaborating or working with other parties), whether during the contract or\u00a0 after the contract ends (or both).",
+      "answer": "Rubicon hereby grants to ISA during the Term (as defined below) and subject to the exclusions described in 2.4 below an exclusive, non-transferable license in the United States to market, sell, use, display, perform, sublicense and distribute the Rubicon Offerings, the  Documentation and, subject to Section 2.2, any upgrades thereto, subject to the conditions set forth in this Agreement"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Customers\" that should be reviewed by a lawyer. Details: Is a party restricted from contracting or soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both)?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Competitive Restriction Exception\" that should be reviewed by a lawyer. Details: This category includes the exceptions or carveouts to Non-Compete, Exclusivity and No-Solicit of Customers above.",
+      "answer": "In the event that ISA wishes to carry out any software development work of any nature during the Non-Competition Period, it will  notify Rubicon of the same and allow Rubicon the opportunity to pitch for such work."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Employees\" that should be reviewed by a lawyer. Details: Is there a restriction on a party\u2019s soliciting or hiring employees and/or contractors from the\u00a0 counterparty, whether during the contract or after the contract ends (or both)?",
+      "answer": "Further, during the Non-Competition Period, Rubicon shall not solicit any\n\n\n\n\n\nemployee of ISA or any employee of any ISA Client."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Non-Disparagement\" that should be reviewed by a lawyer. Details: Is there a requirement on a party not to disparage the counterparty?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Termination For Convenience\" that should be reviewed by a lawyer. Details: Can a party terminate this\u00a0 contract without cause (solely by giving a notice and allowing a waiting\u00a0 period to expire)?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Rofr/Rofo/Rofn\" that should be reviewed by a lawyer. Details: Is there a clause granting one party a right of first refusal, right of first offer or right of first negotiation to purchase, license, market, or distribute equity interest, technology, assets, products or services?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Change Of Control\" that should be reviewed by a lawyer. Details: Does one party have the right to terminate or is consent or notice required of the counterparty if such party undergoes a change of control, such as a merger, stock sale, transfer of all or substantially all of its assets or business, or assignment by operation of law?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Anti-Assignment\" that should be reviewed by a lawyer. Details: Is consent or notice required of a party if the contract is assigned to a third party?",
+      "answer": "Neither Party shall transfer, assign or cede any rights or delegate any obligations hereunder, in whole or in part,  whether voluntarily or by operation of law, without the prior written consent of the other Party, which consent may be withheld at the other Party's  reasonable business discretion; provided, however, that in connection with a merger, sale or transfer of substantially all of the assets or stock of  one of the Parties that Party may provide for the assignee to be bound by the terms hereof."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Revenue/Profit Sharing\" that should be reviewed by a lawyer. Details: Is one party required to share revenue or profit with the counterparty for any technology, goods, or\u00a0services?",
+      "answer": "In addition to the payments set forth in sections 4.2.1 and 4.2.2, above, ISA will pay Rubicon 30% of ISA's profits (defined as  gross revenues less costs directly incurred in the generation of such revenues) on projects for which Rubicon has provided Contract Services  after ISA has recouped any directly attributable start-up costs with respect to such project up to a cumulative maximum of \u00a3100,000 of such costs  associated with all such projects from the date of this agreement."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Price Restrictions\" that should be reviewed by a lawyer. Details: Is there a restriction on the\u00a0 ability of a party to raise or reduce prices of technology, goods, or\u00a0 services provided?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Minimum Commitment\" that should be reviewed by a lawyer. Details: Is there a minimum order size or minimum amount or units per-time period that one party must buy from the counterparty under the contract?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Volume Restriction\" that should be reviewed by a lawyer. Details: Is there a fee increase or consent requirement, etc. if one party\u2019s use of the product/services exceeds certain threshold?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Ip Ownership Assignment\" that should be reviewed by a lawyer. Details: Does intellectual property created\u00a0 by one party become the property of the counterparty, either per the terms of the contract or upon the occurrence of certain events?",
+      "answer": "Rubicon shall make full and prompt disclosure to ISA of all Works as they are made (whether or not conceived or made jointly  with others)."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Joint Ip Ownership\" that should be reviewed by a lawyer. Details: Is there any clause providing for joint or shared ownership of intellectual property between the parties to the contract?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"License Grant\" that should be reviewed by a lawyer. Details: Does the contract contain a license granted by one party to its counterparty?",
+      "answer": "Rubicon hereby grants to ISA during the Term and subject to the exclusions described in 2.4 below an exclusive, non-transferable  license in the United States to grant licenses to use, display, perform and distribute the Rubicon Offerings and the Documentation to other  resellers, including, but not limited to, distributors, Original Equipment Manufacturers, system integrators and Value-Added Resellers, for further  sale and distribution to End Users for their use as described above, subject to the conditions set forth in this Agreement."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Non-Transferable License\" that should be reviewed by a lawyer. Details: Does the contract limit the ability of a party to transfer the license being granted to a third party?",
+      "answer": "Rubicon hereby grants to ISA during the Term and subject to the exclusions described in 2.4 below an exclusive, non-transferable  license in the United States to grant licenses to use, display, perform and distribute the Rubicon Offerings and the Documentation to other  resellers, including, but not limited to, distributors, Original Equipment Manufacturers, system integrators and Value-Added Resellers, for further  sale and distribution to End Users for their use as described above, subject to the conditions set forth in this Agreement."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensor\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor?\u00a0",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensee\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Unlimited/All-You-Can-Eat-License\" that should be reviewed by a lawyer. Details: Is there a clause granting one party an \u201centerprise,\u201d \u201call you can eat\u201d or unlimited usage license?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Irrevocable Or Perpetual License\" that should be reviewed by a lawyer. Details: Does the contract contain a\u00a0 license grant that is irrevocable or perpetual?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Source Code Escrow\" that should be reviewed by a lawyer. Details: Is one party required to deposit its source code into escrow with a third party, which can be released to the counterparty upon the occurrence of certain events (bankruptcy,\u00a0 insolvency, etc.)?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Post-Termination Services\" that should be reviewed by a lawyer. Details: Is a party subject to obligations after the termination or expiration of a contract, including any post-termination transition, payment, transfer of IP, wind-down, last-buy, or similar commitments?",
+      "answer": "Each Party shall retain the financial records relating to all payments owed and/or paid under this Agreement for a period of six  years from the date such payment obligation arose."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Audit Rights\" that should be reviewed by a lawyer. Details: Does a party have the right to\u00a0 audit the books, records, or physical locations of the counterparty to ensure compliance with the contract?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Uncapped Liability\" that should be reviewed by a lawyer. Details: Is a party\u2019s liability uncapped upon the breach of its obligation in the contract? This also includes uncap liability for a particular type of breach such as IP infringement or breach of confidentiality obligation.",
+      "answer": "EXCEPT IN CONNECTION WITH A BREACH BY EITHER PARTY OF SECTION 8, NEITHER PARTY WILL  BE LIABLE FOR ANY SPECIAL, INDIRECT, CONSEQUENTIAL, EXEMPLARY, PUNITIVE OR INCIDENTAL DAMAGES ARISING OUT OF OR  RELATED TO THIS AGREEMENT, HOWEVER CAUSED AND UNDER ANY THEORY OF LIABILITY (INCLUDING NEGLIGENCE), EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Cap On Liability\" that should be reviewed by a lawyer. Details: Does the contract include a cap on liability upon the breach of a party\u2019s obligation? This includes time limitation for the counterparty to bring claims or maximum amount for recovery.",
+      "answer": "EXCEPT IN CONNECTION WITH A BREACH BY EITHER PARTY OF SECTION 8, NEITHER PARTY WILL  BE LIABLE FOR ANY SPECIAL, INDIRECT, CONSEQUENTIAL, EXEMPLARY, PUNITIVE OR INCIDENTAL DAMAGES ARISING OUT OF OR  RELATED TO THIS AGREEMENT, HOWEVER CAUSED AND UNDER ANY THEORY OF LIABILITY (INCLUDING NEGLIGENCE), EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Liquidated Damages\" that should be reviewed by a lawyer. Details: Does the contract contain a clause that would award either party liquidated damages for breach or a fee upon the termination of a contract (termination fee)?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Warranty Duration\" that should be reviewed by a lawyer. Details: What is the duration of any\u00a0 warranty against defects or errors in technology, products, or services\u00a0 provided under the contract?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Insurance\" that should be reviewed by a lawyer. Details: Is there a requirement for insurance that must be maintained by one party for the benefit of the counterparty?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Covenant Not To Sue\" that should be reviewed by a lawyer. Details: Is a party restricted from contesting the validity of the counterparty\u2019s ownership of intellectual property or otherwise bringing a claim against the counterparty for matters unrelated to the contract?",
+      "answer": "ISA shall not contest ownership by Rubicon of any of the foregoing."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Third Party Beneficiary\" that should be reviewed by a lawyer. Details: Is there a non-contracting party who is a beneficiary to some or all of the clauses in the contract and therefore can enforce its rights against a contracting party?",
+      "answer": "Except as set forth in Sections 10.3 and 10.4, nothing in this Agreement is intended to confer  benefits, rights or remedies unto any person or entity other than the Parties and their permitted successors and assigns."
+    }
+  ],
+  "title": "DUOSTECHNOLOGIESGROUP,INC_04_21_2009-EX-10.1-STRATEGIC ALLIANCE AGREEMENT",
+  "document_id": "DUOSTECHNOLOGIESGROUP,INC_04_21_2009-EX-10.1-STRATEGIC ALLIANCE AGREEMENT",
+  "source": "CUAD"
+}

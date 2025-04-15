@@ -1,0 +1,171 @@
+{
+  "qa_pairs": [
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Document Name\" that should be reviewed by a lawyer. Details: The name of the contract",
+      "answer": "COLLABORATION AGREEMENT"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Parties\" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract",
+      "answer": "BLI"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Agreement Date\" that should be reviewed by a lawyer. Details: The date of the contract",
+      "answer": "September 13th, 2019"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Effective Date\" that should be reviewed by a lawyer. Details: The date when the contract is effective\u00a0",
+      "answer": "September 13th, 2019"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Expiration Date\" that should be reviewed by a lawyer. Details: On what date will the contract's initial term expire?",
+      "answer": "at the expiration of the Intended End of Term, Ginkgo has paid the Minimum Cumulative Purchase Commitment, but will not have paid to BLI the Full Purchase Target, then the Term of this Agreement shall automatically extend for an additional [***] ([***]) year period from the date of the expiration of the then-Intended End of Term so that, among other things, BLI may potentially receive the benefit of the Full Purchase Target and Ginkgo may receive the continuing benefit of royalty-free licenses."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Renewal Term\" that should be reviewed by a lawyer. Details: What is the renewal term after the initial term expires? This includes automatic extensions and unilateral extensions with prior notice.",
+      "answer": "at the expiration of the Intended End of Term, Ginkgo has paid the Minimum Cumulative Purchase Commitment, but will not have paid to BLI the Full Purchase Target, then the Term of this Agreement shall automatically extend for an additional [***] ([***]) year period from the date of the expiration of the then-Intended End of Term so that, among other things, BLI may potentially receive the benefit of the Full Purchase Target and Ginkgo may receive the continuing benefit of royalty-free licenses."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Notice Period To Terminate Renewal\" that should be reviewed by a lawyer. Details: What is the notice period required to terminate renewal?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Governing Law\" that should be reviewed by a lawyer. Details: Which state/country's law governs the interpretation of the contract?",
+      "answer": "This Agreement will be construed and interpreted in accordance with the laws of the State of Delaware, without regard to any choice of law provision."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Most Favored Nation\" that should be reviewed by a lawyer. Details: Is there a clause that if a third party gets better terms on the licensing or sale of technology/goods/services described in the contract, the buyer of such technology/goods/services under the contract shall be entitled to those better terms?",
+      "answer": "With respect to any [***],"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Non-Compete\" that should be reviewed by a lawyer. Details: Is there a restriction on the ability of a party to compete with the counterparty or operate in a certain geography or business or technology sector?\u00a0",
+      "answer": "During the Term and for a period of [***] ([***]) months following the Term of this Agreement, other than pursuant to Sections 13.3.2 (Effects of Termination Based Upon Ginkgo's Buy-Down Election) or 13.3.3 (Effects of Termination Based Upon an Uncured Ginkgo Breach, Insolvency or Force Majeure Event), BLI shall not, and shall cause its Affiliates not to, directly or indirectly, itself or with or through a Third Party, develop, configure, customize, license, sell, provide or otherwise give access to the Beacon Platform or any [***] to, [***] or its Affiliates for any use; provided that this restriction shall terminate as set forth in Section 13.3 (Effects of Expiration or Termination) or if Ginkgo has not satisfied its Minimum Cumulative Purchase Commitments (as such may be adjusted under this Agreement) for a full Contract Year, including [***] as permitted under Section 7.2.2(a) (Minimum Cumulative Purchase Commitments) or Section 7.2.2(b)(iii) (Development Purchase Commitments); provided that BLI will provide written notice to Ginkgo within [***] ([***]) days of the end of any Contract Year with respect to which BLI believes that Ginkgo has not satisfied its Minimum Cumulative Purchase Commitment."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Exclusivity\" that should be reviewed by a lawyer. Details: Is there an exclusive dealing\u00a0 commitment with the counterparty? This includes a commitment to procure all \u201crequirements\u201d from one party of certain technology, goods, or services or a prohibition on licensing or selling technology, goods or services to third parties, or a prohibition on\u00a0 collaborating or working with other parties), whether during the contract or\u00a0 after the contract ends (or both).",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Customers\" that should be reviewed by a lawyer. Details: Is a party restricted from contracting or soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both)?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Competitive Restriction Exception\" that should be reviewed by a lawyer. Details: This category includes the exceptions or carveouts to Non-Compete, Exclusivity and No-Solicit of Customers above.",
+      "answer": "Ginkgo under this Agreement (including under Section 6.1 (Headstart Period) and Section 9.1 (Licenses to Ginkgo)), nothing in this Agreement shall otherwise limit, prohibit or preclude BLI from developing, configuring, customizing, licensing, selling or providing the Beacon Platform or Collaboration Workflows for itself or to a Third Party for any uses or otherwise entering into a business or advisory arrangement with any Third Party."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Employees\" that should be reviewed by a lawyer. Details: Is there a restriction on a party\u2019s soliciting or hiring employees and/or contractors from the\u00a0 counterparty, whether during the contract or after the contract ends (or both)?",
+      "answer": "([***]) by the non-hiring Party in the immediately prior calendar year and, further, if the individual solicited and then hired in violation of this is a Key Person under Section 5.4.1(b) (Dedicated FTEs; Key Persons), then BLI shall have [***] ([***]) months to identify an employee as the individual to replace such Key Person and any (a) [***] or (b) [***], in each case (a)-(b), to the extent due to the absence of such Key Person performing a Workflow Development Plan upon which the Key Person was engaged, shall be deemed waived for that [***] month period."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Non-Disparagement\" that should be reviewed by a lawyer. Details: Is there a requirement on a party not to disparage the counterparty?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Termination For Convenience\" that should be reviewed by a lawyer. Details: Can a party terminate this\u00a0 contract without cause (solely by giving a notice and allowing a waiting\u00a0 period to expire)?",
+      "answer": "With respect to Beacon Optofluidic Machines (including related Hardware and Software), Consumables and Services for which Ginkgo has placed a Purchase Order pursuant to this Agreement, the Parties agree to the BLI Terms and Conditions that apply with respect to Beacon Optofluidic Machines (including related Hardware and Software), Consumables and Services, unless, notwithstanding anything to the contrary set forth in the BLI Terms and Conditions (including any language regarding the treatment of additional or different terms set forth therein), a term in such BLI Terms and Conditions is inconsistent with a term in this Agreement, in which case this Agreement shall control, including as follows:"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Rofr/Rofo/Rofn\" that should be reviewed by a lawyer. Details: Is there a clause granting one party a right of first refusal, right of first offer or right of first negotiation to purchase, license, market, or distribute equity interest, technology, assets, products or services?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Change Of Control\" that should be reviewed by a lawyer. Details: Does one party have the right to terminate or is consent or notice required of the counterparty if such party undergoes a change of control, such as a merger, stock sale, transfer of all or substantially all of its assets or business, or assignment by operation of law?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Anti-Assignment\" that should be reviewed by a lawyer. Details: Is consent or notice required of a party if the contract is assigned to a third party?",
+      "answer": "Except as permitted under Sections 9.2.1 and 9.2.2, BLI may not sublicense, assign or otherwise transfer the rights granted to it in this Section 9.2 (Grants to BLI) without first obtaining the prior written consent of Ginkgo[***]."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Revenue/Profit Sharing\" that should be reviewed by a lawyer. Details: Is one party required to share revenue or profit with the counterparty for any technology, goods, or\u00a0services?",
+      "answer": "In the event that Ginkgo uses any of the BLI Proprietary Workflows identified in Exhibit D to conduct Commercial Services for a Third Party customer and such Commercial Services [***] result in the discovery of an Antibody to be used as the active ingredient in a therapeutic product for which a Third Party [***] (each such Antibody subject to this Section 7.4.2 (Milestone Payments), a \"Discovered Antibody\"), then, on a Discovered Antibody-by-Discovered Antibody basis, in the event such Third Party (a) achieves any of the milestone events noted below in Table 7.4.2 (each, a \"Milestone Event\") with respect to a Discovered Antibody and (b) makes a payment to Ginkgo in connection with such Milestone Event, then Ginkgo will pay BLI [***] percent ([***]%) of such payment received by Ginkgo from such Third Party up to the amount of the corresponding \"Maximum Milestone Payment\" for such milestone event set forth below in Table 7.4.2 (each, a \"Milestone Payment\"."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Price Restrictions\" that should be reviewed by a lawyer. Details: Is there a restriction on the\u00a0 ability of a party to raise or reduce prices of technology, goods, or\u00a0 services provided?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Minimum Commitment\" that should be reviewed by a lawyer. Details: Is there a minimum order size or minimum amount or units per-time period that one party must buy from the counterparty under the contract?",
+      "answer": "With respect to each Contract Year, by no later than [***], Ginkgo shall have incurred (including all credits and offsets permitted under this Agreement) at least, in the aggregate since the beginning of the Term, the Minimum Cumulative Purchase Commitment amount for such Contract Year."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Volume Restriction\" that should be reviewed by a lawyer. Details: Is there a fee increase or consent requirement, etc. if one party\u2019s use of the product/services exceeds certain threshold?",
+      "answer": "[***] shall designate up to [***] ([***]) BLI employees or personnel as key persons (individually, a \"Key Person\" and collectively, \"Key Persons\")."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Ip Ownership Assignment\" that should be reviewed by a lawyer. Details: Does intellectual property created\u00a0 by one party become the property of the counterparty, either per the terms of the contract or upon the occurrence of certain events?",
+      "answer": "In no event shall Ginkgo, and Ginkgo shall cause its Affiliates to not, file any patent applications covering (or support existing patent applications covering) the [***] and, in the event Ginkgo (or its Affiliates) do file one or more of such patent applications, Ginkgo will and hereby does assign, and shall cause its employees, agents and contractors to assign, to BLI all rights, title and interests in, to and under such patent applications."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Joint Ip Ownership\" that should be reviewed by a lawyer. Details: Is there any clause providing for joint or shared ownership of intellectual property between the parties to the contract?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"License Grant\" that should be reviewed by a lawyer. Details: Does the contract contain a license granted by one party to its counterparty?",
+      "answer": "9.2.2 after any applicable Headstart Period, with respect to any [***], a [***] license in, to and under any Ginkgo Licensed IP [***] necessary for the performance of, such [***], to make, have made, offer to sell, sell, have sold, import, use, commercialize or perform such [***] to or for Third Parties and to license such Third Parties to do the same."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Non-Transferable License\" that should be reviewed by a lawyer. Details: Does the contract limit the ability of a party to transfer the license being granted to a third party?",
+      "answer": "Subject to the terms and conditions of this Agreement, and in consideration for the payments to BLI under this Agreement, during the Term, BLI, on behalf of itself and its Affiliates, hereby grants and shall grant to Ginkgo a non-exclusive, sublicensable (solely in accordance with Section 9.1.4 (Consent to Sublicense)), non-transferable, non-royalty-bearing (subject to Section 13.3.2 (Effects of Termination Based Upon Ginkgo Buy-Down Election)) worldwide license in, to and under (i) BLI Background IP, and (ii) other Intellectual Property that is Controlled by BLI and that is [***] BLI Inventions, with both of (i) and (ii) being limited to what is necessary for Ginkgo to [***] and (iii) the Collaboration Intellectual Property solely to:\n\n(a) perform research [***] on biological entities, including organisms, cells and strains (and sub-components thereof);\n\n(b) (i) design and develop (A) Collaboration Workflows as generally contemplated under a Workflow Development Plan and (B) Ginkgo Workflows as permitted under this Agreement and (ii) use [***] Workflows to conduct the activities set forth in clause (a) and clause (c) of this Section 9.1.1 (Scope of Grants);\n\n(c) perform commercial research [***] and other Commercial Services for Third Parties; and\n\n(d) in each case of clauses (a) through (c) of this Section 9.1.1 (Scope of Grants), the license granted is for activities solely within the Licensed Field."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensor\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor?\u00a0",
+      "answer": "Subject to the terms and conditions of this Agreement, and in consideration for the payments to BLI under this Agreement, during the Term, BLI, on behalf of itself and its Affiliates, hereby grants and shall grant to Ginkgo a non-exclusive, sublicensable (solely in accordance with Section 9.1.4 (Consent to Sublicense)), non-transferable, non-royalty-bearing (subject to Section 13.3.2 (Effects of Termination Based Upon Ginkgo Buy-Down Election)) worldwide license in, to and under (i) BLI Background IP, and (ii) other Intellectual Property that is Controlled by BLI and that is [***] BLI Inventions, with both of (i) and (ii) being limited to what is necessary for Ginkgo to [***] and (iii) the Collaboration Intellectual Property solely to:\n\n(a) perform research [***] on biological entities, including organisms, cells and strains (and sub-components thereof);\n\n(b) (i) design and develop (A) Collaboration Workflows as generally contemplated under a Workflow Development Plan and (B) Ginkgo Workflows as permitted under this Agreement and (ii) use [***] Workflows to conduct the activities set forth in clause (a) and clause (c) of this Section 9.1.1 (Scope of Grants);\n\n(c) perform commercial research [***] and other Commercial Services for Third Parties; and\n\n(d) in each case of clauses (a) through (c) of this Section 9.1.1 (Scope of Grants), the license granted is for activities solely within the Licensed Field."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensee\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor?",
+      "answer": "Ginkgo may grant sublicenses of the license granted to Ginkgo under Section 9.1.1 (Scope of Grants) and Section 9.1.2 (License Grant to Exploit [***]) with the prior written consent of BLI[***]; provided that such prior written consent of BLI shall not be needed for any sublicense granted by Ginkgo to (a) a Permitted Subcontractor of Ginkgo under Section 2.7 (Subcontracting) to the extent such sublicense relates to the subcontracted activities, (b) any wholly-owned subsidiary of Ginkgo existing as of the Effective Date or (c) any other Person, including other Affiliates and any Third Party, under Section 9.1.2 (License Grant to Exploit [***]) so long as, in the case of this clause (c), the sublicense [***]."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Unlimited/All-You-Can-Eat-License\" that should be reviewed by a lawyer. Details: Is there a clause granting one party an \u201centerprise,\u201d \u201call you can eat\u201d or unlimited usage license?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Irrevocable Or Perpetual License\" that should be reviewed by a lawyer. Details: Does the contract contain a\u00a0 license grant that is irrevocable or perpetual?",
+      "answer": "In the event that termination is elected by Ginkgo based upon an Extended Force Majeure Event with respect to BLI pursuant to Section 13.2.1 (Force Majeure), then, as of the effective date of termination:"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Source Code Escrow\" that should be reviewed by a lawyer. Details: Is one party required to deposit its source code into escrow with a third party, which can be released to the counterparty upon the occurrence of certain events (bankruptcy,\u00a0 insolvency, etc.)?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Post-Termination Services\" that should be reviewed by a lawyer. Details: Is a party subject to obligations after the termination or expiration of a contract, including any post-termination transition, payment, transfer of IP, wind-down, last-buy, or similar commitments?",
+      "answer": "The insurance policies will be under an occurrence form, but if only a claims-made form is available to a Party, then such Party will continue to maintain such insurance after Expiration or the termination of this Agreement for a period of [***] ([***]) years following the end of the Term."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Audit Rights\" that should be reviewed by a lawyer. Details: Does a party have the right to\u00a0 audit the books, records, or physical locations of the counterparty to ensure compliance with the contract?",
+      "answer": "Each Party shall have the right, during normal business hours and upon reasonable notice, to inspect all such records of the other Party, its Affiliates or Permitted Subcontractors."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Uncapped Liability\" that should be reviewed by a lawyer. Details: Is a party\u2019s liability uncapped upon the breach of its obligation in the contract? This also includes uncap liability for a particular type of breach such as IP infringement or breach of confidentiality obligation.",
+      "answer": "EXCEPT TO THE EXTENT ARISING (A) FROM A PARTY'S BREACH OF ARTICLE 10 (CONFIDENTIALITY), (B) [***] (E) FROM A PARTY'S FRAUD, GROSS NEGLIGENCE OR WILLFUL MISCONDUCT OR (F) IN CONNECTION WITH A PARTY'S INDEMNIFICATION OBLIGATIONS UNDER ARTICLE 12 (INDEMNIFICATION; INSURANCE), IN NO EVENT WILL EITHER PARTY BE LIABLE TO THE OTHER PARTY FOR ANY LOST PROFITS, INDIRECT, SPECIAL, INCIDENTAL, EXEMPLARY OR CONSEQUENTIAL DAMAGES OF ANY KIND ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT, HOWEVER CAUSED AND ON"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Cap On Liability\" that should be reviewed by a lawyer. Details: Does the contract include a cap on liability upon the breach of a party\u2019s obligation? This includes time limitation for the counterparty to bring claims or maximum amount for recovery.",
+      "answer": "EXCEPT TO THE EXTENT ARISING (A) FROM A PARTY'S BREACH OF ARTICLE 10 (CONFIDENTIALITY), (B) [***] (E) FROM A PARTY'S FRAUD, GROSS NEGLIGENCE OR WILLFUL MISCONDUCT OR (F) IN CONNECTION WITH A PARTY'S INDEMNIFICATION OBLIGATIONS UNDER ARTICLE 12 (INDEMNIFICATION; INSURANCE), IN NO EVENT WILL EITHER PARTY BE LIABLE TO THE OTHER PARTY FOR ANY LOST PROFITS, INDIRECT, SPECIAL, INCIDENTAL, EXEMPLARY OR CONSEQUENTIAL DAMAGES OF ANY KIND ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT, HOWEVER CAUSED AND ON"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Liquidated Damages\" that should be reviewed by a lawyer. Details: Does the contract contain a clause that would award either party liquidated damages for breach or a fee upon the termination of a contract (termination fee)?",
+      "answer": "([***]) by the non-hiring Party in the immediately prior calendar year and, further, if the individual solicited and then hired in violation of this is a Key Person under Section 5.4.1(b) (Dedicated FTEs; Key Persons), then BLI shall have [***] ([***]) months to identify an employee as the individual to replace such Key Person and any (a) [***] or (b) [***], in each case (a)-(b), to the extent due to the absence of such Key Person performing a Workflow Development Plan upon which the Key Person was engaged, shall be deemed waived for that [***] month period."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Warranty Duration\" that should be reviewed by a lawyer. Details: What is the duration of any\u00a0 warranty against defects or errors in technology, products, or services\u00a0 provided under the contract?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Insurance\" that should be reviewed by a lawyer. Details: Is there a requirement for insurance that must be maintained by one party for the benefit of the counterparty?",
+      "answer": "The types of insurance, and minimum limits will be: (i) any insurance policy that is required by any Applicable Law, including [***] and [***] policies where applicable; and (ii) [***] insurance with a minimum limit of [***] Dollars ($[***]) per occurrence and [***] Dollars ($[***]) in the aggregate. For clarity, [***]."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Covenant Not To Sue\" that should be reviewed by a lawyer. Details: Is a party restricted from contesting the validity of the counterparty\u2019s ownership of intellectual property or otherwise bringing a claim against the counterparty for matters unrelated to the contract?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Third Party Beneficiary\" that should be reviewed by a lawyer. Details: Is there a non-contracting party who is a beneficiary to some or all of the clauses in the contract and therefore can enforce its rights against a contracting party?",
+      "answer": "There are no Third Party beneficiaries under this Agreement, except to the extent a Third Party is indemnified pursuant to Article 12 (Indemnification; Insurance); provided that, in no event will any Third Party entitled to indemnification pursuant to Article 12 (Indemnification; Insurance) be allowed to enforce the terms thereof against a Party."
+    }
+  ],
+  "title": "BERKELEYLIGHTS,INC_06_26_2020-EX-10.12-COLLABORATION AGREEMENT",
+  "document_id": "BERKELEYLIGHTS,INC_06_26_2020-EX-10.12-COLLABORATION AGREEMENT",
+  "source": "CUAD"
+}

@@ -1,0 +1,171 @@
+{
+  "qa_pairs": [
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Document Name\" that should be reviewed by a lawyer. Details: The name of the contract",
+      "answer": "LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Parties\" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract",
+      "answer": "Array BioPharma Inc."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Agreement Date\" that should be reviewed by a lawyer. Details: The date of the contract",
+      "answer": "May 31, 2017"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Effective Date\" that should be reviewed by a lawyer. Details: The date when the contract is effective\u00a0",
+      "answer": "May 31, 2017"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Expiration Date\" that should be reviewed by a lawyer. Details: On what date will the contract's initial term expire?",
+      "answer": "This Agreement shall commence on the Effective Date and, unless terminated earlier pursuant to this Article 13, shall continue in full force and effect, on a Product-by-Product and country-by-country basis until the Secondary Royalty Term with respect to such Product expires, at which time this Agreement shall expire in its entirety with respect to such Product in such country."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Renewal Term\" that should be reviewed by a lawyer. Details: What is the renewal term after the initial term expires? This includes automatic extensions and unilateral extensions with prior notice.",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Notice Period To Terminate Renewal\" that should be reviewed by a lawyer. Details: What is the notice period required to terminate renewal?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Governing Law\" that should be reviewed by a lawyer. Details: Which state/country's law governs the interpretation of the contract?",
+      "answer": "This Agreement and all questions regarding its validity or interpretation, or the breach or performance of this Agreement, shall be governed by, and construed and enforced in accordance with, the laws of the State of New York, United States, without reference to conflict of law principles."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Most Favored Nation\" that should be reviewed by a lawyer. Details: Is there a clause that if a third party gets better terms on the licensing or sale of technology/goods/services described in the contract, the buyer of such technology/goods/services under the contract shall be entitled to those better terms?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Non-Compete\" that should be reviewed by a lawyer. Details: Is there a restriction on the ability of a party to compete with the counterparty or operate in a certain geography or business or technology sector?\u00a0",
+      "answer": "Array shall not conduct Clinical Studies for a Product in the Ono Territory with respect to an Indication for which such Product has received Marketing Approval in the Ono Territory if Ono reasonably believes that the conduct of such Clinical Studies is likely to materially adversely affect the commercial value of such Product."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Exclusivity\" that should be reviewed by a lawyer. Details: Is there an exclusive dealing\u00a0 commitment with the counterparty? This includes a commitment to procure all \u201crequirements\u201d from one party of certain technology, goods, or services or a prohibition on licensing or selling technology, goods or services to third parties, or a prohibition on\u00a0 collaborating or working with other parties), whether during the contract or\u00a0 after the contract ends (or both).",
+      "answer": "Array shall own rights to, and shall be responsible, at its own expense, for registering and maintaining, the Internet domain names listed on Exhibit 12.6 (each of the foregoing, a \"Domain Name\") and agrees to grant, and hereby grants to Ono a royalty-free, fully paid-up exclusive license to use those particular Domain Names which Ono elects to use (and actually uses) in connection with Ono's commercialization of the Product in the Ono Territory in accordance with this Agreement."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Customers\" that should be reviewed by a lawyer. Details: Is a party restricted from contracting or soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both)?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Competitive Restriction Exception\" that should be reviewed by a lawyer. Details: This category includes the exceptions or carveouts to Non-Compete, Exclusivity and No-Solicit of Customers above.",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Employees\" that should be reviewed by a lawyer. Details: Is there a restriction on a party\u2019s soliciting or hiring employees and/or contractors from the\u00a0 counterparty, whether during the contract or after the contract ends (or both)?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Non-Disparagement\" that should be reviewed by a lawyer. Details: Is there a requirement on a party not to disparage the counterparty?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Termination For Convenience\" that should be reviewed by a lawyer. Details: Can a party terminate this\u00a0 contract without cause (solely by giving a notice and allowing a waiting\u00a0 period to expire)?",
+      "answer": "Commencing on the later of (i) [ * ] of the First Commercial Sale of the Binimetinib Product in the Ono Territory, or (ii) [ * ] of the First Commercial Sale of the Encorafenib Product in the Ono Territory, Ono shall have the right to terminate this Agreement, for any reasons by giving [ * ] advance written notice to Array which shall be accompanied by the rationale for such termination."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Rofr/Rofo/Rofn\" that should be reviewed by a lawyer. Details: Is there a clause granting one party a right of first refusal, right of first offer or right of first negotiation to purchase, license, market, or distribute equity interest, technology, assets, products or services?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Change Of Control\" that should be reviewed by a lawyer. Details: Does one party have the right to terminate or is consent or notice required of the counterparty if such party undergoes a change of control, such as a merger, stock sale, transfer of all or substantially all of its assets or business, or assignment by operation of law?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Anti-Assignment\" that should be reviewed by a lawyer. Details: Is consent or notice required of a party if the contract is assigned to a third party?",
+      "answer": "This Agreement may not be assigned by either Party to any Third Party without the written consent of the other Party hereto; except either Party may assign this Agreement without the other Party's consent to an entity that acquires substantially all of the business or assets of the assigning Party, whether by merger, acquisition or otherwise; provided that the acquiring party agrees in a writing delivered to the non-assigning Party to assume all of the rights and obligations of the assigning Party under this Agreement."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Revenue/Profit Sharing\" that should be reviewed by a lawyer. Details: Is one party required to share revenue or profit with the counterparty for any technology, goods, or\u00a0services?",
+      "answer": "During the term of this Agreement, Ono shall pay to Array, on a quarterly basis, a royalty on the Net Sales of Products by Ono, its Affiliates or Sublicensees."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Price Restrictions\" that should be reviewed by a lawyer. Details: Is there a restriction on the\u00a0 ability of a party to raise or reduce prices of technology, goods, or\u00a0 services provided?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Minimum Commitment\" that should be reviewed by a lawyer. Details: Is there a minimum order size or minimum amount or units per-time period that one party must buy from the counterparty under the contract?",
+      "answer": "Notwithstanding Sections 6.4, 6.5, and 6.6, the Royalty Payment to Array shall not be reduced in any calendar quarter (a) during the Initial Royalty Term to less than [ * ] of the amount due under Section 6.3(a)(i), and (b) during the Secondary Royalty Term to less than [ * ] of the amount due under Section 6.3(a) (ii) (provided that any amounts in excess of the permitted deduction shall be carried forward to the subsequent calendar quarters until exhausted), unless 6.4(b) applies in which case royalty shall be as set forth therein."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Volume Restriction\" that should be reviewed by a lawyer. Details: Is there a fee increase or consent requirement, etc. if one party\u2019s use of the product/services exceeds certain threshold?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Ip Ownership Assignment\" that should be reviewed by a lawyer. Details: Does intellectual property created\u00a0 by one party become the property of the counterparty, either per the terms of the contract or upon the occurrence of certain events?",
+      "answer": "Subject to the terms and conditions of this Agreement, following registration of the Product Trademark(s) by Array in the Ono Territory pursuant to Section 12.3 below, Array shall assign, and shall cause its Affiliates to assign, to Ono all rights to the Product Trademark(s) so registered in the Ono Territory at Ono's cost and expense, in each case solely for the purpose of Commercializing the Products in the Ono Territory in accordance with this Agreement."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Joint Ip Ownership\" that should be reviewed by a lawyer. Details: Is there any clause providing for joint or shared ownership of intellectual property between the parties to the contract?",
+      "answer": "With respect to the filing, prosecution and enforcement of all other Patents directed to inventions made jointly by personnel of Array (or that of any Affiliate) and Ono (or that of any Affiliate) in connection with this Agreement that are not Joint Inventions relating to Binimetinib and Encorafenib and/or Products, the Parties shall consult with one another and mutually agree upon such actions."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"License Grant\" that should be reviewed by a lawyer. Details: Does the contract contain a license granted by one party to its counterparty?",
+      "answer": "Array shall own rights to, and shall be responsible, at its own expense, for registering and maintaining, the Internet domain names listed on Exhibit 12.6 (each of the foregoing, a \"Domain Name\") and agrees to grant, and hereby grants to Ono a royalty-free, fully paid-up exclusive license to use those particular Domain Names which Ono elects to use (and actually uses) in connection with Ono's commercialization of the Product in the Ono Territory in accordance with this Agreement."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Non-Transferable License\" that should be reviewed by a lawyer. Details: Does the contract limit the ability of a party to transfer the license being granted to a third party?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensor\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor?\u00a0",
+      "answer": "Subject to the terms and conditions of this Agreement, following registration of the Product Trademark(s) by Array in the Ono Territory pursuant to Section 12.3 below, Array shall assign, and shall cause its Affiliates to assign, to Ono all rights to the Product Trademark(s) so registered in the Ono Territory at Ono's cost and expense, in each case solely for the purpose of Commercializing the Products in the Ono Territory in accordance with this Agreement."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensee\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor?",
+      "answer": "The licenses granted under this Subsection 2.1(b) may be sublicensed by Ono only to its Affiliates, and then only for so long as such entities remain as Affiliates. For clarity, the licenses granted under this Subsection 2.1(b) may be extended by Ono to Third Party manufacturers for Manufacturing the Products on Ono's behalf."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Unlimited/All-You-Can-Eat-License\" that should be reviewed by a lawyer. Details: Is there a clause granting one party an \u201centerprise,\u201d \u201call you can eat\u201d or unlimited usage license?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Irrevocable Or Perpetual License\" that should be reviewed by a lawyer. Details: Does the contract contain a\u00a0 license grant that is irrevocable or perpetual?",
+      "answer": "Upon expiration of this Agreement, the licenses granted to Ono under Section 2.1 shall become non-exclusive, fully paid- up, irrevocable, perpetual, royalty free licenses, with sublicensing rights, to Develop, Manufacture, and/or Commercialize the Products in the Ono Territory."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Source Code Escrow\" that should be reviewed by a lawyer. Details: Is one party required to deposit its source code into escrow with a third party, which can be released to the counterparty upon the occurrence of certain events (bankruptcy,\u00a0 insolvency, etc.)?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Post-Termination Services\" that should be reviewed by a lawyer. Details: Is a party subject to obligations after the termination or expiration of a contract, including any post-termination transition, payment, transfer of IP, wind-down, last-buy, or similar commitments?",
+      "answer": "In addition, in the event Ono is conducting any on-going pre-clinical studies and/or formulation studies (e.g., stability studies) of the Product, Ono agrees to promptly transition to Array or its designee such pre-clinical studies and/or formulation studies to the extent such transfer is reasonably possible."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Audit Rights\" that should be reviewed by a lawyer. Details: Does a party have the right to\u00a0 audit the books, records, or physical locations of the counterparty to ensure compliance with the contract?",
+      "answer": "Inspections conducted under this Section 7.4 shall be at the expense of Array, unless a variation or error producing an underpayment in amounts payable exceeding [ * ] of the amount paid for a period covered by the inspection is established, in which case all reasonable costs relating to the inspection for such period and any unpaid amounts that are discovered shall be paid by Ono, together with interest on such unpaid amounts at the rate set forth in Section 7.1 above."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Uncapped Liability\" that should be reviewed by a lawyer. Details: Is a party\u2019s liability uncapped upon the breach of its obligation in the contract? This also includes uncap liability for a particular type of breach such as IP infringement or breach of confidentiality obligation.",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Cap On Liability\" that should be reviewed by a lawyer. Details: Does the contract include a cap on liability upon the breach of a party\u2019s obligation? This includes time limitation for the counterparty to bring claims or maximum amount for recovery.",
+      "answer": "UNLESS EXPRESSLY PROVIDED HEREUNDER, IN NO EVENT SHALL EITHER PARTY OR ANY OF ITS RESPECTIVE AFFILIATES AND THEIR RESPECTIVE OFFICERS, DIRECTORS AND EMPLOYEES BE LIABLE UNDER THIS AGREEMENT FOR SPECIAL, INDIRECT, PUNITIVE, INCIDENTAL OR CONSEQUENTIAL DAMAGES SUFFERED BY THE OTHER PARTY UNDER THIS AGREEMENT, OF ANY KIND WHATEVER AND HOWEVER CAUSED, AND WHETHER BASED ON AN ACTION OR CLAIM IN CONTRACT, TORT (INCLUDING NEGLIGENCE), BREACH OF STATUTORY DUTY OR OTHERWISE, AND EVEN IF FORESEEABLE OR SUFFERED IN CIRCUMSTANCES WHERE A PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH LOSSES."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Liquidated Damages\" that should be reviewed by a lawyer. Details: Does the contract contain a clause that would award either party liquidated damages for breach or a fee upon the termination of a contract (termination fee)?",
+      "answer": "in (a) or (b) above, the otherwise applicable royalty rate with respect to Products shall thereafter be [ * ] for the [ * ]"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Warranty Duration\" that should be reviewed by a lawyer. Details: What is the duration of any\u00a0 warranty against defects or errors in technology, products, or services\u00a0 provided under the contract?",
+      "answer": "In the event that Array reasonably objects to a proposed usage of the Product Trademark(s), it shall give written notice of such objection to Ono within sixty (60) days of receipt of such sample, specifying the way in which such usage of its Product Trademark(s) fails to meet the style, usage or quality standards for the Product or Product Trademark set forth in the first two sentences of this Section 12.4(c)."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Insurance\" that should be reviewed by a lawyer. Details: Is there a requirement for insurance that must be maintained by one party for the benefit of the counterparty?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Covenant Not To Sue\" that should be reviewed by a lawyer. Details: Is a party restricted from contesting the validity of the counterparty\u2019s ownership of intellectual property or otherwise bringing a claim against the counterparty for matters unrelated to the contract?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Third Party Beneficiary\" that should be reviewed by a lawyer. Details: Is there a non-contracting party who is a beneficiary to some or all of the clauses in the contract and therefore can enforce its rights against a contracting party?",
+      "answer": ""
+    }
+  ],
+  "title": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT",
+  "document_id": "Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT",
+  "source": "CUAD"
+}

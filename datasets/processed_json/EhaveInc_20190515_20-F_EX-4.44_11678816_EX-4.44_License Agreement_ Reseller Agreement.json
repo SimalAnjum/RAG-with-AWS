@@ -1,0 +1,171 @@
+{
+  "qa_pairs": [
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Document Name\" that should be reviewed by a lawyer. Details: The name of the contract",
+      "answer": "LICENSE AND RESELLER AGREEMENT"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Parties\" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract",
+      "answer": "Ehave"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Agreement Date\" that should be reviewed by a lawyer. Details: The date of the contract",
+      "answer": "October 30, 2018"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Effective Date\" that should be reviewed by a lawyer. Details: The date when the contract is effective\u00a0",
+      "answer": "October 30, 2018"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Expiration Date\" that should be reviewed by a lawyer. Details: On what date will the contract's initial term expire?",
+      "answer": "This term of this Agreement and the rights and obligations of the Parties hereto shall commence as of the Effective Date and shall continue in perpetuity (the \"Term\"), unless terminated earlier in accordance with the provisions contained herein."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Renewal Term\" that should be reviewed by a lawyer. Details: What is the renewal term after the initial term expires? This includes automatic extensions and unilateral extensions with prior notice.",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Notice Period To Terminate Renewal\" that should be reviewed by a lawyer. Details: What is the notice period required to terminate renewal?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Governing Law\" that should be reviewed by a lawyer. Details: Which state/country's law governs the interpretation of the contract?",
+      "answer": "This Agreement shall be governed by, and construed and enforced in accordance with, the laws in force in the Province of Ontario (excluding any conflict of laws rule or principle which might refer such construction to the laws of another jurisdiction)."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Most Favored Nation\" that should be reviewed by a lawyer. Details: Is there a clause that if a third party gets better terms on the licensing or sale of technology/goods/services described in the contract, the buyer of such technology/goods/services under the contract shall be entitled to those better terms?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Non-Compete\" that should be reviewed by a lawyer. Details: Is there a restriction on the ability of a party to compete with the counterparty or operate in a certain geography or business or technology sector?\u00a0",
+      "answer": "For so long as the appointment set out in Section 2(a) is exclusive, CHT shall not enter into an agreement (a \"Competitive Transaction\") with any other Person related to the license, sub-license, sale, resale or provide service, solutions, goods or products, that are substantially similar to or competitive with the Ehave Companion Solution."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Exclusivity\" that should be reviewed by a lawyer. Details: Is there an exclusive dealing\u00a0 commitment with the counterparty? This includes a commitment to procure all \u201crequirements\u201d from one party of certain technology, goods, or services or a prohibition on licensing or selling technology, goods or services to third parties, or a prohibition on\u00a0 collaborating or working with other parties), whether during the contract or\u00a0 after the contract ends (or both).",
+      "answer": "Subject to Section 2(e), the foregoing appointment is exclusive such that Ehave shall not appoint any other Person to, nor may Ehave itself, sell or resell the use of the Ehave Companion Solution within the Field of Use anywhere in the Territory."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Customers\" that should be reviewed by a lawyer. Details: Is a party restricted from contracting or soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both)?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Competitive Restriction Exception\" that should be reviewed by a lawyer. Details: This category includes the exceptions or carveouts to Non-Compete, Exclusivity and No-Solicit of Customers above.",
+      "answer": "For clarity, a Competitive Transaction shall not include an agreement for use, integration or interfacing, or co-marketing, of the Ehave Companion Solution with other services, solutions, devices, goods or products, where such other services, solutions, devices, goods or products do not contain the same or similar functionality of the Ehave Companion Solution, but provides for a complementary solution."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Employees\" that should be reviewed by a lawyer. Details: Is there a restriction on a party\u2019s soliciting or hiring employees and/or contractors from the\u00a0 counterparty, whether during the contract or after the contract ends (or both)?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Non-Disparagement\" that should be reviewed by a lawyer. Details: Is there a requirement on a party not to disparage the counterparty?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Termination For Convenience\" that should be reviewed by a lawyer. Details: Can a party terminate this\u00a0 contract without cause (solely by giving a notice and allowing a waiting\u00a0 period to expire)?",
+      "answer": "In addition, CHT may terminate this Agreement and the rights granted hereunder, in whole or in part, and without prejudice to enforcement of any other legal right or remedy (including any express termination right set forth elsewhere in this Agreement), at any time without cause, by providing at least thirty (30) Business Days prior written notice to Ehave, but subject to payment of a termination fee equal to an amount set out in Schedule 6."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Rofr/Rofo/Rofn\" that should be reviewed by a lawyer. Details: Is there a clause granting one party a right of first refusal, right of first offer or right of first negotiation to purchase, license, market, or distribute equity interest, technology, assets, products or services?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Change Of Control\" that should be reviewed by a lawyer. Details: Does one party have the right to terminate or is consent or notice required of the counterparty if such party undergoes a change of control, such as a merger, stock sale, transfer of all or substantially all of its assets or business, or assignment by operation of law?",
+      "answer": "(vi) Ehave undergoes a change of control or is a party to a merger or amalgamation;"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Anti-Assignment\" that should be reviewed by a lawyer. Details: Is consent or notice required of a party if the contract is assigned to a third party?",
+      "answer": "Neither this Agreement nor any rights or obligations hereunder shall be assignable by a Party without the prior written consent of the other Party, provided that either Party shall have the right, on notice to but without the other Party's consent, to assign this Agreement and its rights and obligations contained herein, to an affiliate or to a third party who is not a competitor of the other Party in connection with a sale of all or substantially all of the assigning Party's business or assets relating to this Agreement."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Revenue/Profit Sharing\" that should be reviewed by a lawyer. Details: Is one party required to share revenue or profit with the counterparty for any technology, goods, or\u00a0services?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Price Restrictions\" that should be reviewed by a lawyer. Details: Is there a restriction on the\u00a0 ability of a party to raise or reduce prices of technology, goods, or\u00a0 services provided?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Minimum Commitment\" that should be reviewed by a lawyer. Details: Is there a minimum order size or minimum amount or units per-time period that one party must buy from the counterparty under the contract?",
+      "answer": "Notwithstanding anything to the contrary contained herein, the exclusive appointment and license set out in Sections 2(a) and 2(b) shall become non-exclusive if:"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Volume Restriction\" that should be reviewed by a lawyer. Details: Is there a fee increase or consent requirement, etc. if one party\u2019s use of the product/services exceeds certain threshold?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Ip Ownership Assignment\" that should be reviewed by a lawyer. Details: Does intellectual property created\u00a0 by one party become the property of the counterparty, either per the terms of the contract or upon the occurrence of certain events?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Joint Ip Ownership\" that should be reviewed by a lawyer. Details: Is there any clause providing for joint or shared ownership of intellectual property between the parties to the contract?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"License Grant\" that should be reviewed by a lawyer. Details: Does the contract contain a license granted by one party to its counterparty?",
+      "answer": "In connection with the exercise of CHT's rights under the Escrow Agreement, Ehave hereby grants to CHT a non- exclusive, non-transferable (except as set forth in Section 20(f)), right and license to use and copy the materials deposited with the Escrow Agent, including the Source Code, its Specifications and documentation, and any resulting corrections, repairs, translations, enhancements, and other derivative works and improvements made by CHT, for the sole purposes of providing to CHT the ability to operate, support and maintain, the Ehave Companion Solution for its End Users from time to time, until such time that CHT is able to migrate off the Ehave Companion Solution, but in any event not exceeding twelve months from the date of release of the materials from escrow."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Non-Transferable License\" that should be reviewed by a lawyer. Details: Does the contract limit the ability of a party to transfer the license being granted to a third party?",
+      "answer": "In connection with the exercise of CHT's rights under the Escrow Agreement, Ehave hereby grants to CHT a non- exclusive, non-transferable (except as set forth in Section 20(f)), right and license to use and copy the materials deposited with the Escrow Agent, including the Source Code, its Specifications and documentation, and any resulting corrections, repairs, translations, enhancements, and other derivative works and improvements made by CHT, for the sole purposes of providing to CHT the ability to operate, support and maintain, the Ehave Companion Solution for its End Users from time to time, until such time that CHT is able to migrate off the Ehave Companion Solution, but in any event not exceeding twelve months from the date of release of the materials from escrow."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensor\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor?\u00a0",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensee\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Unlimited/All-You-Can-Eat-License\" that should be reviewed by a lawyer. Details: Is there a clause granting one party an \u201centerprise,\u201d \u201call you can eat\u201d or unlimited usage license?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Irrevocable Or Perpetual License\" that should be reviewed by a lawyer. Details: Does the contract contain a\u00a0 license grant that is irrevocable or perpetual?",
+      "answer": "Pursuant to the Subscription Agreement, CHT shall obtain from each End User the right to and hereby grants, effective upon the execution and delivery of such End User's Subscription Agreement, to Ehave: (i) a royalty-free, non-exclusive, non-transferable, limited right and licence during the term of such Subscription Agreement to use, copy, store and display the End User Data solely for the purpose of enabling Ehave to operate the Ehave Companion Solution for such End User and as may be necessary for the purpose of enabling Ehave to provide support services in accordance with this Agreement; and (ii) a royalty-free, non-exclusive, limited, perpetual right and license to use, copy, store and display End User Data on an aggregated and anonymous basis and so as not to permit the identification of any End User or individual for the sole purpose of improving or developing enhancements to the Ehave Companion Solution , provided that Ehave shall not have any right to use, commercialize or exploit such End User Data in any other manner or for any other purpose."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Source Code Escrow\" that should be reviewed by a lawyer. Details: Is one party required to deposit its source code into escrow with a third party, which can be released to the counterparty upon the occurrence of certain events (bankruptcy,\u00a0 insolvency, etc.)?",
+      "answer": "In connection with the exercise of CHT's rights under the Escrow Agreement, Ehave hereby grants to CHT a non- exclusive, non-transferable (except as set forth in Section 20(f)), right and license to use and copy the materials deposited with the Escrow Agent, including the Source Code, its Specifications and documentation, and any resulting corrections, repairs, translations, enhancements, and other derivative works and improvements made by CHT, for the sole purposes of providing to CHT the ability to operate, support and maintain, the Ehave Companion Solution for its End Users from time to time, until such time that CHT is able to migrate off the Ehave Companion Solution, but in any event not exceeding twelve months from the date of release of the materials from escrow."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Post-Termination Services\" that should be reviewed by a lawyer. Details: Is a party subject to obligations after the termination or expiration of a contract, including any post-termination transition, payment, transfer of IP, wind-down, last-buy, or similar commitments?",
+      "answer": "Without limiting the provisions of Section 11, commencing on the delivery of any notice of termination of this Agreement, and continuing through the effective date of termination and for a period of sixty (60) Business Days thereafter (the \"Transition-out Period\"), Ehave will, to the extent requested by CHT, provide to CHT (or at CHT's request to CHT's End User) such reasonable cooperation, assistance and services to facilitate the orderly wind down, transition and migration and transfer of the End User Data from Ehave to CHT (the \"Transition-out Services\")."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Audit Rights\" that should be reviewed by a lawyer. Details: Does a party have the right to\u00a0 audit the books, records, or physical locations of the counterparty to ensure compliance with the contract?",
+      "answer": "CHT shall provide to Ehave and its Auditors any assistance they may reasonably require to conduct such Audits."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Uncapped Liability\" that should be reviewed by a lawyer. Details: Is a party\u2019s liability uncapped upon the breach of its obligation in the contract? This also includes uncap liability for a particular type of breach such as IP infringement or breach of confidentiality obligation.",
+      "answer": "Subject to Section 17(c), in no event shall either Party be liable to the other for any consequential, incidental, exemplary or punitive damages even if advised in advance of the possibility of such damages."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Cap On Liability\" that should be reviewed by a lawyer. Details: Does the contract include a cap on liability upon the breach of a party\u2019s obligation? This includes time limitation for the counterparty to bring claims or maximum amount for recovery.",
+      "answer": "Subject to Section 17(c), in no event shall either Party be liable to the other for any consequential, incidental, exemplary or punitive damages even if advised in advance of the possibility of such damages."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Liquidated Damages\" that should be reviewed by a lawyer. Details: Does the contract contain a clause that would award either party liquidated damages for breach or a fee upon the termination of a contract (termination fee)?",
+      "answer": "In addition, CHT may terminate this Agreement and the rights granted hereunder, in whole or in part, and without prejudice to enforcement of any other legal right or remedy (including any express termination right set forth elsewhere in this Agreement), at any time without cause, by providing at least thirty (30) Business Days prior written notice to Ehave, but subject to payment of a termination fee equal to an amount set out in Schedule 6."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Warranty Duration\" that should be reviewed by a lawyer. Details: What is the duration of any\u00a0 warranty against defects or errors in technology, products, or services\u00a0 provided under the contract?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Insurance\" that should be reviewed by a lawyer. Details: Is there a requirement for insurance that must be maintained by one party for the benefit of the counterparty?",
+      "answer": "In the event of any material change or cancellation of the required insurance policies, the applicable Party will provide the other Party with thirty (30) calendar days' prior written notice and will promptly replace such insurance policy in accordance with this Section 15, without lapse in coverage."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Covenant Not To Sue\" that should be reviewed by a lawyer. Details: Is a party restricted from contesting the validity of the counterparty\u2019s ownership of intellectual property or otherwise bringing a claim against the counterparty for matters unrelated to the contract?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Third Party Beneficiary\" that should be reviewed by a lawyer. Details: Is there a non-contracting party who is a beneficiary to some or all of the clauses in the contract and therefore can enforce its rights against a contracting party?",
+      "answer": "Ehave shall be a third party beneficiary hereunder, but shall not have any obligations to the End User thereunder."
+    }
+  ],
+  "title": "EhaveInc_20190515_20-F_EX-4.44_11678816_EX-4.44_License Agreement_ Reseller Agreement",
+  "document_id": "EhaveInc_20190515_20-F_EX-4.44_11678816_EX-4.44_License Agreement_ Reseller Agreement",
+  "source": "CUAD"
+}

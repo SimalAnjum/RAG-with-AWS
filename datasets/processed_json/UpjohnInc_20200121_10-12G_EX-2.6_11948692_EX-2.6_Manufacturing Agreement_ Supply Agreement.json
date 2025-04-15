@@ -1,0 +1,171 @@
+{
+  "qa_pairs": [
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Document Name\" that should be reviewed by a lawyer. Details: The name of the contract",
+      "answer": "MANUFACTURING AND SUPPLY AGREEMENT"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Parties\" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract",
+      "answer": "Manufacturer and Customer may be referred to herein individually as a \"Party\" or collectively as the \"Parties\"."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Agreement Date\" that should be reviewed by a lawyer. Details: The date of the contract",
+      "answer": "[\u25cf]"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Effective Date\" that should be reviewed by a lawyer. Details: The date when the contract is effective\u00a0",
+      "answer": "[\u25cf]"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Expiration Date\" that should be reviewed by a lawyer. Details: On what date will the contract's initial term expire?",
+      "answer": "Unless otherwise provided in the applicable Facility Addendum, this Agreement (a) shall commence on the Effective Date and shall continue for a period of four (4) years from such date (the \"Initial Term\" of this Agreement), unless sooner terminated pursuant to Section 7.3, 7.4, 7.5, 7.6 or 7.7, and (b) may be extended for up to three (3) additional periods of twelve (12) months (each, an \"Extension Period\") by written notice given by Customer to Manufacturer not less than twelve (12) months prior to the expiration of the Initial Term or the applicable Extension Period, as the case may be."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Renewal Term\" that should be reviewed by a lawyer. Details: What is the renewal term after the initial term expires? This includes automatic extensions and unilateral extensions with prior notice.",
+      "answer": "A Facility Addendum may be extended for up to three (3) additional periods of twelve (12) months (each, an \"Extension Period\") by written notice given by Customer to Manufacturer not less than twelve (12) months prior to the expiration of the Initial Term or the applicable Extension Period, as the case may be"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Notice Period To Terminate Renewal\" that should be reviewed by a lawyer. Details: What is the notice period required to terminate renewal?",
+      "answer": "A Facility Addendum may be extended for up to three (3) additional periods of twelve (12) months (each, an \"Extension Period\") by written notice given by Customer to Manufacturer not less than twelve (12) months prior to the expiration of the Initial Term or the applicable Extension Period, as the case may be."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Governing Law\" that should be reviewed by a lawyer. Details: Which state/country's law governs the interpretation of the contract?",
+      "answer": "This Agreement and all Actions (whether in contract or tort) that may be based upon, arise out of or relate to this Agreement or the negotiation, execution or performance hereof or thereof shall be governed by and construed in accordance with the Law of the State of Delaware, without regard to any Laws or principles thereof that would result in the application of the Laws of any other jurisdiction."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Most Favored Nation\" that should be reviewed by a lawyer. Details: Is there a clause that if a third party gets better terms on the licensing or sale of technology/goods/services described in the contract, the buyer of such technology/goods/services under the contract shall be entitled to those better terms?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Non-Compete\" that should be reviewed by a lawyer. Details: Is there a restriction on the ability of a party to compete with the counterparty or operate in a certain geography or business or technology sector?\u00a0",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Exclusivity\" that should be reviewed by a lawyer. Details: Is there an exclusive dealing\u00a0 commitment with the counterparty? This includes a commitment to procure all \u201crequirements\u201d from one party of certain technology, goods, or services or a prohibition on licensing or selling technology, goods or services to third parties, or a prohibition on\u00a0 collaborating or working with other parties), whether during the contract or\u00a0 after the contract ends (or both).",
+      "answer": "In the event of a Triggering Event, Customer's Exclusive Purchase Requirement with respect to each and every Product that is the subject of the Triggering Event shall be temporarily suspended until such time as Manufacturer notifies Customer that Manufacturer is able to resume the manufacture and supply of the subject Product(s) on the terms and conditions of this Agreement (such period referred to as the \"Exclusive Purchase Requirement Suspension Period\"); provided that, (i) during such Exclusive Purchase Requirement Suspension Period, Customer shall use commercially reasonable efforts to limit its orders for the subject Product(s) to the quantities specified in the last Forecast that preceded the Triggering Event for the applicable period(s) and promptly notify Manufacturer in the event and to the extent that Customer's orders exceed such quantities specified in such Forecast and (ii) Customer shall be entitled to take delivery of Product(s) ordered during the Exclusive Purchase Requirement Suspension Period even if such delivery is scheduled for or actually occurs subsequent to the Exclusive Purchase Requirement Suspension Period."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Customers\" that should be reviewed by a lawyer. Details: Is a party restricted from contracting or soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both)?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Competitive Restriction Exception\" that should be reviewed by a lawyer. Details: This category includes the exceptions or carveouts to Non-Compete, Exclusivity and No-Solicit of Customers above.",
+      "answer": "For clarity and notwithstanding anything contained herein, nothing in this Section 2.1(e)(i) (A) is intended to be inconsistent with Section 2.4(e)(i) or to otherwise indicate that Customer is subject to any requirement to purchase Product under this Agreement or (B) is intended to prevent Customer from qualifying a back-up supplier for any Product during the Exclusivity Period"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Employees\" that should be reviewed by a lawyer. Details: Is there a restriction on a party\u2019s soliciting or hiring employees and/or contractors from the\u00a0 counterparty, whether during the contract or after the contract ends (or both)?",
+      "answer": "Manufacturer may terminate its obligation to provide any Technical Support with respect to the applicable Product under this Agreement if Customer or any of its Affiliates hires any Manufacturer Personnel involved in providing Technical Support to Customer hereunder (without limiting any applicable non-solicitation obligations of Customer pursuant to the Business Combination Agreement)."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Non-Disparagement\" that should be reviewed by a lawyer. Details: Is there a requirement on a party not to disparage the counterparty?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Termination For Convenience\" that should be reviewed by a lawyer. Details: Can a party terminate this\u00a0 contract without cause (solely by giving a notice and allowing a waiting\u00a0 period to expire)?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Rofr/Rofo/Rofn\" that should be reviewed by a lawyer. Details: Is there a clause granting one party a right of first refusal, right of first offer or right of first negotiation to purchase, license, market, or distribute equity interest, technology, assets, products or services?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Change Of Control\" that should be reviewed by a lawyer. Details: Does one party have the right to terminate or is consent or notice required of the counterparty if such party undergoes a change of control, such as a merger, stock sale, transfer of all or substantially all of its assets or business, or assignment by operation of law?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Anti-Assignment\" that should be reviewed by a lawyer. Details: Is consent or notice required of a party if the contract is assigned to a third party?",
+      "answer": "Customer may, without Manufacturer's consent, assign the rights and obligations of this Agreement (i) on a Product-by-Product basis, to a Third Party in connection with a bona fide transfer, sale or divestiture of all or substantially all of its business to which such Product relates or in the event of such business's spin-off, merger or consolidation with another company or business entity or (ii) to any Third Party which acquires or succeeds to all or substantially all of the assets of the business of Customer to which this Agreement and the Facility Addenda relate (including in connection with such business's spin-off, merger or consolidation with another company or business entity)."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Revenue/Profit Sharing\" that should be reviewed by a lawyer. Details: Is one party required to share revenue or profit with the counterparty for any technology, goods, or\u00a0services?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Price Restrictions\" that should be reviewed by a lawyer. Details: Is there a restriction on the\u00a0 ability of a party to raise or reduce prices of technology, goods, or\u00a0 services provided?",
+      "answer": "Customer may not change the price of Buy-Sell"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Minimum Commitment\" that should be reviewed by a lawyer. Details: Is there a minimum order size or minimum amount or units per-time period that one party must buy from the counterparty under the contract?",
+      "answer": "Customer shall be required to order"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Volume Restriction\" that should be reviewed by a lawyer. Details: Is there a fee increase or consent requirement, etc. if one party\u2019s use of the product/services exceeds certain threshold?",
+      "answer": "Nothing in this Agreement shall require Manufacturer to provide more than 75 hours per calendar year per Product in connection with any Technical Support."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Ip Ownership Assignment\" that should be reviewed by a lawyer. Details: Does intellectual property created\u00a0 by one party become the property of the counterparty, either per the terms of the contract or upon the occurrence of certain events?",
+      "answer": "Customer acknowledges and agrees that, as between the Parties, all Improvements and Developments made by or on behalf of Manufacturer in the conduct of activities under this Agreement or a Facility Addendum other than Customer-Owned Improvements and Developments (such Improvements and Developments, collectively, \"Manufacturer-Owned Improvements and Developments\") shall be the exclusive property of Manufacturer, and Manufacturer shall own all rights, title and interest in and to such Manufacturer- Owned Improvements and Developments."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Joint Ip Ownership\" that should be reviewed by a lawyer. Details: Is there any clause providing for joint or shared ownership of intellectual property between the parties to the contract?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"License Grant\" that should be reviewed by a lawyer. Details: Does the contract contain a license granted by one party to its counterparty?",
+      "answer": "Customer hereby grants to Manufacturer a non-exclusive license during the Term to use any Customer Property and Customer-Owned Improvements and Developments solely in connection with Manufacturer performing its obligations under this Agreement or the Facility Addendum in accordance with the terms hereof or thereof, as applicable."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Non-Transferable License\" that should be reviewed by a lawyer. Details: Does the contract limit the ability of a party to transfer the license being granted to a third party?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensor\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor?\u00a0",
+      "answer": "\"Customer Property\" means all Intellectual Property, together with all materials, data, writings and other property in any form whatsoever, which is (a) owned or controlled by Customer or its Affiliates as of and following the Effective Date and (b) provided to Manufacturer by or on behalf of Customer or its Personnel under this Agreement."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensee\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Unlimited/All-You-Can-Eat-License\" that should be reviewed by a lawyer. Details: Is there a clause granting one party an \u201centerprise,\u201d \u201call you can eat\u201d or unlimited usage license?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Irrevocable Or Perpetual License\" that should be reviewed by a lawyer. Details: Does the contract contain a\u00a0 license grant that is irrevocable or perpetual?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Source Code Escrow\" that should be reviewed by a lawyer. Details: Is one party required to deposit its source code into escrow with a third party, which can be released to the counterparty upon the occurrence of certain events (bankruptcy,\u00a0 insolvency, etc.)?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Post-Termination Services\" that should be reviewed by a lawyer. Details: Is a party subject to obligations after the termination or expiration of a contract, including any post-termination transition, payment, transfer of IP, wind-down, last-buy, or similar commitments?",
+      "answer": "Upon termination of this Agreement by Customer in whole or in part or upon the termination of any Facility Addendum, in each case, pursuant to Section 7.3, 7.4, 7.5 or 7.6, and on a terminated-Product-by-terminated-Product basis, at Customer's option and pursuant to Customer's instructions, Manufacturer shall provide Customer with sufficient inventory of such terminated Product to ensure business continuity according to then-current terms and pricing (subject to Section 3) until the earlier of: (i) Customer's identification of, and securing of Regulatory Approval for, another supplier of such terminated Product or (ii) unless otherwise set forth in the applicable Facility Addendum as the \"Inventory Tail Period\" for such Product, a time period that reflects Customer's reasonable needs of such Product as mutually agreed upon by the Parties in good faith."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Audit Rights\" that should be reviewed by a lawyer. Details: Does a party have the right to\u00a0 audit the books, records, or physical locations of the counterparty to ensure compliance with the contract?",
+      "answer": "Customer or its representatives, including its external auditors, may audit such Records of Manufacturer, including all Records related to Manufacturer's compliance with applicable Laws, at any time during the Term of this Agreement or applicable Facility Addendum or the Record Retention Period, during normal business hours and upon reasonable advance written notice to Manufacturer (but in no event more than one (1) time per year except \"for cause\")."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Uncapped Liability\" that should be reviewed by a lawyer. Details: Is a party\u2019s liability uncapped upon the breach of its obligation in the contract? This also includes uncap liability for a particular type of breach such as IP infringement or breach of confidentiality obligation.",
+      "answer": "Except in the event of (i) Third Party Claims subject to a Party's indemnification obligations pursuant to Section 10.1, (ii) Third Party Claims subject to a Party's indemnification obligations pursuant to Section 10.2, (iii) the gross negligence, fraud or willful misconduct of a Party or its Personnel, (iv) a Party's willful breach of this Agreement, (v) a breach of Section 13 or (vi) customer liabilities pursuant to, and subject to the limitations set forth in, Section 2.5(e), neither Party's aggregate liability to the other Party (or its Personnel that are indemnitees under Section 10.1 or Section 10.2, as applicable) under this Agreement for the initial twelve (12) month period immediately following the Effective Date, and for any twelve (12) month period thereafter during the Term, shall exceed, on a cumulative basis, the amount that is one and one half (11\u22152) times the aggregate amounts paid or payable pursuant to this Agreement in the preceding twelve (12) month period preceding the loss date by Customer to Manufacturer but solely with respect to the supply hereunder of Product (or Products) for which such corresponding liability arose (the \"Affected Products\") and not any other Products (or if, as of the time the liability arises, this Agreement has not been in effect for twelve (12) months, then the amounts paid or payable by Customer to Manufacturer hereunder during the period from the Effective Date until such time the liability arises, shall be annualized to a full twelve (12) months but solely with respect to the supply hereunder of the Affected Product(s) and not any other Products)."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Cap On Liability\" that should be reviewed by a lawyer. Details: Does the contract include a cap on liability upon the breach of a party\u2019s obligation? This includes time limitation for the counterparty to bring claims or maximum amount for recovery.",
+      "answer": "Notwithstanding the foregoing, Manufacturer shall not be liable for Losses described in Section 10.1(a) to the extent such Losses are: (i) caused by the gross negligence, fraud or willful misconduct of a Customer Indemnified Party in connection with the performance or non-performance of this Agreement; (ii) caused by the breach of any of the terms of this Agreement or a Facility Addendum by a Customer Indemnified Party, including in connection with the performance or non-performance of this Agreement or (iii) subject to Customer's indemnification obligations pursuant to Section 10.2."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Liquidated Damages\" that should be reviewed by a lawyer. Details: Does the contract contain a clause that would award either party liquidated damages for breach or a fee upon the termination of a contract (termination fee)?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Warranty Duration\" that should be reviewed by a lawyer. Details: What is the duration of any\u00a0 warranty against defects or errors in technology, products, or services\u00a0 provided under the contract?",
+      "answer": "Manufacturer may reject any Non-Complying Product by (i) providing Customer with no less than sixty (60) days' prior written notice of Manufacturer's intention to reject such Non-Complying Product along with the documentation set forth in Section 4.7, (ii) meeting with Customer at Customer's request to discuss the basis for the proposed rejection of the subject Non-Complying Product, and (iii) providing Customer with notice of rejection in the event that Manufacturer rejects the subject Non- Complying Product at the end of such sixty (60) day period (or such other time frame as the parties may agree upon)."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Insurance\" that should be reviewed by a lawyer. Details: Is there a requirement for insurance that must be maintained by one party for the benefit of the counterparty?",
+      "answer": "Automobile and Truck Liability Insurance: $2,000,000 combined single limit for bodily injury and property damage arising out of all owned, non- owned and hired vehicles, including coverage for all automotive and truck equipment used in the performance of this Agreement and including the loading and unloading of same."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Covenant Not To Sue\" that should be reviewed by a lawyer. Details: Is a party restricted from contesting the validity of the counterparty\u2019s ownership of intellectual property or otherwise bringing a claim against the counterparty for matters unrelated to the contract?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Third Party Beneficiary\" that should be reviewed by a lawyer. Details: Is there a non-contracting party who is a beneficiary to some or all of the clauses in the contract and therefore can enforce its rights against a contracting party?",
+      "answer": ""
+    }
+  ],
+  "title": "UpjohnInc_20200121_10-12G_EX-2.6_11948692_EX-2.6_Manufacturing Agreement_ Supply Agreement",
+  "document_id": "UpjohnInc_20200121_10-12G_EX-2.6_11948692_EX-2.6_Manufacturing Agreement_ Supply Agreement",
+  "source": "CUAD"
+}

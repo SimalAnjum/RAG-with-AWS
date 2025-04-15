@@ -1,0 +1,171 @@
+{
+  "qa_pairs": [
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Document Name\" that should be reviewed by a lawyer. Details: The name of the contract",
+      "answer": "DEVELOPMENT AND OPTION AGREEMENT"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Parties\" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract",
+      "answer": "Harpoon Therapeutics, Inc."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Agreement Date\" that should be reviewed by a lawyer. Details: The date of the contract",
+      "answer": "November 20, 2019"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Effective Date\" that should be reviewed by a lawyer. Details: The date when the contract is effective\u00a0",
+      "answer": "November 20, 2019"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Expiration Date\" that should be reviewed by a lawyer. Details: On what date will the contract's initial term expire?",
+      "answer": "This Agreement shall commence on the Effective Date and, unless earlier terminated in accordance herewith, shall continue in force and effect until (a) the date of expiration of the last Royalty Term for the last Licensed Product, or (b) the expiration of the License Option Period and the failure of AbbVie to exercise the License Option (such period, the \"Term\")."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Renewal Term\" that should be reviewed by a lawyer. Details: What is the renewal term after the initial term expires? This includes automatic extensions and unilateral extensions with prior notice.",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Notice Period To Terminate Renewal\" that should be reviewed by a lawyer. Details: What is the notice period required to terminate renewal?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Governing Law\" that should be reviewed by a lawyer. Details: Which state/country's law governs the interpretation of the contract?",
+      "answer": "This Agreement or the performance, enforcement, breach or termination hereof shall be interpreted, governed by and construed in accordance with the laws of the State of Delaware, United States, excluding any conflicts or choice of law rule or principle that might otherwise refer construction or interpretation of this Agreement to the substantive law of another jurisdiction; provided that all questions concerning (a) inventorship of Patents under this Agreement shall be determined in accordance with Section 7.1.3 and (b) the construction or effect of Patents shall be determined in accordance with the laws of the country or other jurisdiction in which the particular Patent has been filed or granted, as the case may be."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Most Favored Nation\" that should be reviewed by a lawyer. Details: Is there a clause that if a third party gets better terms on the licensing or sale of technology/goods/services described in the contract, the buyer of such technology/goods/services under the contract shall be entitled to those better terms?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Non-Compete\" that should be reviewed by a lawyer. Details: Is there a restriction on the ability of a party to compete with the counterparty or operate in a certain geography or business or technology sector?\u00a0",
+      "answer": "Harpoon shall not, and shall cause its Affiliates not to (a) directly or indirectly, develop, commercialize or otherwise exploit any Competing Product in any country or other jurisdiction in the Territory, or (b) license, authorize, appoint, or otherwise enable any Third Party to directly or indirectly, develop, commercialize or otherwise exploit any Competing Product in any country or other jurisdiction in the Territory, except, in each case ((a) and (b)), as otherwise expressly provided in this Agreement."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Exclusivity\" that should be reviewed by a lawyer. Details: Is there an exclusive dealing\u00a0 commitment with the counterparty? This includes a commitment to procure all \u201crequirements\u201d from one party of certain technology, goods, or services or a prohibition on licensing or selling technology, goods or services to third parties, or a prohibition on\u00a0 collaborating or working with other parties), whether during the contract or\u00a0 after the contract ends (or both).",
+      "answer": "Effective upon the date that AbbVie commences performing Initial Development Activities pursuant to Section 3.1.2, Harpoon (on behalf of itself and its Affiliates) shall grant and hereby grants AbbVie a co- exclusive (with Harpoon), royalty-free license, with the right to grant sublicenses in accordance with Section 5.3, under the Harpoon Patents, the Harpoon Know-How, and Harpoon's interests in the Joint Patents and the Joint Know-How, solely to the extent necessary for AbbVie to conduct Initial Development Activities assumed by AbbVie in accordance with Section 3.1.2 (if any)."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Customers\" that should be reviewed by a lawyer. Details: Is a party restricted from contracting or soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both)?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Competitive Restriction Exception\" that should be reviewed by a lawyer. Details: This category includes the exceptions or carveouts to Non-Compete, Exclusivity and No-Solicit of Customers above.",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Employees\" that should be reviewed by a lawyer. Details: Is there a restriction on a party\u2019s soliciting or hiring employees and/or contractors from the\u00a0 counterparty, whether during the contract or after the contract ends (or both)?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Non-Disparagement\" that should be reviewed by a lawyer. Details: Is there a requirement on a party not to disparage the counterparty?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Termination For Convenience\" that should be reviewed by a lawyer. Details: Can a party terminate this\u00a0 contract without cause (solely by giving a notice and allowing a waiting\u00a0 period to expire)?",
+      "answer": "AbbVie may terminate this Agreement in its entirety, or on a country or other jurisdiction -by-country or other jurisdiction basis, for any or no reason, upon ninety (90) days' prior written notice to Harpoon."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Rofr/Rofo/Rofn\" that should be reviewed by a lawyer. Details: Is there a clause granting one party a right of first refusal, right of first offer or right of first negotiation to purchase, license, market, or distribute equity interest, technology, assets, products or services?",
+      "answer": "If Harpoon decides not to prepare, file, prosecute, or maintain a Harpoon Patent or Joint Patent in a country or other jurisdiction in the Territory, Harpoon shall provide reasonable prior written notice to AbbVie of such intention (which notice shall, in any event, be given no later than [***] prior to the next deadline for any action that may be taken with respect to such Harpoon Patent or Joint Patent in such country or other jurisdiction), AbbVie shall thereupon have the option, in its sole discretion, to assume the control and direction of the preparation, filing, prosecution, and maintenance of such Harpoon Patent or Joint Patent at its expense in such country or other jurisdiction."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Change Of Control\" that should be reviewed by a lawyer. Details: Does one party have the right to terminate or is consent or notice required of the counterparty if such party undergoes a change of control, such as a merger, stock sale, transfer of all or substantially all of its assets or business, or assignment by operation of law?",
+      "answer": "Harpoon (or its successor) shall provide AbbVie with written notice of any Change in Control of Harpoon or Acquisition by Harpoon within [***] following the closing date of such transaction."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Anti-Assignment\" that should be reviewed by a lawyer. Details: Is consent or notice required of a party if the contract is assigned to a third party?",
+      "answer": "Any attempted assignment or delegation in violation of this Section 13.4 shall be void and of no effect."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Revenue/Profit Sharing\" that should be reviewed by a lawyer. Details: Is one party required to share revenue or profit with the counterparty for any technology, goods, or\u00a0services?",
+      "answer": "AbbVie shall pay to Harpoon the royalty amounts due with respect to a given [***] within [***] after the end of such [***]."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Price Restrictions\" that should be reviewed by a lawyer. Details: Is there a restriction on the\u00a0 ability of a party to raise or reduce prices of technology, goods, or\u00a0 services provided?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Minimum Commitment\" that should be reviewed by a lawyer. Details: Is there a minimum order size or minimum amount or units per-time period that one party must buy from the counterparty under the contract?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Volume Restriction\" that should be reviewed by a lawyer. Details: Is there a fee increase or consent requirement, etc. if one party\u2019s use of the product/services exceeds certain threshold?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Ip Ownership Assignment\" that should be reviewed by a lawyer. Details: Does intellectual property created\u00a0 by one party become the property of the counterparty, either per the terms of the contract or upon the occurrence of certain events?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Joint Ip Ownership\" that should be reviewed by a lawyer. Details: Is there any clause providing for joint or shared ownership of intellectual property between the parties to the contract?",
+      "answer": "Subject to the licenses and rights of reference granted under Sections 5.1 and 5.2 and, in the case of Harpoon, its exclusivity obligations hereunder, each Party shall have the right to Exploit the Joint Intellectual Property Rights without a duty of seeking consent from or accounting to the other Party."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"License Grant\" that should be reviewed by a lawyer. Details: Does the contract contain a license granted by one party to its counterparty?",
+      "answer": "Upon the Effective Date, Harpoon hereby grants to AbbVie the exclusive right, but not the obligation, to obtain the licenses set forth in Section 5.1.3 (the \"License Option\")."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Non-Transferable License\" that should be reviewed by a lawyer. Details: Does the contract limit the ability of a party to transfer the license being granted to a third party?",
+      "answer": "Upon the Effective Date, AbbVie hereby grants to Harpoon a non-exclusive, royalty-free license, without the right to grant sublicenses (other than to permitted subcontractors of Harpoon in accordance with Section 3.7), under the AbbVie Patents, AbbVie Know-How, and AbbVie's interests in the Joint Patents and the Joint Know-How, to Develop and Manufacture the Licensed Compounds or Licensed Products in the Territory solely to the extent necessary for Harpoon to perform its obligations as set forth in, and subject to, the Initial Development Plan."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensor\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor?\u00a0",
+      "answer": "patent applications were to issue as patents) for the Exploitation of the Licensed Compound or a Licensed Product, but excluding any Joint Patents."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensee\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor?",
+      "answer": "AbbVie shall have the right to grant sublicenses (or further rights of reference), through multiple tiers of Sublicensees, under the licenses and rights of reference granted in Sections 5.1.1, 5.1.2 and 5.1.3, to its Affiliates and other Persons; provided that any such sublicenses shall be consistent with the terms and conditions of this Agreement and AbbVie shall remain liable for its obligations under this Agreement and for the performance of all Sublicensees."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Unlimited/All-You-Can-Eat-License\" that should be reviewed by a lawyer. Details: Is there a clause granting one party an \u201centerprise,\u201d \u201call you can eat\u201d or unlimited usage license?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Irrevocable Or Perpetual License\" that should be reviewed by a lawyer. Details: Does the contract contain a\u00a0 license grant that is irrevocable or perpetual?",
+      "answer": "Following the expiration of the Term pursuant to clause (a) (but not clause (b)) of Section 12.1.1, the grants in Section 5.1.3 shall become non-exclusive, fully-paid, royalty-free and irrevocable."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Source Code Escrow\" that should be reviewed by a lawyer. Details: Is one party required to deposit its source code into escrow with a third party, which can be released to the counterparty upon the occurrence of certain events (bankruptcy,\u00a0 insolvency, etc.)?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Post-Termination Services\" that should be reviewed by a lawyer. Details: Is a party subject to obligations after the termination or expiration of a contract, including any post-termination transition, payment, transfer of IP, wind-down, last-buy, or similar commitments?",
+      "answer": "If AbbVie terminates this Agreement with respect to a country or other jurisdiction, or in its entirety pursuant to Section 12.3, AbbVie shall have the right for at least [***] and no more than [***], which period shall be determined by Harpoon in its sole discretion, after the effective date of such termination with respect to such country or other jurisdiction to sell or otherwise dispose of all Licensed Compound or Licensed Product then in its inventory and any in-progress inventory, in each case that is intended for sale or disposition in such country or other jurisdiction, as though this Agreement had not terminated with respect to such country or other jurisdiction, and such sale or disposition shall not constitute infringement of Harpoon's or its Affiliates' Patent or other intellectual property or other proprietary rights."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Audit Rights\" that should be reviewed by a lawyer. Details: Does a party have the right to\u00a0 audit the books, records, or physical locations of the counterparty to ensure compliance with the contract?",
+      "answer": "At the request of Harpoon, AbbVie shall permit an independent public accounting firm of nationally recognized standing designated by Harpoon and reasonably acceptable to AbbVie, [***], to audit the books and records maintained pursuant to this Section 6.11 to ensure the accuracy of all reports and payments made hereunder, including any permitted deductions from Net Sales pursuant to Section 1.108."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Uncapped Liability\" that should be reviewed by a lawyer. Details: Is a party\u2019s liability uncapped upon the breach of its obligation in the contract? This also includes uncap liability for a particular type of breach such as IP infringement or breach of confidentiality obligation.",
+      "answer": "EXCEPT (A) FOR FRAUD, WILLFUL MISCONDUCT OR GROSS NEGLIGENCE, (B) FOR A PARTY'S BREACH OF ITS OBLIGATIONS UNDER [ARTICLE 9 OR SECTION 5.8], (C) AS PROVIDED UNDER [***] AND (D) TO THE EXTENT ANY SUCH DAMAGES ARE REQUIRED TO BE PAID TO A THIRD PARTY AS PART OF A CLAIM FOR WHICH A PARTY PROVIDES INDEMNIFICATION UNDER THIS ARTICLE 11, NEITHER PARTY NOR ANY OF ITS AFFILIATES SHALL BE LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, PUNITIVE OR CONSEQUENTIAL DAMAGES, INCLUDING LOSS OF PROFITS OR BUSINESS INTERRUPTION, HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, TORT, NEGLIGENCE, BREACH OF STATUTORY DUTY OR OTHERWISE IN CONNECTION WITH OR ARISING IN ANY WAY OUT OF THE TERMS OF THIS AGREEMENT OR THE TRANSACTIONS CONTEMPLATED HEREBY OR THE USE OF THE LICENSED COMPOUNDS OR LICENSED PRODUCTS, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Cap On Liability\" that should be reviewed by a lawyer. Details: Does the contract include a cap on liability upon the breach of a party\u2019s obligation? This includes time limitation for the counterparty to bring claims or maximum amount for recovery.",
+      "answer": "EXCEPT (A) FOR FRAUD, WILLFUL MISCONDUCT OR GROSS NEGLIGENCE, (B) FOR A PARTY'S BREACH OF ITS OBLIGATIONS UNDER [ARTICLE 9 OR SECTION 5.8], (C) AS PROVIDED UNDER [***] AND (D) TO THE EXTENT ANY SUCH DAMAGES ARE REQUIRED TO BE PAID TO A THIRD PARTY AS PART OF A CLAIM FOR WHICH A PARTY PROVIDES INDEMNIFICATION UNDER THIS ARTICLE 11, NEITHER PARTY NOR ANY OF ITS AFFILIATES SHALL BE LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, PUNITIVE OR CONSEQUENTIAL DAMAGES, INCLUDING LOSS OF PROFITS OR BUSINESS INTERRUPTION, HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, TORT, NEGLIGENCE, BREACH OF STATUTORY DUTY OR OTHERWISE IN CONNECTION WITH OR ARISING IN ANY WAY OUT OF THE TERMS OF THIS AGREEMENT OR THE TRANSACTIONS CONTEMPLATED HEREBY OR THE USE OF THE LICENSED COMPOUNDS OR LICENSED PRODUCTS, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Liquidated Damages\" that should be reviewed by a lawyer. Details: Does the contract contain a clause that would award either party liquidated damages for breach or a fee upon the termination of a contract (termination fee)?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Warranty Duration\" that should be reviewed by a lawyer. Details: What is the duration of any\u00a0 warranty against defects or errors in technology, products, or services\u00a0 provided under the contract?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Insurance\" that should be reviewed by a lawyer. Details: Is there a requirement for insurance that must be maintained by one party for the benefit of the counterparty?",
+      "answer": "(c) General Liability Insurance with a minimum limit of [***] and [***] in the aggregate. General Liability Insurance shall include Clinical Trial Insurance. The limits may be met with a combination of primary and commercial umbrella insurance."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Covenant Not To Sue\" that should be reviewed by a lawyer. Details: Is a party restricted from contesting the validity of the counterparty\u2019s ownership of intellectual property or otherwise bringing a claim against the counterparty for matters unrelated to the contract?",
+      "answer": "Harpoon shall not, and shall not permit its Affiliates to, attack, dispute, or contest the validity of or ownership of such Product Trademark anywhere in the Territory or any registrations issued or issuing with respect thereto or use in their respective businesses, any Trademark that is confusingly similar to, misleading or deceptive with respect to or that dilutes any (or any part) of the Product Trademarks."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Third Party Beneficiary\" that should be reviewed by a lawyer. Details: Is there a non-contracting party who is a beneficiary to some or all of the clauses in the contract and therefore can enforce its rights against a contracting party?",
+      "answer": ""
+    }
+  ],
+  "title": "HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement",
+  "document_id": "HarpoonTherapeuticsInc_20200312_10-K_EX-10.18_12051356_EX-10.18_Development Agreement",
+  "source": "CUAD"
+}

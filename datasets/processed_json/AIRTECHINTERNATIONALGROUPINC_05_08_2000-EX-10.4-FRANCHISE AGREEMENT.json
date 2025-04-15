@@ -1,0 +1,171 @@
+{
+  "qa_pairs": [
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Document Name\" that should be reviewed by a lawyer. Details: The name of the contract",
+      "answer": "FRANCHISE AGREEMENT"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Parties\" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract",
+      "answer": "(hereinafter \"You\" or by reference \"Franchisee\", or \"Your\")"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Agreement Date\" that should be reviewed by a lawyer. Details: The date of the contract",
+      "answer": "this ____ day of ___________, 2000,"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Effective Date\" that should be reviewed by a lawyer. Details: The date when the contract is effective\u00a0",
+      "answer": "________________, 2000"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Expiration Date\" that should be reviewed by a lawyer. Details: On what date will the contract's initial term expire?",
+      "answer": "The term of this Agreement shall be for 10 years commencing on the date of execution of this Agreement by AIRSOPURE."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Renewal Term\" that should be reviewed by a lawyer. Details: What is the renewal term after the initial term expires? This includes automatic extensions and unilateral extensions with prior notice.",
+      "answer": "At the expiration of the term or any renewal term hereof, You may, at its option, renew the Franchise granted hereunder for 2 additional terms of 10 years each on the following terms and conditions:\n\n\n\n\n\nA. You shall give AIRSOPURE notice in writing of Your election to renew this Agreement at least 3 months prior to the expiration of the then-current term.\n\nB. You shall not be in default of any provision of this Agreement or amendment hereto, including without limitation all payment obligations to AIRSOPURE and its affiliates.\n\nC. As a condition of renewal of the Franchise, You agree to execute AIRSOPURE's then-current form of franchise agreement and to comply fully with all terms and conditions thereof, and to pay AIRSOPURE the then-current renewal fee, which is presently $1,000.00. You understand that AIRSOPURE may revise its franchise agreement for any renewal term, at AIRSOPURE's sole discretion, including without limitation to increase the royalty fees or other fees payable by You or to require other obligations of franchisees.\n\nD. You shall meet AIRSOPURE's then-current qualifications and training requirements.\n\nE. You shall execute a general release in a form prescribed by AIRSOPURE releasing AIRSOPURE and its affiliates, directors, officers, employees and agents from all known and unknown claims and liabilities to the extent permitted by state and federal law.\n\nF. You may be required, at AIRSOPURE's sole discretion, to upgrade or remodel Your AIRSOPURE Center to conform to AIRSOPURE's then-current specifications and standards as specified in AIRSOPURE's Operating Manual of otherwise in writing, provided such upgrade or remodel is reasonable in terms of cost and implementation schedule."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Notice Period To Terminate Renewal\" that should be reviewed by a lawyer. Details: What is the notice period required to terminate renewal?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Governing Law\" that should be reviewed by a lawyer. Details: Which state/country's law governs the interpretation of the contract?",
+      "answer": "This Agreement takes effect upon its acceptance and execution by AIRSOPURE in the State of Texas, and shall be interpreted and construed under the laws of the State of Texas."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Most Favored Nation\" that should be reviewed by a lawyer. Details: Is there a clause that if a third party gets better terms on the licensing or sale of technology/goods/services described in the contract, the buyer of such technology/goods/services under the contract shall be entitled to those better terms?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Non-Compete\" that should be reviewed by a lawyer. Details: Is there a restriction on the ability of a party to compete with the counterparty or operate in a certain geography or business or technology sector?\u00a0",
+      "answer": "You covenant and agree that You (or any shareholder if Your Franchise is a corporation) shall not, for a period of two years following termination of this Agreement for any reason, either directly or indirectly own, maintain, engage in, be employed by, advise, consult, assist, invest in or have any interest whatsoever in any business or entity which competes with or offers products or services which are the same or similar to those of AIRSOPURE or the Franchise within a radius of 25 miles of Your Exclusive Territory."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Exclusivity\" that should be reviewed by a lawyer. Details: Is there an exclusive dealing\u00a0 commitment with the counterparty? This includes a commitment to procure all \u201crequirements\u201d from one party of certain technology, goods, or services or a prohibition on licensing or selling technology, goods or services to third parties, or a prohibition on\u00a0 collaborating or working with other parties), whether during the contract or\u00a0 after the contract ends (or both).",
+      "answer": "The Parties recognize the importance of fully developing the market for Products in the Exclusive Territory, and a substantial part of the consideration for and inducement to AIRSOPURE to enter into this Agreement is Your agreement to devote Your best efforts to market, sell and support Products to customers located in Your Exclusive Territory. You agree to concentrate Your marketing efforts to customers located in Your Territory, and You agree not to advertise the Products using media or publications whose primary coverage area is outside Your Exclusive Territory."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Customers\" that should be reviewed by a lawyer. Details: Is a party restricted from contracting or soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both)?",
+      "answer": "Other AIRSOPURE franchisees will not be permitted to solicit customers for Products by advertising in Your Exclusive Territory."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Competitive Restriction Exception\" that should be reviewed by a lawyer. Details: This category includes the exceptions or carveouts to Non-Compete, Exclusivity and No-Solicit of Customers above.",
+      "answer": "AIRSOPURE covenants and agrees that the restrictions set forth above in Paragraphs 16.02.C and 16.03 shall not apply to ownership by You of less than a 5% beneficial interest in the outstanding equity securities of any publicly traded corporation, provided that You are not an employee, consultant or director of such corporation."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Employees\" that should be reviewed by a lawyer. Details: Is there a restriction on a party\u2019s soliciting or hiring employees and/or contractors from the\u00a0 counterparty, whether during the contract or after the contract ends (or both)?",
+      "answer": "B. Employ or seek to employ any person who is at that time employed by AIRSOPURE or by another AIRSOPURE franchisee or induce such person to leave his or her employment."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Non-Disparagement\" that should be reviewed by a lawyer. Details: Is there a requirement on a party not to disparage the counterparty?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Termination For Convenience\" that should be reviewed by a lawyer. Details: Can a party terminate this\u00a0 contract without cause (solely by giving a notice and allowing a waiting\u00a0 period to expire)?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Rofr/Rofo/Rofn\" that should be reviewed by a lawyer. Details: Is there a clause granting one party a right of first refusal, right of first offer or right of first negotiation to purchase, license, market, or distribute equity interest, technology, assets, products or services?",
+      "answer": "If AIRSOPURE fails to notify You of its election to exercise its right of first refusal granted herein within the thirty day period, then You may sell the franchise rights and license or the stock for the amount of the bona fide offer, subject to AIRSOPURE's rights under Section 12.02 above. Any material change in the terms or conditions of any offer prior to closing shall constitute a new offer subject to AIRSOPURE's right of first refusal described herein. If You fail to consummate the transaction within 30 days from the earlier of: (a) receipt of notice from AIRSOPURE that it elects not to exercise its right of first refusal, or (b) expiration of the 15 day period referred to herein, then You must resubmit the proposed transaction to AIRSOPURE, and AIRSOPURE shall have a new 15 day review period and right of first refusal."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Change Of Control\" that should be reviewed by a lawyer. Details: Does one party have the right to terminate or is consent or notice required of the counterparty if such party undergoes a change of control, such as a merger, stock sale, transfer of all or substantially all of its assets or business, or assignment by operation of law?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Anti-Assignment\" that should be reviewed by a lawyer. Details: Is consent or notice required of a party if the contract is assigned to a third party?",
+      "answer": "Any purported assignment or transfer, by operation of law or otherwise, not having the prior written consent of AIRSOPURE shall be null and void and shall constitute a material breach of this Agreement."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Revenue/Profit Sharing\" that should be reviewed by a lawyer. Details: Is one party required to share revenue or profit with the counterparty for any technology, goods, or\u00a0services?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Price Restrictions\" that should be reviewed by a lawyer. Details: Is there a restriction on the\u00a0 ability of a party to raise or reduce prices of technology, goods, or\u00a0 services provided?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Minimum Commitment\" that should be reviewed by a lawyer. Details: Is there a minimum order size or minimum amount or units per-time period that one party must buy from the counterparty under the contract?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Volume Restriction\" that should be reviewed by a lawyer. Details: Is there a fee increase or consent requirement, etc. if one party\u2019s use of the product/services exceeds certain threshold?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Ip Ownership Assignment\" that should be reviewed by a lawyer. Details: Does intellectual property created\u00a0 by one party become the property of the counterparty, either per the terms of the contract or upon the occurrence of certain events?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Joint Ip Ownership\" that should be reviewed by a lawyer. Details: Is there any clause providing for joint or shared ownership of intellectual property between the parties to the contract?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"License Grant\" that should be reviewed by a lawyer. Details: Does the contract contain a license granted by one party to its counterparty?",
+      "answer": "AIRSOPURE grants to You, and You accept from AIRSOPURE, the right and license to operate an AIRSOPURE Center (or the \"Franchise\") for the sale or lease of AIRSOPURE's exclusive line of Products or at a location in the Exclusive Territory to be approved in writing by AIRSOPURE and listed in attached Exhibit A (the \"Exclusive Territory and Center Location\"), to purchase Products from AIRSOPURE or its affiliates for resale at the Center to customers in the Exclusive Territory, and to use the Licensed Marks only in connection with the operation of the Franchise in accordance with the terms and conditions of this Agreement."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Non-Transferable License\" that should be reviewed by a lawyer. Details: Does the contract limit the ability of a party to transfer the license being granted to a third party?",
+      "answer": "Accordingly, You shall not sell, assign, transfer, convey, give away, mortgage or otherwise encumber any direct or indirect interest in the Franchise without the prior written consent of AIRSOPURE."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensor\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor?\u00a0",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensee\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Unlimited/All-You-Can-Eat-License\" that should be reviewed by a lawyer. Details: Is there a clause granting one party an \u201centerprise,\u201d \u201call you can eat\u201d or unlimited usage license?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Irrevocable Or Perpetual License\" that should be reviewed by a lawyer. Details: Does the contract contain a\u00a0 license grant that is irrevocable or perpetual?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Source Code Escrow\" that should be reviewed by a lawyer. Details: Is one party required to deposit its source code into escrow with a third party, which can be released to the counterparty upon the occurrence of certain events (bankruptcy,\u00a0 insolvency, etc.)?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Post-Termination Services\" that should be reviewed by a lawyer. Details: Is a party subject to obligations after the termination or expiration of a contract, including any post-termination transition, payment, transfer of IP, wind-down, last-buy, or similar commitments?",
+      "answer": "C. You shall take such action as may be necessary to cancel any assumed name or equivalent registrations or listings in telephone or other directories which contain the names or Licensed Marks of AIRSOPURE, and You shall furnish AIRSOPURE with evidence satisfactory to AIRSOPURE of compliance with this obligation within 30 days after termination or expiration of this Agreement."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Audit Rights\" that should be reviewed by a lawyer. Details: Does a party have the right to\u00a0 audit the books, records, or physical locations of the counterparty to ensure compliance with the contract?",
+      "answer": "AIRSOPURE or its designated agents shall have the right at all reasonable times to examine and copy, at its expense, all books, records, receipts and tax returns of Yours related to the Franchise and, at its option, to have an independent audit made, and thereupon be allowed to search Your computer accounting files."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Uncapped Liability\" that should be reviewed by a lawyer. Details: Is a party\u2019s liability uncapped upon the breach of its obligation in the contract? This also includes uncap liability for a particular type of breach such as IP infringement or breach of confidentiality obligation.",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Cap On Liability\" that should be reviewed by a lawyer. Details: Does the contract include a cap on liability upon the breach of a party\u2019s obligation? This includes time limitation for the counterparty to bring claims or maximum amount for recovery.",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Liquidated Damages\" that should be reviewed by a lawyer. Details: Does the contract contain a clause that would award either party liquidated damages for breach or a fee upon the termination of a contract (termination fee)?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Warranty Duration\" that should be reviewed by a lawyer. Details: What is the duration of any\u00a0 warranty against defects or errors in technology, products, or services\u00a0 provided under the contract?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Insurance\" that should be reviewed by a lawyer. Details: Is there a requirement for insurance that must be maintained by one party for the benefit of the counterparty?",
+      "answer": "The evidence of insurance shall include a statement by the insurer that the policy or policies will not be canceled or materially altered without at least 30 days prior written notice to AIRSOPURE."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Covenant Not To Sue\" that should be reviewed by a lawyer. Details: Is a party restricted from contesting the validity of the counterparty\u2019s ownership of intellectual property or otherwise bringing a claim against the counterparty for matters unrelated to the contract?",
+      "answer": "You shall not directly or indirectly contest the validity of the ownership of the Licensed Marks."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Third Party Beneficiary\" that should be reviewed by a lawyer. Details: Is there a non-contracting party who is a beneficiary to some or all of the clauses in the contract and therefore can enforce its rights against a contracting party?",
+      "answer": ""
+    }
+  ],
+  "title": "AIRTECHINTERNATIONALGROUPINC_05_08_2000-EX-10.4-FRANCHISE AGREEMENT",
+  "document_id": "AIRTECHINTERNATIONALGROUPINC_05_08_2000-EX-10.4-FRANCHISE AGREEMENT",
+  "source": "CUAD"
+}

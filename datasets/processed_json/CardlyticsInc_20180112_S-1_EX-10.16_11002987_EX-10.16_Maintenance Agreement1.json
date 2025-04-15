@@ -1,0 +1,171 @@
+{
+  "qa_pairs": [
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Document Name\" that should be reviewed by a lawyer. Details: The name of the contract",
+      "answer": "Software License, Customization and Maintenance Agreement"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Parties\" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract",
+      "answer": "Bank of America, N.A."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Agreement Date\" that should be reviewed by a lawyer. Details: The date of the contract",
+      "answer": "11/4/10"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Effective Date\" that should be reviewed by a lawyer. Details: The date when the contract is effective\u00a0",
+      "answer": "11/4/10"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Expiration Date\" that should be reviewed by a lawyer. Details: On what date will the contract's initial term expire?",
+      "answer": "This Agreement shall apply and remain in effect from the Effective Date and perpetually thereafter unless terminated pursuant to the Section entitled \"Termination.\""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Renewal Term\" that should be reviewed by a lawyer. Details: What is the renewal term after the initial term expires? This includes automatic extensions and unilateral extensions with prior notice.",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Notice Period To Terminate Renewal\" that should be reviewed by a lawyer. Details: What is the notice period required to terminate renewal?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Governing Law\" that should be reviewed by a lawyer. Details: Which state/country's law governs the interpretation of the contract?",
+      "answer": "This Agreement shall be governed by the internal laws, and not by the laws regarding conflicts of laws, of the State of North Carolina."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Most Favored Nation\" that should be reviewed by a lawyer. Details: Is there a clause that if a third party gets better terms on the licensing or sale of technology/goods/services described in the contract, the buyer of such technology/goods/services under the contract shall be entitled to those better terms?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Non-Compete\" that should be reviewed by a lawyer. Details: Is there a restriction on the ability of a party to compete with the counterparty or operate in a certain geography or business or technology sector?\u00a0",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Exclusivity\" that should be reviewed by a lawyer. Details: Is there an exclusive dealing\u00a0 commitment with the counterparty? This includes a commitment to procure all \u201crequirements\u201d from one party of certain technology, goods, or services or a prohibition on licensing or selling technology, goods or services to third parties, or a prohibition on\u00a0 collaborating or working with other parties), whether during the contract or\u00a0 after the contract ends (or both).",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Customers\" that should be reviewed by a lawyer. Details: Is a party restricted from contracting or soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both)?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Competitive Restriction Exception\" that should be reviewed by a lawyer. Details: This category includes the exceptions or carveouts to Non-Compete, Exclusivity and No-Solicit of Customers above.",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Employees\" that should be reviewed by a lawyer. Details: Is there a restriction on a party\u2019s soliciting or hiring employees and/or contractors from the\u00a0 counterparty, whether during the contract or after the contract ends (or both)?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Non-Disparagement\" that should be reviewed by a lawyer. Details: Is there a requirement on a party not to disparage the counterparty?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Termination For Convenience\" that should be reviewed by a lawyer. Details: Can a party terminate this\u00a0 contract without cause (solely by giving a notice and allowing a waiting\u00a0 period to expire)?",
+      "answer": "hereunder; and (b) Bank of America may terminate Maintenance Services under any Product License Schedule or Order for convenience at any time, and Bank of America shall then have no obligation to pay any additional Maintenance Fees, other than for Maintenance Services performed through the date of termination."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Rofr/Rofo/Rofn\" that should be reviewed by a lawyer. Details: Is there a clause granting one party a right of first refusal, right of first offer or right of first negotiation to purchase, license, market, or distribute equity interest, technology, assets, products or services?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Change Of Control\" that should be reviewed by a lawyer. Details: Does one party have the right to terminate or is consent or notice required of the counterparty if such party undergoes a change of control, such as a merger, stock sale, transfer of all or substantially all of its assets or business, or assignment by operation of law?",
+      "answer": "A Termination Event shall have occurred if:"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Anti-Assignment\" that should be reviewed by a lawyer. Details: Is consent or notice required of a party if the contract is assigned to a third party?",
+      "answer": "Neither Party may assign this Agreement or any of the rights hereunder or delegate any of its obligations hereunder, without the prior written consent of the other Party, and any such attempted assignment shall be void, except that Bank of America or any permitted Bank of America assignee may assign any of its rights and obligations under this Agreement (including, without limitation, any individual Order) to any Bank of America Affiliate, the surviving corporation with or into which Bank of America or such assignee may merge or consolidate or an entity to which Bank of America or such assignee transfers all, or substantially all, of its business and assets."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Revenue/Profit Sharing\" that should be reviewed by a lawyer. Details: Is one party required to share revenue or profit with the counterparty for any technology, goods, or\u00a0services?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Price Restrictions\" that should be reviewed by a lawyer. Details: Is there a restriction on the\u00a0 ability of a party to raise or reduce prices of technology, goods, or\u00a0 services provided?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Minimum Commitment\" that should be reviewed by a lawyer. Details: Is there a minimum order size or minimum amount or units per-time period that one party must buy from the counterparty under the contract?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Volume Restriction\" that should be reviewed by a lawyer. Details: Is there a fee increase or consent requirement, etc. if one party\u2019s use of the product/services exceeds certain threshold?",
+      "answer": "The supplier will provide no more than two major code releases of OPS during a calendar year without Bank of America's consent."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Ip Ownership Assignment\" that should be reviewed by a lawyer. Details: Does intellectual property created\u00a0 by one party become the property of the counterparty, either per the terms of the contract or upon the occurrence of certain events?",
+      "answer": "Bank of America will own exclusively all Work Product and Supplier hereby assigns to Bank of America all right, title and interest (including all Intellectual Property Rights) in the Work Product. Work Product, to the extent permitted by law, shall be deemed \"works made for hire\" (as that term is defined in the United States Copyright Act)."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Joint Ip Ownership\" that should be reviewed by a lawyer. Details: Is there any clause providing for joint or shared ownership of intellectual property between the parties to the contract?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"License Grant\" that should be reviewed by a lawyer. Details: Does the contract contain a license granted by one party to its counterparty?",
+      "answer": "In addition, Bank of America may, at no additional charge other than the Software license fees specified in each Product License Schedule, (i) install, use, execute and copy the Software for any backup, archival and emergency purposes and any internal, non-production Bank of America purpose including for test, development, and training; (ii) allow a third party outsourcer or service provider to install, use, execute and copy the Software solely in connection with its provision of services to Bank of America, provided that such use does not extend to providing services to others; and (iii) transfer the Software to any other Platform or Installation Site replacing that on which it was previously installed."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Non-Transferable License\" that should be reviewed by a lawyer. Details: Does the contract limit the ability of a party to transfer the license being granted to a third party?",
+      "answer": "Without limiting the foregoing, but subject to the restrictions set forth in Section 2.5 hereof, Bank of America may: (x) sublicense its rights granted herein to its third party contractors for the purpose of their performing services for Bank of America and its Affiliates (which services may include, without limitation, altering, modifying, enhancing and improving the Software and creating derivatives to the Software), provided that such third party contractors have entered into a written agreement containing commercially standard confidentiality provisions requiring them to maintain the Source Code to the Licensed Programs securely and in confidence (subject to commercially standard exceptions), prior to having access to the Source Code for the Software: (y) sublicense its rights in the Software excluding any rights in the Source Code, to its end user customers as necessary for Bank of America to provide services to such end user customers; and (z) host the Software on its systems (or allow a third party to host the Software on its behalf) and make the Software available for use by its end user customers through the internet or other similar means."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensor\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor?\u00a0",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensee\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor?",
+      "answer": "Supplier hereby grants Bank of America a nonexclusive, worldwide, irrevocable, perpetual license to: (a) any patents related to or necessary or desirable to use the Software to the extent such patents are now held, licensed to or hereafter acquired by Supplier, for the purpose of allowing Bank of America and its Affiliates and permitted assigns to install, copy, use, execute, modify, distribute (as necessary or useful for Bank of America and its Affiliates and permitted assigns to enjoy their rights as set forth in the Agreement), make, have made, enhance, improve and alter the Software (both in Object Code and Source Code form) as necessary to conduct Bank of America business in accordance with the terms and restrictions or this Section; (b) any Copyrights now held, licensed to or hereafter acquired by Supplier in the Software for the purpose of allowing Bank of America and its Affiliates an permitted assigns to install, copy, use, execute, modify, distribute (as necessary or useful for Bank of America and its Affiliates and permitted assigns to enjoy their fights as set forth In the Agreement, produce derivative works from and"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Unlimited/All-You-Can-Eat-License\" that should be reviewed by a lawyer. Details: Is there a clause granting one party an \u201centerprise,\u201d \u201call you can eat\u201d or unlimited usage license?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Irrevocable Or Perpetual License\" that should be reviewed by a lawyer. Details: Does the contract contain a\u00a0 license grant that is irrevocable or perpetual?",
+      "answer": "Unless otherwise agreed in an Order, Supplier grants Bank of America a perpetual, worldwide, irrevocable, nonexclusive royalty free license to any Pre-existing IP embedded in the Work Product, which shall permit Bank of America and any transferee or sublicensee of Bank of America, subject to the restrictions in this Agreement, to make, use, import, reproduce, display, distribute, make derivative works and modify such Pre-existing IP as necessary or desirable for the use of the Work Product."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Source Code Escrow\" that should be reviewed by a lawyer. Details: Is one party required to deposit its source code into escrow with a third party, which can be released to the counterparty upon the occurrence of certain events (bankruptcy,\u00a0 insolvency, etc.)?",
+      "answer": "Bank of America shall notify Supplier of the dates on which any such verification will be conducted, and the results thereof."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Post-Termination Services\" that should be reviewed by a lawyer. Details: Is a party subject to obligations after the termination or expiration of a contract, including any post-termination transition, payment, transfer of IP, wind-down, last-buy, or similar commitments?",
+      "answer": "In no event shall the transition exceed one hundred eighty [180] calendar days from the date of termination unless the Parties otherwise agree in writing."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Audit Rights\" that should be reviewed by a lawyer. Details: Does a party have the right to\u00a0 audit the books, records, or physical locations of the counterparty to ensure compliance with the contract?",
+      "answer": "Upon request from Bank of America, Supplier shall provide to Bank of America (or a Representative designated by Bank of America) access to such Records for the purpose of auditing such Records during normal business hours."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Uncapped Liability\" that should be reviewed by a lawyer. Details: Is a party\u2019s liability uncapped upon the breach of its obligation in the contract? This also includes uncap liability for a particular type of breach such as IP infringement or breach of confidentiality obligation.",
+      "answer": "Neither Party shall be liable to the other for any special, indirect, incidental, consequential, punitive or exemplary damages, including, but not limited to, lost profits, even if such Party alleged to be liable has knowledge of the possibility of such damages, provided, however, that the limitations set forth in this Section shall not apply to or in any way limit the obligations of the Section entitled \"Indemnity,\" the Section entitled \"Confidentiality and Information Protection,\" or Supplier's gross negligence or willful misconduct."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Cap On Liability\" that should be reviewed by a lawyer. Details: Does the contract include a cap on liability upon the breach of a party\u2019s obligation? This includes time limitation for the counterparty to bring claims or maximum amount for recovery.",
+      "answer": "Neither Party shall be liable to the other for any special, indirect, incidental, consequential, punitive or exemplary damages, including, but not limited to, lost profits, even if such Party alleged to be liable has knowledge of the possibility of such damages, provided, however, that the limitations set forth in this Section shall not apply to or in any way limit the obligations of the Section entitled \"Indemnity,\" the Section entitled \"Confidentiality and Information Protection,\" or Supplier's gross negligence or willful misconduct."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Liquidated Damages\" that should be reviewed by a lawyer. Details: Does the contract contain a clause that would award either party liquidated damages for breach or a fee upon the termination of a contract (termination fee)?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Warranty Duration\" that should be reviewed by a lawyer. Details: What is the duration of any\u00a0 warranty against defects or errors in technology, products, or services\u00a0 provided under the contract?",
+      "answer": "If the Software is not Operative at the expiration of the initial Warranty Period, the Warranty Period shall be extended until Supplier makes the Software Operative."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Insurance\" that should be reviewed by a lawyer. Details: Is there a requirement for insurance that must be maintained by one party for the benefit of the counterparty?",
+      "answer": "Technology Errors and Omissions Insurance with minimum limits of not less than $5,000,000, covering liabilities arising from errors, omission, etc., in rendering computer or information technology services including but not limited to (1) systems analysis (2) systems programming (3) data processing (4) systems integration (5) outsourcing including outsourcing development and design (6) systems design, consulting, development and modification (7) training services relating to computer software or hardware (8) management, repair and maintenance of computer products, networks and systems (9) marketing, selling, servicing, distributing, installing and maintaining computer hardware or software (10) data entry, modification, verification, maintenance, storage, retrieval or preparation of data output."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Covenant Not To Sue\" that should be reviewed by a lawyer. Details: Is a party restricted from contesting the validity of the counterparty\u2019s ownership of intellectual property or otherwise bringing a claim against the counterparty for matters unrelated to the contract?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Third Party Beneficiary\" that should be reviewed by a lawyer. Details: Is there a non-contracting party who is a beneficiary to some or all of the clauses in the contract and therefore can enforce its rights against a contracting party?",
+      "answer": "Except as expressly set forth in this Agreement and with the exception of the Affiliates of Bank of America, the Parties do not intend the benefits of this Agreement to inure to any third party, and nothing contained herein shall be construed as creating any right, claim or cause of action in favor of any such other third party, against either of the Parties hereto."
+    }
+  ],
+  "title": "CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement1",
+  "document_id": "CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement1",
+  "source": "CUAD"
+}

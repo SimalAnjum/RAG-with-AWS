@@ -1,0 +1,171 @@
+{
+  "qa_pairs": [
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Document Name\" that should be reviewed by a lawyer. Details: The name of the contract",
+      "answer": "BUSINESS DEVELOPMENT AGREEMENT"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Parties\" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract",
+      "answer": "LIQUIDMETAL TECHNOLOGIES, INC."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Agreement Date\" that should be reviewed by a lawyer. Details: The date of the contract",
+      "answer": ", 2020"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Effective Date\" that should be reviewed by a lawyer. Details: The date when the contract is effective\u00a0",
+      "answer": ", 2020"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Expiration Date\" that should be reviewed by a lawyer. Details: On what date will the contract's initial term expire?",
+      "answer": "The initial term of this Agreement shall commence on the Effective Date and shall continue until the fifth (5t h) anniversary of the Effective Date (the \"Term\"), unless the Agreement is sooner terminated in accordance with the terms of this Agreement."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Renewal Term\" that should be reviewed by a lawyer. Details: What is the renewal term after the initial term expires? This includes automatic extensions and unilateral extensions with prior notice.",
+      "answer": "Upon the expiration of the Term, the Term shall automatically extend for successive 12-month periods until one Party terminates the Agreement by providing at least 180 days prior written notice to the other Party prior to the expiration of the then-current term or unless sooner terminated in accordance with the terms of this Agreement."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Notice Period To Terminate Renewal\" that should be reviewed by a lawyer. Details: What is the notice period required to terminate renewal?",
+      "answer": "Either Party may terminate this Agreement for any reason upon providing 180 days prior written notice to the other Party prior to the expiration of the then-current term or unless sooner terminated in accordance with the terms of this Agreement."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Governing Law\" that should be reviewed by a lawyer. Details: Which state/country's law governs the interpretation of the contract?",
+      "answer": "This Agreement, the legal relations between the parties, and any action, whether contractual or non-contractual, instituted by any party with respect to matters arising under or growing out of or in connection with or in respect of this Agreement shall be governed by and construed in accordance with the internal laws of the State of Arizona (U.S.A.), excluding any choice of law rules that may direct the application of the laws of another jurisdiction, and except that questions affecting the construction and effect of any Patent shall be determined by the law of the country in which the Patent has been granted."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Most Favored Nation\" that should be reviewed by a lawyer. Details: Is there a clause that if a third party gets better terms on the licensing or sale of technology/goods/services described in the contract, the buyer of such technology/goods/services under the contract shall be entitled to those better terms?",
+      "answer": "Eutectix agrees that in the event any Licensed Products shall be sold (1) to any Affiliate (as defined herein), or (2) to a corporation, firm, or association with which, or individual with whom Eutectix or its stockholders or Affiliates shall have any agreement, understanding, or arrangement (such as, among other things, an option to purchase stock, or an arrangement involving a division of profits or special rebates or allowances) without which agreement, understanding, or arrangement, prices paid by such a corporation, firm, association or individual for the Licensed Products would be higher than the Net Sales Price reported by Eutectix, or if such agreement, understanding, or arrangement results in extending to such corporation, firm, association, or individual lower prices for Licensed Products than those charged to outside concerns buying similar products in similar amounts and under similar conditions, then, and in any such events, the royalties to be paid hereunder in respect of such Licensed Products shall be computed based on an assumed or deemed Net Sales Price equal to those charged to such outside concerns."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Non-Compete\" that should be reviewed by a lawyer. Details: Is there a restriction on the ability of a party to compete with the counterparty or operate in a certain geography or business or technology sector?\u00a0",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Exclusivity\" that should be reviewed by a lawyer. Details: Is there an exclusive dealing\u00a0 commitment with the counterparty? This includes a commitment to procure all \u201crequirements\u201d from one party of certain technology, goods, or services or a prohibition on licensing or selling technology, goods or services to third parties, or a prohibition on\u00a0 collaborating or working with other parties), whether during the contract or\u00a0 after the contract ends (or both).",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Customers\" that should be reviewed by a lawyer. Details: Is a party restricted from contracting or soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both)?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Competitive Restriction Exception\" that should be reviewed by a lawyer. Details: This category includes the exceptions or carveouts to Non-Compete, Exclusivity and No-Solicit of Customers above.",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Employees\" that should be reviewed by a lawyer. Details: Is there a restriction on a party\u2019s soliciting or hiring employees and/or contractors from the\u00a0 counterparty, whether during the contract or after the contract ends (or both)?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Non-Disparagement\" that should be reviewed by a lawyer. Details: Is there a requirement on a party not to disparage the counterparty?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Termination For Convenience\" that should be reviewed by a lawyer. Details: Can a party terminate this\u00a0 contract without cause (solely by giving a notice and allowing a waiting\u00a0 period to expire)?",
+      "answer": "Either Party may terminate this Agreement for any reason upon providing 180 days prior written notice to the other Party prior to the expiration of the then-current term or unless sooner terminated in accordance with the terms of this Agreement."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Rofr/Rofo/Rofn\" that should be reviewed by a lawyer. Details: Is there a clause granting one party a right of first refusal, right of first offer or right of first negotiation to purchase, license, market, or distribute equity interest, technology, assets, products or services?",
+      "answer": "Upon expiration or termination of this Agreement for any reason, Eutectix shall have the option to purchase some or all of the Licensed Equipment at fair market value, less any amounts owed to Eutectix by Liquidmetal, except the equipment listed under Section 2.1(b) above."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Change Of Control\" that should be reviewed by a lawyer. Details: Does one party have the right to terminate or is consent or notice required of the counterparty if such party undergoes a change of control, such as a merger, stock sale, transfer of all or substantially all of its assets or business, or assignment by operation of law?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Anti-Assignment\" that should be reviewed by a lawyer. Details: Is consent or notice required of a party if the contract is assigned to a third party?",
+      "answer": "Neither this Agreement nor any rights or obligations hereunder shall be transferred or assigned by either Party without the written consent of the other Party, which consent shall not be unreasonably withheld; provided, however, that Liquidmetal shall have the right, without the prior written consent of Eutectix, to assign its warranty rights and other rights hereunder with respect to specific Liquidmetal Products to the Customers of such Liquidmetal Products."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Revenue/Profit Sharing\" that should be reviewed by a lawyer. Details: Is one party required to share revenue or profit with the counterparty for any technology, goods, or\u00a0services?",
+      "answer": "New Process Technologies that have been developed by cooperation of the Parties shall be jointly and equally owned by the Parties, and any royalties for the use thereof by third parties shall be shared equitably between the Parties."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Price Restrictions\" that should be reviewed by a lawyer. Details: Is there a restriction on the\u00a0 ability of a party to raise or reduce prices of technology, goods, or\u00a0 services provided?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Minimum Commitment\" that should be reviewed by a lawyer. Details: Is there a minimum order size or minimum amount or units per-time period that one party must buy from the counterparty under the contract?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Volume Restriction\" that should be reviewed by a lawyer. Details: Is there a fee increase or consent requirement, etc. if one party\u2019s use of the product/services exceeds certain threshold?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Ip Ownership Assignment\" that should be reviewed by a lawyer. Details: Does intellectual property created\u00a0 by one party become the property of the counterparty, either per the terms of the contract or upon the occurrence of certain events?",
+      "answer": "To the extent that the Parties have jointly developed any New Amorphous Alloy Technology and they have agreed that such New Amorphous Alloy Technology will be jointly owned, as set forth in Section 8.2 above, each Party hereby assigns to the other, and will cause its employees, contractors, representatives, successors, assigns, Affiliates, parents, subsidiaries, officers and directors to assign to the other, a co-equal right, title and interest in and to any such jointly developed New Amorphous Alloy Technology. T"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Joint Ip Ownership\" that should be reviewed by a lawyer. Details: Is there any clause providing for joint or shared ownership of intellectual property between the parties to the contract?",
+      "answer": "New Application Technologies that have been developed by cooperation of the Parties shall be jointly and equally owned by the Parties, and any royalties for the use thereof by third parties shall be shared equitably between the Parties"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"License Grant\" that should be reviewed by a lawyer. Details: Does the contract contain a license granted by one party to its counterparty?",
+      "answer": "Liquidmetal grants to Eutectix during the Term of this Agreement and subject to the Field of Use Restrictions (as defined below), a royalty-bearing, worldwide, non-transferrable, non-exclusive license (or sublicense as the case may be) to the Licensed Patents (as defined below) and the Licensed Technical Information (as defined below) to make and have made, assemble and have assembled, use, sell, offer to sell, import and offer to import, export and offer to export, distribute and offer to distribute, repair, reconstruct, practice, and maintain Licensed Products in the Field (as defined below)."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Non-Transferable License\" that should be reviewed by a lawyer. Details: Does the contract limit the ability of a party to transfer the license being granted to a third party?",
+      "answer": "Liquidmetal grants to Eutectix during the Term of this Agreement and subject to the Field of Use Restrictions (as defined below), a royalty-bearing, worldwide, non-transferrable, non-exclusive license (or sublicense as the case may be) to the Licensed Patents (as defined below) and the Licensed Technical Information (as defined below) to make and have made, assemble and have assembled, use, sell, offer to sell, import and offer to import, export and offer to export, distribute and offer to distribute, repair, reconstruct, practice, and maintain Licensed Products in the Field (as defined below)."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensor\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor?\u00a0",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensee\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Unlimited/All-You-Can-Eat-License\" that should be reviewed by a lawyer. Details: Is there a clause granting one party an \u201centerprise,\u201d \u201call you can eat\u201d or unlimited usage license?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Irrevocable Or Perpetual License\" that should be reviewed by a lawyer. Details: Does the contract contain a\u00a0 license grant that is irrevocable or perpetual?",
+      "answer": "Eutectix hereby grants to Liquidmetal a fully-paid up, royalty-free, perpetual, world-wide, non-exclusive license to any New Process Technologies in which Eutectix acquires licensing rights pursuant to Section 8.2 above."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Source Code Escrow\" that should be reviewed by a lawyer. Details: Is one party required to deposit its source code into escrow with a third party, which can be released to the counterparty upon the occurrence of certain events (bankruptcy,\u00a0 insolvency, etc.)?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Post-Termination Services\" that should be reviewed by a lawyer. Details: Is a party subject to obligations after the termination or expiration of a contract, including any post-termination transition, payment, transfer of IP, wind-down, last-buy, or similar commitments?",
+      "answer": "Notwithstanding the foregoing, with regard to orders received and accepted by Eutectix before expiration or notice of termination, Eutectix may finish making any products in process, may conclude any orders in process, including finishing manufacturing of such products and shipping such products to the customer for up to 6 months after termination or expiration of this Agreement;"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Audit Rights\" that should be reviewed by a lawyer. Details: Does a party have the right to\u00a0 audit the books, records, or physical locations of the counterparty to ensure compliance with the contract?",
+      "answer": "Upon reasonable prior notice to Eutectix and at Liquidmetal's expense, no more than once per year, during the Term of this Agreement and for one (1) year following the expiration or termination of this Agreement, Liquidmetal or its designee shall have the right from time to time to confirm and validate: (a) that Eutectix has complied with the pricing provisions of this Agreement; (b) Eutectix's financial condition, successorship planning, and ability to continue operations; (c) that Eutectix's performance is consistent with the Agreement; (d) that Eutectix has complied with Article 10 (Compliance) of this Agreement. Upon reasonable and prior notice to Eutectix, Eutectix will also provide Liquidmetal or its designee from time to time with reasonable access to Eutectix's facility and the facilities of its sub-suppliers and other subcontractors to permit Liquidmetal to inspect the production, handling, and storage of Liquidmetal Products and the Licensed Equipment and inventories of raw materials and components. Eutectix shall maintain an orderly storage bookkeeping so that the respective inventory of the Licensed Equipment, Liquidmetal Products and property of Liquidmetal can be immediately recognized; and (e) such confirmation and validation to be conducted with minimal disruption to Eutectix's business operations and all information disclosed during such exercise to be deemed to be Confidential Information."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Uncapped Liability\" that should be reviewed by a lawyer. Details: Is a party\u2019s liability uncapped upon the breach of its obligation in the contract? This also includes uncap liability for a particular type of breach such as IP infringement or breach of confidentiality obligation.",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Cap On Liability\" that should be reviewed by a lawyer. Details: Does the contract include a cap on liability upon the breach of a party\u2019s obligation? This includes time limitation for the counterparty to bring claims or maximum amount for recovery.",
+      "answer": "NEITHER PARTY SHALL BE LIABLE TO OTHER PARTY FOR ANY LOST PROFITS, LOST REVENUES, OR ANY OTHER INCIDENTAL, INDIRECT, PUNITIVE, SPECIAL OR CONSEQUENTIAL DAMAGES WHATSOEVER ARISING OUT OF THIS AGREEMENT OR ANY ORDER, OR OUT OF THE PERFORMANCE OR BREACH OF THIS AGREEMENT OR ANY ORDER, EVEN IF THE PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Liquidated Damages\" that should be reviewed by a lawyer. Details: Does the contract contain a clause that would award either party liquidated damages for breach or a fee upon the termination of a contract (termination fee)?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Warranty Duration\" that should be reviewed by a lawyer. Details: What is the duration of any\u00a0 warranty against defects or errors in technology, products, or services\u00a0 provided under the contract?",
+      "answer": "Unless Liquidmetal notifies Eutectix that the Liquidmetal Product does not meet the Specifications within thirty (30) calendar days after receipt of the Liquidmetal Product, then the Liquidmetal Product shall be deemed Accepted."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Insurance\" that should be reviewed by a lawyer. Details: Is there a requirement for insurance that must be maintained by one party for the benefit of the counterparty?",
+      "answer": "Eutectix shall, at its own expense: (c) keep the Licensed Equipment in a suitable place, safe from loss or damage; (d) subscribe to an insurance policy from an insurance company reasonably acceptable to Eutectix covering the Licensed Equipment at full replacement value against fire, theft and such other normal business risks, with a waiver of subrogation in favor of Liquidmetal and with Liquidmetal to be named as an additional insured and loss payee, and provide, upon receipt of a written request from Liquidmetal, a certificate evidencing such insurance, and comply with all requirements associated with such insurance policy;"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Covenant Not To Sue\" that should be reviewed by a lawyer. Details: Is a party restricted from contesting the validity of the counterparty\u2019s ownership of intellectual property or otherwise bringing a claim against the counterparty for matters unrelated to the contract?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Third Party Beneficiary\" that should be reviewed by a lawyer. Details: Is there a non-contracting party who is a beneficiary to some or all of the clauses in the contract and therefore can enforce its rights against a contracting party?",
+      "answer": ""
+    }
+  ],
+  "title": "LiquidmetalTechnologiesInc_20200205_8-K_EX-10.1_11968198_EX-10.1_Development Agreement",
+  "document_id": "LiquidmetalTechnologiesInc_20200205_8-K_EX-10.1_11968198_EX-10.1_Development Agreement",
+  "source": "CUAD"
+}

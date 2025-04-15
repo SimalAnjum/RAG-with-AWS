@@ -1,0 +1,171 @@
+{
+  "qa_pairs": [
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Document Name\" that should be reviewed by a lawyer. Details: The name of the contract",
+      "answer": "COLLABORATIVE RESEARCH, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Parties\" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract",
+      "answer": "Sanofi"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Agreement Date\" that should be reviewed by a lawyer. Details: The date of the contract",
+      "answer": "June 8, 2018"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Effective Date\" that should be reviewed by a lawyer. Details: The date when the contract is effective\u00a0",
+      "answer": "June 8, 2018"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Expiration Date\" that should be reviewed by a lawyer. Details: On what date will the contract's initial term expire?",
+      "answer": "The term of this Agreement shall commence upon the Effective Date and, unless earlier terminated pursuant to this Article XII, shall continue in full force and effect until the expiration of Sanofi's payment obligations under Article IX or the Profit/Loss Share Agreement, whichever is later (the \"Term\")."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Renewal Term\" that should be reviewed by a lawyer. Details: What is the renewal term after the initial term expires? This includes automatic extensions and unilateral extensions with prior notice.",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Notice Period To Terminate Renewal\" that should be reviewed by a lawyer. Details: What is the notice period required to terminate renewal?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Governing Law\" that should be reviewed by a lawyer. Details: Which state/country's law governs the interpretation of the contract?",
+      "answer": "This Agreement shall be governed by and construed in accordance with the laws of the State of New York without reference to any rules of conflict of laws."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Most Favored Nation\" that should be reviewed by a lawyer. Details: Is there a clause that if a third party gets better terms on the licensing or sale of technology/goods/services described in the contract, the buyer of such technology/goods/services under the contract shall be entitled to those better terms?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Non-Compete\" that should be reviewed by a lawyer. Details: Is there a restriction on the ability of a party to compete with the counterparty or operate in a certain geography or business or technology sector?\u00a0",
+      "answer": "If after [***]: (i) Sanofi or its Affiliates, alone or with or through a Third Party, develop, manufacture or commercialize a Competing Product and (ii) Sanofi or its Affiliates have not commenced a Registrational Clinical Trial for a Product prior to commencing the activities in Section 12.2(d)(i), RevMed may terminate this Agreement effective [***] after it delivers written notice to Sanofi that it is exercising its rights under this Section 12.2(d) unless Sanofi elects in writing within such [***] period to [***]."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Exclusivity\" that should be reviewed by a lawyer. Details: Is there an exclusive dealing\u00a0 commitment with the counterparty? This includes a commitment to procure all \u201crequirements\u201d from one party of certain technology, goods, or services or a prohibition on licensing or selling technology, goods or services to third parties, or a prohibition on\u00a0 collaborating or working with other parties), whether during the contract or\u00a0 after the contract ends (or both).",
+      "answer": "Subject to the terms and conditions of this Agreement, RevMed hereby grants to Sanofi an exclusive (even as to RevMed and its Affiliates), royalty-bearing license (which shall be sub-licensable solely as provided in Section 3.4) under the RevMed Licensed Technology, to Research, Develop, Manufacture, use, sell, offer for sale, import and otherwise Commercialize and exploit Products (including, for clarity, any Companion Diagnostics with respect to such Products) in the Field in the Licensed Territory."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Customers\" that should be reviewed by a lawyer. Details: Is a party restricted from contracting or soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both)?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Competitive Restriction Exception\" that should be reviewed by a lawyer. Details: This category includes the exceptions or carveouts to Non-Compete, Exclusivity and No-Solicit of Customers above.",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Employees\" that should be reviewed by a lawyer. Details: Is there a restriction on a party\u2019s soliciting or hiring employees and/or contractors from the\u00a0 counterparty, whether during the contract or after the contract ends (or both)?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Non-Disparagement\" that should be reviewed by a lawyer. Details: Is there a requirement on a party not to disparage the counterparty?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Termination For Convenience\" that should be reviewed by a lawyer. Details: Can a party terminate this\u00a0 contract without cause (solely by giving a notice and allowing a waiting\u00a0 period to expire)?",
+      "answer": "Sanofi may terminate this Agreement (A) in its entirety by providing [***] written notice of termination to RevMed or (B) on a country-by-country or Product-by-Product basis by providing [***] written notice of termination to RevMed; provided that if Sanofi desires to terminate this Agreement under this Section 12.2(a)(i)B only with respect to the U.S. (for all Products or one or more Products), Sanofi shall provide [***] written notice of termination to RevMed."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Rofr/Rofo/Rofn\" that should be reviewed by a lawyer. Details: Is there a clause granting one party a right of first refusal, right of first offer or right of first negotiation to purchase, license, market, or distribute equity interest, technology, assets, products or services?",
+      "answer": "If [***] (such determination, the \"SHP1-SHP2 Dual Inhibitor Licensing Decision\" and such Third Party's rights, the \"SHP1-SHP2 Dual Inhibitor License Rights\"), then prior to commencing any negotiations with any Third Party with regard to any SHP1-SHP2 Dual Inhibitor License Rights, RevMed shall promptly notify Sanofi in writing of such SHP1-SHP2 Dual Inhibitor Licensing Decision and provide to Sanofi a detailed summary of the data then in RevMed's Control regarding the relevant SHP1-SHP2 Dual Inhibitor."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Change Of Control\" that should be reviewed by a lawyer. Details: Does one party have the right to terminate or is consent or notice required of the counterparty if such party undergoes a change of control, such as a merger, stock sale, transfer of all or substantially all of its assets or business, or assignment by operation of law?",
+      "answer": "RevMed shall pay Sanofi such royalties until the earlier of (x) expiration of the Post-Termination Royalty Term therefor and (y) a Change of Control of Sanofi."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Anti-Assignment\" that should be reviewed by a lawyer. Details: Is consent or notice required of a party if the contract is assigned to a third party?",
+      "answer": "all research and development assets and operations of the Acquired Party Family, in each case relating to SHP2 Inhibitors and Products, remain with the Acquired Party Family and are not licensed or otherwise transferred to the Acquiror Party Family for any purpose; (C) the scientific and Development activities with respect to SHP2 Inhibitors and Products of the Acquired Party Family and Competing Products of the Acquiror Family (if any) are maintained separate and distinct, and (D) there is no exchange of Know-How relating to SHP2 Inhibitors and Products between the Acquired Party Family and the Acquiror Family. Any attempted assignment not in accordance with this Section 15.2 shall be null and void and of no legal effect."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Revenue/Profit Sharing\" that should be reviewed by a lawyer. Details: Is one party required to share revenue or profit with the counterparty for any technology, goods, or\u00a0services?",
+      "answer": "No later than the Initiation of the first Registrational Clinical Trial for the first Product, Sanofi and RevMed shall enter into a profit/loss share agreement (the \"Profit/Loss Share Agreement\") pursuant to which the Parties shall equally share the Net Profit and Net Loss (as defined in Exhibit M of the Correspondence) applicable with respect to Commercialization of Products (but, for clarity, not any costs of Development) of Products in the U.S."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Price Restrictions\" that should be reviewed by a lawyer. Details: Is there a restriction on the\u00a0 ability of a party to raise or reduce prices of technology, goods, or\u00a0 services provided?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Minimum Commitment\" that should be reviewed by a lawyer. Details: Is there a minimum order size or minimum amount or units per-time period that one party must buy from the counterparty under the contract?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Volume Restriction\" that should be reviewed by a lawyer. Details: Is there a fee increase or consent requirement, etc. if one party\u2019s use of the product/services exceeds certain threshold?",
+      "answer": "Furthermore, Sanofi shall within [***] after the effective date of such termination, transfer to RevMed all files and documents relating to the prosecution, defense or enforcement of the RevMed Licensed Patents or Joint Program Patents and provide reasonable assistance for a period not to exceed [***] following the effective date of termination, up to a total of [***], in the transfer of the prosecution, defense and enforcement responsibilities to RevMed, including by executing any documents reasonable necessary therefor."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Ip Ownership Assignment\" that should be reviewed by a lawyer. Details: Does intellectual property created\u00a0 by one party become the property of the counterparty, either per the terms of the contract or upon the occurrence of certain events?",
+      "answer": "Once RevMed has completed conducting all Clinical Trials for a Product assigned to it under the Development Plan for such Product, RevMed agrees to assign, and hereby does assign, to Sanofi all of its rights, title and interests in and to all Regulatory Approvals (including INDs and NDAs) for such Product."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Joint Ip Ownership\" that should be reviewed by a lawyer. Details: Is there any clause providing for joint or shared ownership of intellectual property between the parties to the contract?",
+      "answer": "Subject to the other terms and conditions of this Agreement (including the licenses and other rights granted under this Agreement or any Ancillary Agreement), each Party shall have the right to exploit, including license, the Joint Program Technology, without a duty of accounting or any obligation to seek consent from the other Party to exploit such Joint Program Technology."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"License Grant\" that should be reviewed by a lawyer. Details: Does the contract contain a license granted by one party to its counterparty?",
+      "answer": "Subject to the terms and conditions of this Agreement, Sanofi hereby grants to RevMed a non-exclusive, royalty-free sublicense (which shall only be further sub-licensable (a) to RevMed's Subsidiaries, (b) to the Permitted Contractors or Researchers, and (c) solely with Sanofi's prior written consent, such consent not to be unreasonably withheld, delayed or conditioned, to Third Parties who are not Permitted Contractors or Researchers) under the rights exclusively licensed to Sanofi pursuant to Section 3.1, solely to the extent necessary for RevMed to perform its obligations under this Agreement and the Ancillary Agreements."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Non-Transferable License\" that should be reviewed by a lawyer. Details: Does the contract limit the ability of a party to transfer the license being granted to a third party?",
+      "answer": "Except as part of a transaction permitted under this Section 15.2, in no event shall RevMed assign or transfer, or agree to assign or transfer to any Third Party, any or all of the RevMed Licensed Patents without the consent of Sanofi, not be unreasonably withheld or conditioned."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensor\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor?\u00a0",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensee\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor?",
+      "answer": "Subject to the terms and conditions of this Agreement, Sanofi hereby grants to RevMed a non-exclusive, royalty-free sublicense (which shall only be further sub-licensable (a) to RevMed's Subsidiaries, (b) to the Permitted Contractors or Researchers, and (c) solely with Sanofi's prior written consent, such consent not to be unreasonably withheld, delayed or conditioned, to Third Parties who are not Permitted Contractors or Researchers) under the rights exclusively licensed to Sanofi pursuant to Section 3.1, solely to the extent necessary for RevMed to perform its obligations under this Agreement and the Ancillary Agreements."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Unlimited/All-You-Can-Eat-License\" that should be reviewed by a lawyer. Details: Is there a clause granting one party an \u201centerprise,\u201d \u201call you can eat\u201d or unlimited usage license?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Irrevocable Or Perpetual License\" that should be reviewed by a lawyer. Details: Does the contract contain a\u00a0 license grant that is irrevocable or perpetual?",
+      "answer": "Upon expiration of this Agreement, the licenses granted to Sanofi under Section 3.1 will become fully paid up, royalty free, perpetual and irrevocable."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Source Code Escrow\" that should be reviewed by a lawyer. Details: Is one party required to deposit its source code into escrow with a third party, which can be released to the counterparty upon the occurrence of certain events (bankruptcy,\u00a0 insolvency, etc.)?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Post-Termination Services\" that should be reviewed by a lawyer. Details: Is a party subject to obligations after the termination or expiration of a contract, including any post-termination transition, payment, transfer of IP, wind-down, last-buy, or similar commitments?",
+      "answer": "Within [***] after the effective date of such termination for Termination Products for which Regulatory Approval has been obtained prior to the effective date of such termination or [***] for other Termination Products (or as promptly as practical thereafter, if such period is not practical under Applicable Law), Sanofi shall transfer and assign to RevMed all Regulatory Approvals relating to such Termination Products, and, to the extent not previously provided to RevMed, transfer other Regulatory Materials including data from preclinical, non-clinical and clinical studies conducted by or on behalf of Sanofi, its Affiliates or Sublicensees on such Termination Products and all pharmacovigilance data (including all adverse event databases) on such Termination Products"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Audit Rights\" that should be reviewed by a lawyer. Details: Does a party have the right to\u00a0 audit the books, records, or physical locations of the counterparty to ensure compliance with the contract?",
+      "answer": "The auditing Party shall bear the full cost of such audit unless such audit reveals an underpayment by the audited Party that resulted from a discrepancy in the financial report provided by the audited Party for the audited period, which underpayment was more than [***] percent of the amount set forth in such report, in which case the audited Party shall reimburse the auditing Party for the costs for such audit."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Uncapped Liability\" that should be reviewed by a lawyer. Details: Is a party\u2019s liability uncapped upon the breach of its obligation in the contract? This also includes uncap liability for a particular type of breach such as IP infringement or breach of confidentiality obligation.",
+      "answer": "NOTHING IN THIS SECTION 14.5 IS INTENDED TO OR SHALL LIMIT OR RESTRICT THE INDEMNIFICATION RIGHTS OR OBLIGATIONS OF ANY PARTY UNDER SECTION 14.1 OR SECTION 14.2, OR DAMAGES AVAILABLE FOR A PARTY'S BREACH OF ITS OBLIGATIONS RELATING TO CONFIDENTIALITY UNDER ARTICLE XI OR INTELLECTUAL PROPERTY UNDER ARTICLE X."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Cap On Liability\" that should be reviewed by a lawyer. Details: Does the contract include a cap on liability upon the breach of a party\u2019s obligation? This includes time limitation for the counterparty to bring claims or maximum amount for recovery.",
+      "answer": "NEITHER PARTY SHALL BE LIABLE TO THE OTHER FOR ANY SPECIAL, CONSEQUENTIAL, INCIDENTAL, PUNITIVE, OR INDIRECT DAMAGES OR LOST PROFITS ARISING FROM OR RELATING TO ANY BREACH OF THIS AGREEMENT, REGARDLESS OF ANY NOTICE OF THE POSSIBILITY OF SUCH DAMAGES."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Liquidated Damages\" that should be reviewed by a lawyer. Details: Does the contract contain a clause that would award either party liquidated damages for breach or a fee upon the termination of a contract (termination fee)?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Warranty Duration\" that should be reviewed by a lawyer. Details: What is the duration of any\u00a0 warranty against defects or errors in technology, products, or services\u00a0 provided under the contract?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Insurance\" that should be reviewed by a lawyer. Details: Is there a requirement for insurance that must be maintained by one party for the benefit of the counterparty?",
+      "answer": "Each Party shall procure and maintain insurance, including product liability insurance, with respect to its activities hereunder and under the Ancillary Agreements and which is consistent with normal business practices of companies similarly situated at all times during which any SHP2 Inhibitors or Product is being clinically tested in human subjects or commercially distributed or sold."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Covenant Not To Sue\" that should be reviewed by a lawyer. Details: Is a party restricted from contesting the validity of the counterparty\u2019s ownership of intellectual property or otherwise bringing a claim against the counterparty for matters unrelated to the contract?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Third Party Beneficiary\" that should be reviewed by a lawyer. Details: Is there a non-contracting party who is a beneficiary to some or all of the clauses in the contract and therefore can enforce its rights against a contracting party?",
+      "answer": ""
+    }
+  ],
+  "title": "RevolutionMedicinesInc_20200117_S-1_EX-10.1_11948417_EX-10.1_Development Agreement",
+  "document_id": "RevolutionMedicinesInc_20200117_S-1_EX-10.1_11948417_EX-10.1_Development Agreement",
+  "source": "CUAD"
+}

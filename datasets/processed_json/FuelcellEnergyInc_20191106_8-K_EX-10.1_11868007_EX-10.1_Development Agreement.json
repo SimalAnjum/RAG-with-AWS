@@ -1,0 +1,171 @@
+{
+  "qa_pairs": [
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Document Name\" that should be reviewed by a lawyer. Details: The name of the contract",
+      "answer": "JOINT DEVELOPMENT AGREEMENT"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Parties\" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract",
+      "answer": "ExxonMobil Research and Engineering Company"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Agreement Date\" that should be reviewed by a lawyer. Details: The date of the contract",
+      "answer": "November 5, 2019"
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Effective Date\" that should be reviewed by a lawyer. Details: The date when the contract is effective\u00a0",
+      "answer": "\"Effective Date\" means October 31, 2019."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Expiration Date\" that should be reviewed by a lawyer. Details: On what date will the contract's initial term expire?",
+      "answer": "Unless sooner terminated in accordance with this Article, this Agreement will continue in full force beginning on the Effective Date and ending two (2) years thereafter (\"Term\")."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Renewal Term\" that should be reviewed by a lawyer. Details: What is the renewal term after the initial term expires? This includes automatic extensions and unilateral extensions with prior notice.",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Notice Period To Terminate Renewal\" that should be reviewed by a lawyer. Details: What is the notice period required to terminate renewal?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Governing Law\" that should be reviewed by a lawyer. Details: Which state/country's law governs the interpretation of the contract?",
+      "answer": "The validity and interpretation of this Agreement and the legal relations of the Parties to it will be governed by the laws of the State of New York without recourse to its conflicts of law rules."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Most Favored Nation\" that should be reviewed by a lawyer. Details: Is there a clause that if a third party gets better terms on the licensing or sale of technology/goods/services described in the contract, the buyer of such technology/goods/services under the contract shall be entitled to those better terms?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Non-Compete\" that should be reviewed by a lawyer. Details: Is there a restriction on the ability of a party to compete with the counterparty or operate in a certain geography or business or technology sector?\u00a0",
+      "answer": "During the Term of this Agreement, FCE will not conduct any Work using Generation 1 Technology in Carbon Capture Applications or any Work using Generation 2 Technology, independently or with third parties outside this Agreement, without prior written approval from ExxonMobil."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Exclusivity\" that should be reviewed by a lawyer. Details: Is there an exclusive dealing\u00a0 commitment with the counterparty? This includes a commitment to procure all \u201crequirements\u201d from one party of certain technology, goods, or services or a prohibition on licensing or selling technology, goods or services to third parties, or a prohibition on\u00a0 collaborating or working with other parties), whether during the contract or\u00a0 after the contract ends (or both).",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Customers\" that should be reviewed by a lawyer. Details: Is a party restricted from contracting or soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both)?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Competitive Restriction Exception\" that should be reviewed by a lawyer. Details: This category includes the exceptions or carveouts to Non-Compete, Exclusivity and No-Solicit of Customers above.",
+      "answer": "Notwithstanding the foregoing, ExxonMobil hereby grants approval for FCE solely to conduct Authorized Work using Generation 1 Technology with Authorized Third Parties for Carbon Capture Applications and any Work using Generation 2 Technology solely for Power Applications and Hydrogen Applications."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"No-Solicit Of Employees\" that should be reviewed by a lawyer. Details: Is there a restriction on a party\u2019s soliciting or hiring employees and/or contractors from the\u00a0 counterparty, whether during the contract or after the contract ends (or both)?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Non-Disparagement\" that should be reviewed by a lawyer. Details: Is there a requirement on a party not to disparage the counterparty?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Termination For Convenience\" that should be reviewed by a lawyer. Details: Can a party terminate this\u00a0 contract without cause (solely by giving a notice and allowing a waiting\u00a0 period to expire)?",
+      "answer": "Accordingly, either Party may terminate this Agreement or all/part of a Project for any reason and at any time upon giving the other Party sixty (60) days prior written notice."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Rofr/Rofo/Rofn\" that should be reviewed by a lawyer. Details: Is there a clause granting one party a right of first refusal, right of first offer or right of first negotiation to purchase, license, market, or distribute equity interest, technology, assets, products or services?",
+      "answer": "Notwithstanding the foregoing, in the event ExxonMobil decides not to prosecute, defend, enforce, maintain or decides to abandon any Program Patent, then ExxonMobil will provide notice thereof to FCE, and FCE will then have the right, but not the obligation, to prosecute or maintain the Program Patent and sole responsibility for the continuing costs, taxes, legal fees, maintenance fees and other fees associated with that Program Patent."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Change Of Control\" that should be reviewed by a lawyer. Details: Does one party have the right to terminate or is consent or notice required of the counterparty if such party undergoes a change of control, such as a merger, stock sale, transfer of all or substantially all of its assets or business, or assignment by operation of law?",
+      "answer": "ExxonMobil may terminate this Agreement upon fifteen (15) days written notice, without penalty, payment or prejudice to claims and obligations then accrued, if FCE undergoes a Change in Control."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Anti-Assignment\" that should be reviewed by a lawyer. Details: Is consent or notice required of a party if the contract is assigned to a third party?",
+      "answer": "Notwithstanding the foregoing, ExxonMobil may assign this Agreement to its Affiliates and FCE may assign this Agreement to any of its wholly-owned and wholly-controlled Affiliates, with prior written notice to the other Party, provided that (i) such assignment by FCE shall be void if at any point such Affiliate ceases to be both wholly-owned and wholly- controlled by FCE, (ii) Article 12, including but not limited to Paragraphs 12.03, 12.04 and 12.05, shall be applicable to both FCE and any Affiliate assignee of FCE, and (iii) no assignment pursuant to this sentence will relieve the Parties of their obligations under this Agreement."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Revenue/Profit Sharing\" that should be reviewed by a lawyer. Details: Is one party required to share revenue or profit with the counterparty for any technology, goods, or\u00a0services?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Price Restrictions\" that should be reviewed by a lawyer. Details: Is there a restriction on the\u00a0 ability of a party to raise or reduce prices of technology, goods, or\u00a0 services provided?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Minimum Commitment\" that should be reviewed by a lawyer. Details: Is there a minimum order size or minimum amount or units per-time period that one party must buy from the counterparty under the contract?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Volume Restriction\" that should be reviewed by a lawyer. Details: Is there a fee increase or consent requirement, etc. if one party\u2019s use of the product/services exceeds certain threshold?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Ip Ownership Assignment\" that should be reviewed by a lawyer. Details: Does intellectual property created\u00a0 by one party become the property of the counterparty, either per the terms of the contract or upon the occurrence of certain events?",
+      "answer": "For Program Patents, if one or more employees or other representatives of FCE are determined to be inventors, then FCE will:\n\n(i) cause its employees, contractors, and consultants to render reasonable and timely assistance to ExxonMobil and its attorneys or agents;\n\n(ii) assign, and will cause its and its Affiliates' employees, contractors, and consultants to assign, its right, title, and interest in and to such Program Patent to ExxonMobil for filing; and\n\n(iii) cause its and its Affiliate employees, contractors, and consultants, to execute any documents as may be required to effect such assignments, or file, prosecute, and maintain any patent applications or patents that are based on, derived from, or protect such Program Patent."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Joint Ip Ownership\" that should be reviewed by a lawyer. Details: Is there any clause providing for joint or shared ownership of intellectual property between the parties to the contract?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"License Grant\" that should be reviewed by a lawyer. Details: Does the contract contain a license granted by one party to its counterparty?",
+      "answer": "More particularly, said right and license to practice includes the right to use, reproduce, and create derivative works of Program Information under applicable copyrights and to make, use, and import (but not sell or offer to sell) under the claims of Program Patents, in each case solely for research and development for the Program."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Non-Transferable License\" that should be reviewed by a lawyer. Details: Does the contract limit the ability of a party to transfer the license being granted to a third party?",
+      "answer": "ExxonMobil grants FCE a worldwide, non-exclusive, royalty- free, non-sub-licensable (except as set forth herein), perpetual, irrevocable (except as stated in Paragraphs 12.03 (Failure to Perform), 12.04 (Other Termination), and 12.05 (Bankruptcy)), non- transferable (except pursuant to Article 14 (Assignment)) right and license to practice ExxonMobil Background Information and ExxonMobil Background Patents for Generation 1 Technology in any applications outside of Carbon Capture Applications."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensor\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor?\u00a0",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Affiliate License-Licensee\" that should be reviewed by a lawyer. Details: Does the contract contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor?",
+      "answer": "To the extent not already granted pursuant to the License Agreement, FCE grants ExxonMobil and its Affiliates a worldwide, non-exclusive, royalty-free, irrevocable, perpetual, sub-licensable, non-transferable (except pursuant to Article 14 (Assignment)) right and license to practice FCE Background Information and FCE Background Patents for Generation 2 Technology in Carbon Capture Applications and Hydrogen Applications."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Unlimited/All-You-Can-Eat-License\" that should be reviewed by a lawyer. Details: Is there a clause granting one party an \u201centerprise,\u201d \u201call you can eat\u201d or unlimited usage license?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Irrevocable Or Perpetual License\" that should be reviewed by a lawyer. Details: Does the contract contain a\u00a0 license grant that is irrevocable or perpetual?",
+      "answer": "ExxonMobil grants FCE a worldwide, non-exclusive, royalty- free, non-sub-licensable (except as set forth herein), perpetual, irrevocable (except as stated in Paragraphs 12.03 (Failure to Perform), 12.04 (Other Termination), and 12.05 (Bankruptcy)), non- transferable (except pursuant to Article 14 (Assignment)) right and license to practice ExxonMobil Background Information and ExxonMobil Background Patents for Generation 1 Technology in any applications outside of Carbon Capture Applications."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Source Code Escrow\" that should be reviewed by a lawyer. Details: Is one party required to deposit its source code into escrow with a third party, which can be released to the counterparty upon the occurrence of certain events (bankruptcy,\u00a0 insolvency, etc.)?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Post-Termination Services\" that should be reviewed by a lawyer. Details: Is a party subject to obligations after the termination or expiration of a contract, including any post-termination transition, payment, transfer of IP, wind-down, last-buy, or similar commitments?",
+      "answer": "Such books, records and accounts will be maintained for a period of at least three (3) years following the termination or expiration of this Agreement, provided there are no pending disputes between the Parties."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Audit Rights\" that should be reviewed by a lawyer. Details: Does a party have the right to\u00a0 audit the books, records, or physical locations of the counterparty to ensure compliance with the contract?",
+      "answer": "FCE will cause any subcontractors to preserve documentation and allow ExxonMobil to audit such books, records, and accounts of subcontractors by way of auditing FCE."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Uncapped Liability\" that should be reviewed by a lawyer. Details: Is a party\u2019s liability uncapped upon the breach of its obligation in the contract? This also includes uncap liability for a particular type of breach such as IP infringement or breach of confidentiality obligation.",
+      "answer": "Notwithstanding anything to the contrary in this Agreement, each Party will bear full responsibility, without limit, for the following:\n\n(i) Gross Negligence or Willful Misconduct attributable to its personnel, and, in no event, will a Party be required to release or indemnify the other Party for Gross Negligence or Willful Misconduct attributable to the other Party; and\n\n(ii) its legal obligations to third parties wherein nothing in this Agreement is intended to impair a party's contribution and indemnity rights under law with respect to third party claims."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Cap On Liability\" that should be reviewed by a lawyer. Details: Does the contract include a cap on liability upon the breach of a party\u2019s obligation? This includes time limitation for the counterparty to bring claims or maximum amount for recovery.",
+      "answer": "In no event will either Party be liable to the other Party under this Agreement for any consequential, indirect, special, incidental, punitive or exemplary loss or damage, including, without limitation, business interruption, cost of capital, loss of anticipated revenues and profits, loss of goodwill or increased operating costs, whether arising from contract, warranty, tort, strict liability or otherwise regardless of whether the possibility of such losses or damages have been made known to the first Party, and each Party hereby expressly waives all such rights and remedies, except for breach of any confidentiality or restricted use provisions of this Agreement and except as provided in Paragraph 11.04 (Exceptions to Limitations of Liability)."
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Liquidated Damages\" that should be reviewed by a lawyer. Details: Does the contract contain a clause that would award either party liquidated damages for breach or a fee upon the termination of a contract (termination fee)?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Warranty Duration\" that should be reviewed by a lawyer. Details: What is the duration of any\u00a0 warranty against defects or errors in technology, products, or services\u00a0 provided under the contract?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Insurance\" that should be reviewed by a lawyer. Details: Is there a requirement for insurance that must be maintained by one party for the benefit of the counterparty?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Covenant Not To Sue\" that should be reviewed by a lawyer. Details: Is a party restricted from contesting the validity of the counterparty\u2019s ownership of intellectual property or otherwise bringing a claim against the counterparty for matters unrelated to the contract?",
+      "answer": ""
+    },
+    {
+      "question": "Highlight the parts (if any) of this contract related to \"Third Party Beneficiary\" that should be reviewed by a lawyer. Details: Is there a non-contracting party who is a beneficiary to some or all of the clauses in the contract and therefore can enforce its rights against a contracting party?",
+      "answer": ""
+    }
+  ],
+  "title": "FuelcellEnergyInc_20191106_8-K_EX-10.1_11868007_EX-10.1_Development Agreement",
+  "document_id": "FuelcellEnergyInc_20191106_8-K_EX-10.1_11868007_EX-10.1_Development Agreement",
+  "source": "CUAD"
+}
