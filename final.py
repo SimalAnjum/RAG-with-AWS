@@ -7,7 +7,7 @@ import logging
 
 # LlamaIndex imports
 from llama_index.core import VectorStoreIndex, StorageContext, load_index_from_storage
-from llama_index.core.schema import Document, NodeWithScore
+from llama_index.core.schema import Document
 from llama_index.core.node_parser import SentenceSplitter
 # from llama_hub.file.pymu_pdf import PyMuPDFReader
 from llama_index.readers.file import PyMuPDFReader
@@ -51,12 +51,32 @@ class DocumentRetriever:
     def __init__(self, 
                  persist_dir: Optional[str] = "./storage",
                  embedding_model_name: str = "BAAI/bge-small-en-v1.5"):
+        """
+        Initialize the document retriever with local embeddings.
+        
+        Args:
+            persist_dir: Directory to persist the index (optional)
+            embedding_model_name: Name of the HuggingFace embedding model to use
+        """
+
         self.persist_dir = Path(persist_dir)
         self.index = None
+
+        # Initialize the local embedding model
         logger.info(f"Initializing local embedding model: {embedding_model_name}")
         self.embed_model = HuggingFaceEmbedding(model_name=embedding_model_name)
 
     def load_documents(self, file_path: str) -> List[Document]:
+        """
+        Load documents from either PDF or TXT files.
+        
+        Args:
+            file_path: Path to the file to load
+            
+        Returns:
+            List of Document objects
+        """
+
         file_path = Path(file_path)
         ext = file_path.suffix.lower()
         file_name = file_path.name
@@ -127,17 +147,35 @@ class DocumentRetriever:
                    documents: List[Document], 
                    chunk_size: int = 2048, 
                    chunk_overlap: int = 100) -> VectorStoreIndex:
+        """
+        Build a vector index from documents with configurable chunking and local embeddings.
+        
+        Args:
+            documents: List of Document objects
+            chunk_size: Size of text chunks for splitting
+            chunk_overlap: Overlap between chunks
+            
+        Returns:
+            VectorStoreIndex object
+        """  
+
         logger.info(f"Building index with chunk size {chunk_size}, overlap {chunk_overlap}, and local embeddings")
+        
+        # Create node parser with configurable chunk size
         node_parser = SentenceSplitter(
             chunk_size=chunk_size,
             chunk_overlap=chunk_overlap
         )
+
+        # Build the index with local embeddings
         index = VectorStoreIndex.from_documents(
             documents,
             transformations=[node_parser],
             embed_model=self.embed_model,
             show_progress=True
         )
+
+        # Persist the index if a directory is specified
         if self.persist_dir:
             self.persist_dir.mkdir(exist_ok=True, parents=True)
             index.storage_context.persist(persist_dir=str(self.persist_dir))
@@ -146,9 +184,18 @@ class DocumentRetriever:
         return index
 
     def load_index(self) -> Optional[VectorStoreIndex]:
+        """
+        Load the index from disk if it exists.
+        
+        Returns:
+            VectorStoreIndex object or None if it doesn't exist
+        """
+
         if self.persist_dir.exists():
             logger.info(f"Loading index from {self.persist_dir}")
             storage_context = StorageContext.from_defaults(persist_dir=str(self.persist_dir))
+
+            # Apply the same embedding model when loading
             self.index = load_index_from_storage(
                 storage_context,
                 embed_model=self.embed_model
@@ -162,10 +209,26 @@ class DocumentRetriever:
                         query: str, 
                         top_k: int = 5, 
                         filters: Optional[Dict[str, Any]] = None) -> Dict[str, Any]:
+        """
+        Retrieve relevant context with metadata and scores for a query.
+        
+        Args:
+            query: The user query
+            top_k: Number of top results to return
+            filters: Optional metadata filters
+            
+        Returns:
+            Dictionary with retrieved nodes and their metadata
+        """        
+
         if not self.index:
             raise ValueError("No index available. Please build or load an index first.")
         logger.info(f"Retrieving context for query: '{query}' (top_k={top_k})")
+
+        # Set up the retriever with parameters
         retriever = self.index.as_retriever(similarity_top_k=top_k)
+
+        # Apply metadata filters if provided
         if filters:
             metadata_filters = MetadataFilters(
                 filters=[
@@ -177,12 +240,16 @@ class DocumentRetriever:
                 ]
             )
             retriever.filters = metadata_filters
+
+        # Retrieve nodes      
         retrieved_nodes = retriever.retrieve(query)
         result = {
             "query": query,
             "num_results": len(retrieved_nodes),
             "retrieved_chunks": []
         }
+
+        # Format the response
         for node in retrieved_nodes:
             result["retrieved_chunks"].append({
                 "text": node.node.text,
@@ -201,13 +268,35 @@ def process_file_and_query(
     persist_dir: Optional[str] = "./storage",
     embedding_model: str = "BAAI/bge-small-en-v1.5"
 ) -> Dict[str, Any]:
+    """
+    Process a file and query, returning relevant context with metadata.
+    Uses local embedding model to avoid API rate limits.
+    
+    Args:
+        file_path: Path to the PDF or TXT file
+        query: User query
+        top_k: Number of top results to return
+        chunk_size: Size of text chunks
+        chunk_overlap: Overlap between chunks
+        persist_dir: Directory to persist the index
+        embedding_model: HuggingFace model name for embeddings
+        
+    Returns:
+        Dictionary with retrieved context and metadata
+    """       
+
     retriever = DocumentRetriever(
         persist_dir=persist_dir,
         embedding_model_name=embedding_model
     )
+
+    # Try to load existing index first
     if retriever.load_index() is None:
+        # If no index exists, build it
         documents = retriever.load_documents(file_path)
         retriever.build_index(documents, chunk_size=chunk_size, chunk_overlap=chunk_overlap)
+
+    # Retrieve context for the query    
     result = retriever.retrieve_context(query, top_k=top_k)
     return result
 
@@ -225,16 +314,16 @@ def clean_answer(text):
 def generate_answer(context_chunks, question, model="meta-llama/Llama-3.3-70B-Instruct-Turbo"):
     context_text = "\n\n".join(chunk["text"] for chunk in context_chunks)
     prompt = f"""
-Answer the following legal question based only on the provided context. Be concise and do not include unnecessary commentary or sign-offs.
+            Answer the following legal question based only on the provided context. Be concise and do not include unnecessary commentary or sign-offs.
 
-Context:
-{context_text}
+            Context:
+            {context_text}
 
-Question:
-{question}
+            Question:
+            {question}
 
-Answer:
-"""
+            Answer:
+            """
     try:
         response = together.Completion.create(
             model=model,
@@ -247,39 +336,6 @@ Answer:
         return clean_answer(response.choices[0].text.strip())
     except Exception as e:
         return f"⚠️ Error generating answer: {str(e)}"
-
-
-# if __name__ == "__main__":
-#     load_dotenv()
-#     together.api_key = os.getenv("TOGETHER_API_KEY")
-
-#     import argparse
-    
-#     parser = argparse.ArgumentParser(description="Retrieve context from documents using LlamaIndex")
-#     parser.add_argument("file_path", help="Path to the PDF or TXT file")
-#     parser.add_argument("query", help="User query")
-
-    
-#     args = parser.parse_args()
-    
-#     result = process_file_and_query(
-#         args.file_path,
-#         args.query,
-#     )
-    
-#     # The returned context can be passed to your LLM
-#     retrieved_context = result["retrieved_chunks"]
-    
-#     # Generate an answer using the retrieved context
-#     answer = generate_answer(retrieved_context, args.query)
-    
-#     # Print results
-#     print("\n=== Retrieved Context ===")
-#     print(json.dumps(result, indent=2))
-    
-#     print("\n=== Generated Answer ===")
-#     print(answer)
-
 
 @app.post("/rag")
 async def rag_endpoint(file: UploadFile, query: str = Form(...)):
