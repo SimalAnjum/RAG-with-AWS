@@ -1,0 +1,11 @@
+# Node
+node_modules/
+.env
+.next/
+.DS_Store
+
+# Python
+__pycache__/
+.venv/
+uploads/
+*.pyc

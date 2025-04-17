@@ -1,3 +1,5 @@
+#!/usr/local/bin/python3.11
+
 import json
 from pathlib import Path
 from typing import List, Dict, Any, Optional
@@ -7,7 +9,8 @@ import logging
 from llama_index.core import VectorStoreIndex, StorageContext, load_index_from_storage
 from llama_index.core.schema import Document, NodeWithScore
 from llama_index.core.node_parser import SentenceSplitter
-from llama_hub.file.pymu_pdf import PyMuPDFReader
+# from llama_hub.file.pymu_pdf import PyMuPDFReader
+from llama_index.readers.file import PyMuPDFReader
 
 from llama_index.core.vector_stores.types import MetadataFilters, MetadataFilter, FilterOperator
 from llama_index.embeddings.huggingface import HuggingFaceEmbedding
@@ -15,6 +18,7 @@ from llama_index.embeddings.huggingface import HuggingFaceEmbedding
 import os
 import together
 from dotenv import load_dotenv
+import uvicorn
 
 from fastapi import FastAPI, UploadFile, Form
 from fastapi.middleware.cors import CORSMiddleware
