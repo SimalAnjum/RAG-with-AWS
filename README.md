@@ -1,125 +1,155 @@
 # RAG-with-AWS
-### Real-Time Document Q&A System Using Retrieval-Augmented Generation (RAG)
+
+## Real-Time Document Q&A with LLMs and FAISS Retrieval
 
 ---
 
-## Team Members
-- Dua e Sameen (ds07138)
-- Muhammad Tahir Ghazi (mg07593)
-- Simal Anjum (sa07716)
+### 1. Introduction
+
+This project implements a basic **Retrieval-Augmented Generation (RAG)** system that allows users to ask questions about a legal contracts dataset (CUAD) and get contextually accurate answers. It uses **sentence-transformer embeddings**, **FAISS** for retrieval, and a **language model API** to generate answers based on retrieved context.
+
+The system is designed as a prototype for industries like **legal** and **compliance**, where rapid and accurate information retrieval from large document repositories is critical.
 
 ---
 
-## 1. Introduction
+### 2. Features
 
-This project presents a real-time document question-answering (Q&A) system using a Retrieval-Augmented Generation (RAG) pipeline.  
-The system retrieves relevant document chunks from legal contracts and generates precise answers using a Large Language Model (LLM).
-
-While the original plan involved extensive AWS services, the final system prioritizes a local deployment for cost-efficiency, focusing on fast retrieval and high answer accuracy.
-
----
-
-## 2. Dataset & Use Case
-
-**Dataset Used**:
-- CUAD (Contract Understanding Atticus Dataset) — 13,000 expert-annotated clauses across 510 contracts.
-
-**Primary Use Case**:
-- Legal document question answering (e.g., compliance checks, contract analysis).
+- **Document Embedding:** Uses `all-MiniLM-L6-v2` model from Sentence-Transformers.
+- **Vector Retrieval:** Indexes documents using **FAISS** for fast similarity search.
+- **RAG Pipeline:** Combines retrieved documents with user queries and feeds into an LLM.
+- **Dataset Support:** Built specifically around the **CUAD (Contract Understanding Atticus Dataset)**.
+- **Simple Testing:** Provides basic scripts to test retrieval and answering.
+- **Comprehensive Evaluation:** Implements multiple evaluation metrics to assess system performance.
 
 ---
 
-## 3. System Architecture
+### 3. Project Structure
 
-**Main Components**:
-- **Document Storage**: Local file storage (S3 plan skipped).
-- **Text Extraction**: Local PDF/TXT processing (Textract plan skipped).
-- **Preprocessing**: Chunking documents (2048 tokens, 100-token overlap).
-- **Embeddings**: BAAI/bge-small-en-v1.5 via LlamaIndex.
-- **Vector Database**: FAISS for fast semantic search.
-- **Answer Generation**: Llama-3.3-70B-Instruct-Turbo via TogetherAI API.
-- **Backend Deployment**: FastAPI application with a `/rag` endpoint for document upload and query answering.
-
----
-
-## 4. Key Technologies
-
-- **FAISS**: Dense retrieval via cosine similarity.
-- **LlamaIndex**: Document indexing, embedding, and chunking.
-- **TogetherAI**: LLM API for high-quality answer generation.
-- **FastAPI**: Lightweight web framework for deploying the RAG service.
+```
+RAG-with-AWS-main/
+├── datasets/
+│   └── cuad_raw/
+│       └── setup.py           # Script to download CUAD dataset
+├── utils/
+│   └── preprocess_cuad.py     # Preprocess CUAD dataset for retrieval
+├── final.py                   # Main RAG system (embedding, retrieval, generation)
+├── test.py                    # Evaluation and testing script
+└── README.md                  # Project documentation
+```
 
 ---
 
-## 5. Performance Metrics
+### 4. Setup Instructions
 
-The system was evaluated on:
-- **Exact Match (EM)**: Whether predicted answers exactly match ground truth.
-- **F1 Score**: Balance between precision and recall.
-- **Mean Reciprocal Rank (MRR)**: Ranking effectiveness in retrieval.
+#### Prerequisites
+- Python 3.8+
+- Install required libraries:
 
-Results showed strong retrieval and generation performance on legal domain queries.
+```bash
+pip install -r requirements.txt
+```
 
----
+> (The project expects `sentence-transformers`, `faiss-cpu`, `datasets`, `together`, `scikit-learn`, `rouge-score`, `bert-score`, and related dependencies.)
 
-## 6. How to Run the Project Locally
+#### Steps
+1. **Download the Dataset**
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/SimalAnjum/RAG-with-AWS.git
-    cd RAG-with-AWS
-    ```
+```bash
+python datasets/cuad_raw/setup.py
+```
 
-2. Install required libraries:
-    ```bash
-    pip install -r requirements.txt
-    ```
+2. **Preprocess the Dataset**
 
-3. Set TogetherAI API Key:
-    ```python
-    import together
-    together.api_key = 'YOUR_TOGETHER_API_KEY'
-    ```
+```bash
+python utils/preprocess_cuad.py
+```
 
-4. Start FastAPI server:
-    ```bash
-    uvicorn backend.main:app --reload
-    ```
+3. **Run the RAG System**
 
-5. Use `/rag` endpoint:
-   - Upload a document (PDF/TXT).
-   - Submit a query.
-   - Get a generated answer based on retrieved document chunks.
+```bash
+python final.py
+```
+
+4. **Evaluate the System**
+
+```bash
+python test.py
+```
 
 ---
 
-## 7. Expected Output
+### 5. Usage
 
-- Extracted and chunked text stored in local FAISS index.
-- Real-time retrieval of top-k relevant chunks.
-- Natural language answers generated by LLM grounded in real contract data.
+- When running `final.py`, it loads the preprocessed CUAD dataset.
+- Embeds and indexes documents into FAISS.
+- Accepts user questions.
+- Retrieves top relevant contexts.
+- Sends context + query to a language model API.
+- Displays the generated answer.
 
-Example:
-> **Question**: "Does the agreement include a limitation of liability clause?"  
-> **Answer**: "Yes. Section 10.2 limits liability to direct damages only."
-
----
-
-## 8. Future Enhancements
-
-- Add web-based user interface.
-- Scale to full AWS deployment (S3, Textract, SageMaker).
-- Fine-tune legal-specific LLMs (e.g., SaulLM, LawLLM).
-- Expand to other legal datasets (e.g., case law, statutes).
+- When running `test.py`, the system builds a fresh index, retrieves answers for questions, and automatically computes evaluation metrics.
 
 ---
 
-## 9. Notes
+### 6. Performance Evaluation
 
-- Some AWS components like S3 storage, Textract OCR, and SageMaker embeddings were replaced with local implementations due to cost limitations.
-- TogetherAI was used for both embeddings and generation to maintain strong performance within budget.
-- The architecture remains modular for easy transition to AWS cloud in the future.
+The system supports comprehensive evaluation of Q&A quality using multiple metrics:
+
+| Metric                    | Description |
+|:---------------------------|:------------|
+| Exact Match (EM)           | Checks if the generated answer exactly matches the ground truth answer. |
+| F1 Score                   | Measures overlap between generated and true answers, combining precision and recall. |
+| Mean Reciprocal Rank (MRR) | Evaluates the rank position of the correct answer in retrieved results. |
+| ROUGE-L                    | Evaluates the longest common subsequence overlap between prediction and ground truth. |
+| Semantic Similarity (Cosine) | Computes embedding-based similarity between answers using Sentence-Transformers. |
+| Gold Match Rate            | Checks whether the ground truth is fully contained inside the generated answer. |
+| BERT Precision, Recall, F1 | Computes fine-grained semantic matching scores using BERT embeddings. |
+
+**Evaluation Script:**  
+All evaluations are automatically performed by the `evaluate_qna_system()` function in `test.py`.
+
+**Result:**  
+The evaluation returns an aggregated report summarizing all metrics.
 
 ---
 
-# 🚀 Thank You for Exploring Our Project!
+### 7. Technologies Used
+
+| Component            | Library / Tool                      |
+|:---------------------|:-------------------------------------|
+| Embedding             | Sentence-Transformers (MiniLM, BGE-small) |
+| Vector Retrieval      | FAISS (CPU version)                  |
+| Language Model API    | Together API                         |
+| Dataset Management    | Huggingface Datasets (CUAD)           |
+| Evaluation Metrics    | Scikit-learn, ROUGE, BERTScore, Sentence-Transformers |
+| Preprocessing         | JSON, Python                         |
+
+---
+
+### 8. Notes
+
+- **AWS Mention:** This prototype does not yet directly use AWS services in the code.
+- **Language Model:** You must have valid API access for TogetherComputer to generate answers.
+- **Prototype Status:** This project is a local prototype intended for experimental testing of RAG workflows.
+
+---
+
+### 9. Future Improvements (Optional)
+
+- Integrate AWS S3 for model and dataset storage.
+- Deploy as a FastAPI or Flask-based web service.
+- Add user authentication and query logging.
+- Enhance scalability for production environments.
+
+---
+
+### 10. Credits
+
+- CUAD Dataset: [Contract Understanding Atticus Dataset](https://huggingface.co/datasets/cuad)
+- Sentence-Transformers: [MiniLM model](https://www.sbert.net/docs/pretrained_models.html)
+
+---
+
+### 11. License
+
+This project is for educational and experimental purposes.
