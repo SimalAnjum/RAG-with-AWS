@@ -55,36 +55,65 @@ pip install -r requirements.txt
 > (The project expects `sentence-transformers`, `faiss-cpu`, `datasets`, `together`, `scikit-learn`, `rouge-score`, `bert-score`, and related dependencies.)
 
 #### Steps
-1. **Download the Dataset**
 
-```bash
-python datasets/cuad_raw/setup.py
-```
+1.  **Create a Virtual Environment**
+    It's highly recommended to work within a virtual environment to manage project dependencies and avoid conflicts.
+    ```bash
+    python -m venv .venv
+    ```
+    Activate the virtual environment:
+    * On macOS/Linux:
+        ```bash
+        source .venv/bin/activate
+        ```
+    * On Windows:
+        ```bash
+        .venv\Scripts\activate
+        ```
 
-2. **Preprocess the Dataset**
+2.  **Install Backend Dependencies**
+    With your virtual environment activated, navigate to the directory containing `final.py` and your `requirements.txt` file. Install the required Python libraries.
+    ```bash
+    pip install -r requirements.txt
+    ```
 
-```bash
-python utils/preprocess_cuad.py
-```
+3.  **Set Up Together AI API Key**
+    Add your Together AI API key in the dummy `.env` file:
+    ```dotenv
+    TOGETHER_API_KEY=your_api_key_here
+    ```
 
-3. **Run the RAG System**
+4.  **Dataset Availability**
+    The dataset (e.g., CUAD) is expected to be already located and preprocessed at the path `RAG-with-AWS/datasets/cuad_raw`. You typically do **not** need to run the setup script for normal operation.
+    * *Troubleshooting:* In case of issues with the dataset files, you can try running the original setup script:
+        ```bash
+        python datasets/cuad_raw/setup.py
+        ```
 
-```bash
-python final.py
-```
+5.  **Run the Backend API**
+    Navigate to the directory containing `final.py` (if you are not already there). Start the FastAPI server using uvicorn.
+    ```bash
+    python final.py
+    ```
+    This starts the RAG backend service, accessible at `http://0.0.0.0:8000`. Keep this terminal window open and running.
 
-4. **Run the frontend development server**
+6.  **Run the Frontend Development Server**
+    Open a **new** terminal window and navigate to your frontend project directory (e.g., `cd app` from your project root).
+    Start the frontend server:
+    ```bash
+    # Run this first time or if frontend dependencies change
+    # npm install
+    npm run dev
+    ```
+    The frontend application should now be running and should attempt to connect to the backend API on port 8000. Check the terminal output for the URL where the frontend is accessible (typically `http://localhost:3000` or similar).
 
-```bash
-npm run dev
-```
+7.  **Use the Application via Frontend**
+    Access the frontend URL in your web browser. Use the provided interface to upload a file from your local machine or download a file from `corpus/cuad` and submit your query.
 
-5. **Evaluate the System**
-
-```bash
-python test.py
-```
-
+8.  **Evaluate the System (Optional)**
+    ```bash
+    python test.py
+    ```
 ---
 ### 5. Usage
 
