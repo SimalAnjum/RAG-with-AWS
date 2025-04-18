@@ -102,7 +102,7 @@ The application consists of two main parts: a frontend and a backend API service
     * Navigate to the directory where `final.py` is located in your terminal.
     * Start the FastAPI server using uvicorn:
         ```bash
-        uvicorn final:app --reload --port 8000
+        python final.py
         ```
     * This command tells uvicorn to run the `app` instance within the `final` module, reload the server on code changes, and listen on port 8000. The API will now be running and ready to accept requests from the frontend or other clients.
 
@@ -122,7 +122,7 @@ The application consists of two main parts: a frontend and a backend API service
 
 ### 6. Performance Evaluation
 
-The system supports comprehensive evaluation of Q&A quality using multiple metrics:
+The system supports a comprehensive evaluation of Q&A quality using multiple metrics:
 
 | Metric                    | Description |
 |:---------------------------|:------------|
