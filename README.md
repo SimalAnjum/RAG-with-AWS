@@ -77,17 +77,37 @@ python test.py
 ```
 
 ---
-
 ### 5. Usage
 
-- When running `final.py`, it loads the preprocessed CUAD dataset.
-- Embeds and indexes documents into FAISS.
-- Accepts user questions.
-- Retrieves top relevant contexts.
-- Sends context + query to a language model API.
-- Displays the generated answer.
+The application consists of two main parts: a frontend and a backend API service (`final.py`).
 
-- When running `test.py`, the system builds a fresh index, retrieves answers for questions, and automatically computes evaluation metrics.
+* **Prerequisites:**
+    * Ensure you have Node.js and npm installed for the frontend.
+    * Ensure you have Python installed with the necessary libraries for the backend (these are listed in the `requirements.txt` file, which is installed using `pip install -r requirements.txt`).
+    * Ensure you have a `.env` file in the **same directory as `final.py`** containing your Together AI API key:
+        ```dotenv
+        TOGETHER_API_KEY=your_api_key_here
+        ```
+
+* **Running the Backend API:**
+    * Navigate to the directory where `final.py` is located in your terminal.
+    * Start the FastAPI server using uvicorn:
+        ```bash
+        uvicorn final:app --reload --port 8000
+        ```
+    * This command tells uvicorn to run the `app` instance within the `final` module, reload the server on code changes, and listen on port 8000. The API will now be running and ready to accept requests from the frontend or other clients.
+
+* **Running the Frontend:**
+    * Navigate to your frontend project directory (by using  `cd app` from your project root).
+    * Install frontend dependencies (if you haven't already):
+        ```bash
+        npm install
+        ```
+    * Start the frontend development server:
+        ```bash
+        npm run dev
+        ```
+    * This will start the frontend application, which should then be able to communicate with the backend API running on port 8000. The specific address where the frontend is accessible will be shown in your terminal (e.g., `http://localhost:3000`).
 
 ---
 
