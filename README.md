@@ -1,6 +1,6 @@
 # RAG-with-AWS
 
-## Real-Time Document Q&A with LLMs and FAISS Retrieval
+## Real-Time Document Q&A with LLMs
 
 ---
 
