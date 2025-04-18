@@ -44,48 +44,94 @@ RAG-with-AWS-main/
 
 ### 4. Setup Instructions
 
-#### Prerequisites
+---
+
+## 📦 Prerequisites
+
 - Python 3.11
-- Install required libraries:
+- Node.js and npm
+
+---
+
+### 1. Create Virtual Environment
+
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
+
+### 2. Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-> (The project expects `sentence-transformers`, `faiss-cpu`, `datasets`, `together`, `scikit-learn`, `rouge-score`, `bert-score`, and related dependencies.)
+> Required Python packages include:
+> - `sentence-transformers`
+> - `faiss-cpu`
+> - `datasets`
+> - `together`
+> - `scikit-learn`
+> - `rouge-score`
+> - `bert-score`
 
-#### Steps
-1. **Download the Dataset**
+---
+
+## 🔐 Environment Variables
+
+Create a `.env` file in the root directory and add your Together AI API key:
+
+```
+TOGETHER_API_KEY=your_key_here
+```
+
+---
+
+## 📂 Dataset Preparation
+
+> **Note:** This step is optional. The dataset has already been uploaded and preprocessed. If you wish to regenerate it, follow the steps below.
+
+### (Optional) Download the Dataset
 
 ```bash
 python datasets/cuad_raw/setup.py
 ```
 
-2. **Preprocess the Dataset**
+### (Optional) Preprocess the Dataset
 
 ```bash
 python utils/preprocess_cuad.py
 ```
 
-3. **Run the RAG System**
+---
 
+## 🚀 Run the RAG System
+> **Note:** You can also just click run python file if usinf VScode as your IDE
 ```bash
 python final.py
 ```
 
-4. **Run the frontend development server**
+---
+
+## 🌐 Run the Frontend
+
+In a **separate terminal**:
 
 ```bash
+cd app
+npm install  # Only once
 npm run dev
 ```
 
-5. **Evaluate the System**
+---
+
+## ✅ Evaluate the System
 
 ```bash
 python test.py
 ```
 
----
+------
 ### 5. Usage
 
 The application consists of two main parts: a frontend and a backend API service (`final.py`).
