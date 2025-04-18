@@ -1,14 +1,17 @@
+// File: app/page.tsx
 'use client';
 
 import React, { useState, useRef, useEffect } from 'react';
-import {
-  PaperClipIcon,
-  PaperAirplaneIcon,
+import {Gavel} from "lucide-react";
+import { 
+  PaperClipIcon, 
+  PaperAirplaneIcon, 
   DocumentTextIcon,
   XMarkIcon,
   ArrowPathIcon,
   MicrophoneIcon
 } from '@heroicons/react/24/outline';
+import Image from 'next/image';
 
 export type DocumentFile = {
   id: string;
@@ -22,7 +25,7 @@ type Message = {
   id: string;
   content: string;
   isUser: boolean;
-  timestamp: string;
+  timestamp: Date;
 };
 
 const ChatbotPage = () => {
@@ -30,7 +33,7 @@ const ChatbotPage = () => {
     id: '1',
     content: 'Hello! Upload a document and ask a question about it. How can I help you today?',
     isUser: false,
-    timestamp: new Date().toISOString()
+    timestamp: new Date()
   }]);
 
   const [inputMessage, setInputMessage] = useState('');
@@ -38,6 +41,7 @@ const ChatbotPage = () => {
   const [uploadedFiles, setUploadedFiles] = useState<File[]>([]);
   const fileInputRef = useRef<HTMLInputElement>(null);
   const messagesEndRef = useRef<HTMLDivElement>(null);
+
   const [isClient, setIsClient] = useState(false);
 
   useEffect(() => {
@@ -51,7 +55,7 @@ const ChatbotPage = () => {
       id: Date.now().toString(),
       content: inputMessage,
       isUser: true,
-      timestamp: new Date().toISOString()
+      timestamp: new Date()
     };
 
     setMessages(prev => [...prev, userMessage]);
@@ -74,7 +78,7 @@ const ChatbotPage = () => {
           id: Date.now().toString(),
           content: data.answer || "No answer returned.",
           isUser: false,
-          timestamp: new Date().toISOString()
+          timestamp: new Date()
         };
         setMessages((prev) => [...prev, botResponse]);
       })
@@ -83,7 +87,7 @@ const ChatbotPage = () => {
           id: Date.now().toString(),
           content: `⚠️ Error: ${error.message}`,
           isUser: false,
-          timestamp: new Date().toISOString()
+          timestamp: new Date()
         };
         setMessages((prev) => [...prev, errorMsg]);
       })
@@ -99,7 +103,7 @@ const ChatbotPage = () => {
         id: Date.now().toString(),
         content: `File uploaded: ${file.name}`,
         isUser: false,
-        timestamp: new Date().toISOString()
+        timestamp: new Date()
       };
       setMessages(prev => [...prev, fileMessage]);
     }
@@ -113,19 +117,19 @@ const ChatbotPage = () => {
       handleSendMessage();
     }
   };
-
+  
   useEffect(() => {
     messagesEndRef.current?.scrollIntoView({ behavior: 'smooth' });
   }, [messages]);
 
   return (
-    <div className="flex flex-col h-screen bg-gray-900 text-white">
+    <div className="flex flex-col h-screen bg-gradient-to-br from-gray-900 to-gray-700 text-white">
       <div className="bg-gray-800 p-4 shadow-md flex items-center justify-between">
         <div className="flex items-center space-x-3">
           <div className="bg-blue-600 h-10 w-10 rounded-lg flex items-center justify-center">
             <DocumentTextIcon className="h-6 w-6" />
           </div>
-          <h1 className="text-xl font-bold">Legal RAG Chatbot</h1>
+          <h1 className="text-xl font-bold">RAG Chatbot</h1>
         </div>
         <div className="bg-blue-600 rounded-full px-4 py-1 text-sm">Document Assistant</div>
       </div>
@@ -147,23 +151,26 @@ const ChatbotPage = () => {
           <div key={message.id} className={`flex ${message.isUser ? 'justify-end' : 'justify-start'}`}>
             <div className={`max-w-3/4 rounded-lg px-4 py-2 ${message.isUser ? 'bg-blue-600' : 'bg-gray-700'}`}>
               <p className="whitespace-pre-wrap">{message.content}</p>
-              {isClient && (
-                <p className="text-xs opacity-70 mt-1">
-                  {new Date(message.timestamp).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}
-                </p>
-              )}
+                {isClient && (
+                  <p className="text-xs opacity-70 mt-1">
+                    {message.timestamp.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}
+                  </p>
+                )}
             </div>
           </div>
         ))}
+
         {isLoading && (
           <div className="flex justify-start">
             <div className="bg-gray-700 rounded-lg px-4 py-2 flex items-center space-x-2">
-              <ArrowPathIcon className="h-5 w-5 animate-spin" />
-              <span>Processing...</span>
+              {/* <ArrowPathIcon className="h-5 w-5 animate-spin" /> */}
+              <Gavel className="w-8 h-8 animate-bounce text-[#1A1F2C]" />
+              <span>Please wait I am getting the answer for you...</span>
             </div>
           </div>
         )}
         <div ref={messagesEndRef} />
+
       </div>
 
       <div className="bg-gray-800 p-4 border-t border-gray-700">

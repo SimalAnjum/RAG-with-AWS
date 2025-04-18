@@ -105,44 +105,6 @@ class DocumentRetriever:
         logger.info(f"Loaded {len(documents)} document(s)")
         return documents
 
-    def load_documents_from_json_and_text(self, json_folder: str, text_folder: str) -> List[Document]:
-        json_folder = Path(json_folder)
-        text_folder = Path(text_folder)
-        documents = []
-
-        for json_file in json_folder.glob("*.json"):
-            txt_file = text_folder / f"{json_file.stem}.txt"
-            if not txt_file.exists():
-                logger.warning(f"Missing .txt for {json_file.name}")
-                continue
-
-            with open(json_file, 'r', encoding='utf-8') as jf:
-                data = json.load(jf)
-
-            with open(txt_file, 'r', encoding='utf-8') as tf:
-                text = tf.read()
-
-            qa_pairs = data.get("qa_pairs", [])
-            for qa_pair in qa_pairs:
-                question = qa_pair.get("question")
-                answer = qa_pair.get("answer")
-
-                # Minimal metadata to avoid chunking issues
-                minimal_metadata = {
-                    "file_name": json_file.name,
-                    "document_id": data.get("document_id", json_file.stem),
-                    "question": question,
-                    "ground_truth": answer 
-                }
-
-                documents.append(Document(
-                    text=text,
-                    metadata=minimal_metadata
-                ))
-
-        logger.info(f"Loaded {len(documents)} documents with matching text and json")
-        return documents
-
     def build_index(self, 
                    documents: List[Document], 
                    chunk_size: int = 2048, 
@@ -314,7 +276,7 @@ def clean_answer(text):
 def generate_answer(context_chunks, question, model="meta-llama/Llama-3.3-70B-Instruct-Turbo"):
     context_text = "\n\n".join(chunk["text"] for chunk in context_chunks)
     prompt = f"""
-            Answer the following legal question based only on the provided context. Be concise and do not include unnecessary commentary or sign-offs.
+            Answer the following legal question based only on the provided context. Be concise limit responses to 5 sentences at max and do not include unnecessary commentary or sign-offs.
 
             Context:
             {context_text}
@@ -328,14 +290,15 @@ def generate_answer(context_chunks, question, model="meta-llama/Llama-3.3-70B-In
         response = together.Completion.create(
             model=model,
             prompt=prompt,
-            max_tokens=700,
+            max_tokens=250,
             temperature=0.3,
             top_p=0.9,
-            stop=["\n\n", "Best regards", "Thank you"]
+            stop=["Best regards", "Thank you"]
         )
         return clean_answer(response.choices[0].text.strip())
     except Exception as e:
         return f"⚠️ Error generating answer: {str(e)}"
+
 
 @app.post("/rag")
 async def rag_endpoint(file: UploadFile, query: str = Form(...)):
@@ -344,16 +307,25 @@ async def rag_endpoint(file: UploadFile, query: str = Form(...)):
     with open(temp_path, "wb") as f:
         shutil.copyfileobj(file.file, f)
 
+    # retriever = DocumentRetriever()
+    # if retriever.load_index() is None:
+    #     docs = retriever.load_documents(temp_path)
+    #     retriever.build_index(docs)
+
     retriever = DocumentRetriever()
-    if retriever.load_index() is None:
-        docs = retriever.load_documents(temp_path)
-        retriever.build_index(docs)
+    docs = retriever.load_documents(temp_path)
+    retriever.build_index(docs)
+
 
     context = retriever.retrieve_context(query)
     answer = generate_answer(context["retrieved_chunks"], query)
     return JSONResponse(content={"answer": answer})
 
+
 if __name__ == "__main__":
     load_dotenv()
-    together.api_key = os.getenv("TOGETHER_API_KEY")
+    # together.api_key = os.getenv("TOGETHER_API_KEY")
+    # import together
+    together.api_key = "0c3589a1a04fca96cedfd1cf2b9b5afe008d2a78edfcda98254e2f6193bfbafb"
+
     uvicorn.run(app, host="0.0.0.0", port=8000)
