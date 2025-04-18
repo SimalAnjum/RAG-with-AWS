@@ -93,14 +93,14 @@ The application consists of two main parts: a frontend and a backend API service
 * **Prerequisites:**
     * Ensure you have Node.js and npm installed for the frontend.
     * Ensure you have Python installed with the necessary libraries for the backend (these are listed in the `requirements.txt` file, which is installed using `pip install -r requirements.txt`).
-    * Ensure you have a `.env` file in the **same directory as `final.py`** containing your Together AI API key:
+    * Ensure you put your Together AI API key in the `.env` file:
         ```dotenv
         TOGETHER_API_KEY=your_api_key_here
         ```
 
 * **Running the Backend API:**
     * Navigate to the directory where `final.py` is located in your terminal.
-    * Start the FastAPI server using uvicorn:
+    * Start the FastAPI server:
         ```bash
         python final.py
         ```
@@ -178,7 +178,6 @@ The evaluation returns an aggregated report summarizing all metrics.
 ### 10. Credits
 
 - CUAD Dataset: [Contract Understanding Atticus Dataset](https://huggingface.co/datasets/cuad)
-- Sentence-Transformers: [MiniLM model](https://www.sbert.net/docs/pretrained_models.html)
 
 ---
 
