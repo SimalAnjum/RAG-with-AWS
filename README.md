@@ -6,20 +6,21 @@
 
 ### 1. Introduction
 
-This project implements a basic **Retrieval-Augmented Generation (RAG)** system that allows users to ask questions about a legal contracts dataset (CUAD) and get contextually accurate answers. It uses **sentence-transformer embeddings**, **FAISS** for retrieval, and a **language model API** to generate answers based on retrieved context.
+This project implements a basic **Retrieval-Augmented Generation (RAG)** system. It allows users to ask questions about the content of **uploaded documents (PDF/TXT) and get contextually accurate answers derived directly from that content. It utilises **Sentence-Transformer based embeddings** (specifically the BAAI/bge-small-en-v1.5 model via LlamaIndex's HuggingFace integration) for representing text, uses **LlamaIndex** for building a searchable vector index and performing information retrieval, and leverages a **language model API** (like Together AI) to generate answers based on the retrieved context.
 
-The system is designed as a prototype for industries like **legal** and **compliance**, where rapid and accurate information retrieval from large document repositories is critical.
-
+The system serves as a prototype for applications requiring accurate information retrieval and question answering from structured document collections, applicable to various domains including potentially **legal** and **compliance**, where efficiently extracting information from large document sets is crucial.
 ---
 
 ### 2. Features
 
-- **Document Embedding:** Uses `all-MiniLM-L6-v2` model from Sentence-Transformers.
-- **Vector Retrieval:** Indexes documents using **FAISS** for fast similarity search.
-- **RAG Pipeline:** Combines retrieved documents with user queries and feeds into an LLM.
-- **Dataset Support:** Built specifically around the **CUAD (Contract Understanding Atticus Dataset)**.
-- **Simple Testing:** Provides basic scripts to test retrieval and answering.
-- **Comprehensive Evaluation:** Implements multiple evaluation metrics to assess system performance.
+-   **Document Embedding:** Uses the `BAAI/bge-small-en-v1.5` model via LlamaIndex's integration with HuggingFace embeddings (which typically uses the Sentence-Transformers library underneath for local models).
+-   **Vector Indexing & Retrieval:** Indexes and retrieves document chunks using **LlamaIndex**'s `VectorStoreIndex` and retriever components for efficient similarity search based on embeddings.
+-   **Flexible Document Loading:** Supports loading content from individual **PDF** (using PyMuPDFReader) and **TXT** files, as well as structured data from paired **JSON and TXT** files.
+-   **RAG Pipeline:** Implements the core Retrieval-Augmented Generation pipeline by combining retrieved document contexts with user queries and sending them to a Language Model (LLM) via an API.
+-   **Language Model Integration:** Connects to a powerful LLM (like `meta-llama/Llama-3.3-70B-Instruct-Turbo` as configured) via the **Together AI API** for generating answers.
+-   **Web API Interface:** Provides a **FastAPI** endpoint (`/rag`) for easy programmatic interaction, allowing users to upload files and submit queries.
+-   **Persistent Index Storage:** Can persist the created document index to disk (`./storage` directory by default) to avoid re-indexing every time the application runs.
+-   **Contextual Answering:** Generates answers that are strictly based on the provided context from the retrieved document chunks.
 
 ---
 
