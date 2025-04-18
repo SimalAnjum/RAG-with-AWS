@@ -6,7 +6,7 @@
 
 ### 1. Introduction
 
-This project implements a basic **Retrieval-Augmented Generation (RAG)** system. It allows users to ask questions about the content of **uploaded documents (PDF/TXT) and get contextually accurate answers derived directly from that content. It utilises **Sentence-Transformer based embeddings** (specifically the BAAI/bge-small-en-v1.5 model via LlamaIndex's HuggingFace integration) for representing text, uses **LlamaIndex** for building a searchable vector index and performing information retrieval, and leverages a **language model API** (like Together AI) to generate answers based on the retrieved context.
+This project implements a basic **Retrieval-Augmented Generation (RAG)** system. It allows users to ask questions about the content of uploaded documents (PDF/TXT) and get contextually accurate answers derived directly from that content. It utilises **Sentence-Transformer based embeddings** (specifically the BAAI/bge-small-en-v1.5 model via LlamaIndex's HuggingFace integration) for representing text, uses **LlamaIndex** for building a searchable vector index and performing information retrieval, and leverages a **language model API** (like Together AI) to generate answers based on the retrieved context.
 
 The system serves as a prototype for applications requiring accurate information retrieval and question answering from structured document collections, applicable to various domains including potentially **legal** and **compliance**, where efficiently extracting information from large document sets is crucial.
 
