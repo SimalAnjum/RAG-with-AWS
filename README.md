@@ -112,14 +112,20 @@ The evaluation returns an aggregated report summarizing all metrics.
 
 ### 7. Technologies Used
 
-| Component            | Library / Tool                      |
-|:---------------------|:-------------------------------------|
-| Embedding             | Sentence-Transformers (MiniLM, BGE-small) |
-| Vector Retrieval      | FAISS (CPU version)                  |
-| Language Model API    | Together API                         |
-| Dataset Management    | Huggingface Datasets (CUAD)           |
-| Evaluation Metrics    | Scikit-learn, ROUGE, BERTScore, Sentence-Transformers |
-| Preprocessing         | JSON, Python                         |
+| Component                 | Library / Tool                                       |
+| :------------------------ | :--------------------------------------------------- |
+| Web Framework & API       | FastAPI                                              |
+| ASGI Server               | Uvicorn                                              |
+| Document Loading (PDF)    | LlamaIndex (specifically PyMuPDFReader)              |
+| Document Loading (TXT)    | Python Standard I/O, pathlib                         |
+| Document Chunking         | LlamaIndex (SentenceSplitter)                        |
+| Embedding Model           | HuggingFace Embedding (using BAAI/bge-small-en-v1.5) |
+| Embedding Library         | Sentence-Transformers (underlying library for HF local embeddings) |
+| Vector Indexing & Storage | LlamaIndex (VectorStoreIndex, StorageContext)        |
+| Information Retrieval     | LlamaIndex (Retriever)                               |
+| Language Model API        | Together API (using model Llama-3.3-70B-Instruct-Turbo) |
+| Environment Variables     | python-dotenv                                        |
+| Utility Functions         | Python Standard Library (e.g., json, shutil, logging, pathlib) |
 
 ---
 
