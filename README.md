@@ -68,10 +68,14 @@ python utils/preprocess_cuad.py
 3. **Run the RAG System**
 
 ```bash
-python final.py
+uvicorn final:app --reload --port 8000
 ```
+4. **Run the frontend development server**
+   ```bash
+        npm run dev
+   ```
 
-4. **Evaluate the System**
+5. **Evaluate the System**
 
 ```bash
 python test.py
