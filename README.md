@@ -75,7 +75,7 @@ python final.py
 
 4. **Run the frontend development server**
    ```bash
-        npm run dev
+   npm run dev
    ```
 
 5. **Evaluate the System**
