@@ -44,7 +44,7 @@ RAG-with-AWS-main/
 ### 4. Setup Instructions
 
 #### Prerequisites
-- Python 3.8+
+- Python 3.11
 - Install required libraries:
 
 ```bash
