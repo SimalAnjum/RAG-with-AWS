@@ -324,8 +324,6 @@ async def rag_endpoint(file: UploadFile, query: str = Form(...)):
 
 if __name__ == "__main__":
     load_dotenv()
-    # together.api_key = os.getenv("TOGETHER_API_KEY")
-    # import together
-    together.api_key = "0c3589a1a04fca96cedfd1cf2b9b5afe008d2a78edfcda98254e2f6193bfbafb"
+    together.api_key = os.getenv("TOGETHER_API_KEY")
 
     uvicorn.run(app, host="0.0.0.0", port=8000)
