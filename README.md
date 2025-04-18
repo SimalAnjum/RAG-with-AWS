@@ -106,7 +106,7 @@ python utils/preprocess_cuad.py
 ---
 
 ## 🚀 Run the RAG System
-> **Note:** You can also just click run python file if usinf VScode as your IDE
+> **Note:** You can also just click run python file (in the dropdown for the play button on the top right) if using VScode as your IDE
 ```bash
 python final.py
 ```
@@ -126,7 +126,7 @@ npm run dev
 ---
 
 ## ✅ Evaluate the System
-
+> **Note:** You can also just click run python file (in the dropdown for the play button on the top right) if using VScode as your IDE
 ```bash
 python test.py
 ```
