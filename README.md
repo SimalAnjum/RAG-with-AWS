@@ -100,9 +100,6 @@ The system supports comprehensive evaluation of Q&A quality using multiple metri
 | Exact Match (EM)           | Checks if the generated answer exactly matches the ground truth answer. |
 | F1 Score                   | Measures overlap between generated and true answers, combining precision and recall. |
 | Mean Reciprocal Rank (MRR) | Evaluates the rank position of the correct answer in retrieved results. |
-| ROUGE-L                    | Evaluates the longest common subsequence overlap between prediction and ground truth. |
-| Semantic Similarity (Cosine) | Computes embedding-based similarity between answers using Sentence-Transformers. |
-| Gold Match Rate            | Checks whether the ground truth is fully contained inside the generated answer. |
 | BERT Precision, Recall, F1 | Computes fine-grained semantic matching scores using BERT embeddings. |
 
 **Evaluation Script:**  
