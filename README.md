@@ -29,6 +29,7 @@ The system serves as a prototype for applications requiring accurate information
 
 ```
 RAG-with-AWS-main/
+├── app/
 ├── datasets/
 │   └── cuad_raw/
 │       └── setup.py           # Script to download CUAD dataset
@@ -69,8 +70,9 @@ python utils/preprocess_cuad.py
 3. **Run the RAG System**
 
 ```bash
-uvicorn final:app --reload --port 8000
+python final.py
 ```
+
 4. **Run the frontend development server**
    ```bash
         npm run dev
