@@ -319,11 +319,13 @@ async def rag_endpoint(file: UploadFile, query: str = Form(...)):
 
     context = retriever.retrieve_context(query)
     answer = generate_answer(context["retrieved_chunks"], query)
-    return JSONResponse(content={"answer": answer})
+    # return JSONResponse(content={"answer": answer})
+    return JSONResponse(content={"answer": answer, "context": context["retrieved_chunks"]})
 
 
 if __name__ == "__main__":
     load_dotenv()
     together.api_key = os.getenv("TOGETHER_API_KEY")
+
 
     uvicorn.run(app, host="0.0.0.0", port=8000)
